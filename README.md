@@ -1,4 +1,5 @@
 # SA Global Group — Institutional Staging Environment
+https://scott-web-page-sa-group.vercel.app/
 
 A minimalist, high-end corporate institutional mockup built as a single-page, infinite-scroll static website. This project serves as a fully secured, liability-free staging preview designed with strict technical and structural guardrails.
 
