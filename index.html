@@ -1,893 +1,506 @@
 <!DOCTYPE html>
 <html lang="en" class="scroll-smooth">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>SA Global Group | Corporate Consulting &amp; Real Estate</title>
-  <meta name="description" content="SA Global Group specializes in corporate consulting, corporate real estate, oil and natural gas development, and cattle farming. Based in The Woodlands, TX." />
-  <meta name="robots" content="noindex, nofollow" />
-
-  <!-- Google Fonts -->
-  <link rel="preconnect" href="https://fonts.googleapis.com" />
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;0,800;1,400;1,500&family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet" />
-
-  <!-- Tailwind CSS CDN -->
-  <script src="https://cdn.tailwindcss.com"></script>
-  <script>
-    tailwind.config = {
-      theme: {
-        extend: {
-          fontFamily: {
-            serif: ['Playfair Display', 'Georgia', 'serif'],
-            sans: ['Inter', 'system-ui', 'sans-serif'],
-          },
-          animation: {
-            'fade-in-up': 'fadeInUp 0.8s ease-out forwards',
-            'fade-in': 'fadeIn 1s ease-out forwards',
-          },
-          keyframes: {
-            fadeInUp: {
-              '0%': { opacity: '0', transform: 'translateY(24px)' },
-              '100%': { opacity: '1', transform: 'translateY(0)' },
-            },
-            fadeIn: {
-              '0%': { opacity: '0' },
-              '100%': { opacity: '1' },
-            }
-          }
-        }
-      }
-    };
-  </script>
-
-  <style>
-    body {
-      font-family: 'Inter', system-ui, sans-serif;
-      background-color: #ffffff;
-      color: #0f172a;
-      -webkit-font-smoothing: antialiased;
-    }
-    h1, h2, h3, h4, h5 {
-      font-family: 'Playfair Display', Georgia, serif;
-    }
-    [id] {
-      scroll-margin-top: 80px;
-    }
-    .nav-link {
-      position: relative;
-      transition: color 0.25s ease;
-    }
-    .nav-link::after {
-      content: '';
-      position: absolute;
-      bottom: -3px;
-      left: 0;
-      width: 0;
-      height: 1px;
-      background: #94a3b8;
-      transition: width 0.3s ease;
-    }
-    .nav-link:hover::after {
-      width: 100%;
-    }
-    .hero-rule {
-      width: 60px;
-      height: 2px;
-      background: linear-gradient(90deg, #94a3b8, transparent);
-      flex-shrink: 0;
-    }
-    .card-lift {
-      transition: transform 0.3s ease, box-shadow 0.3s ease;
-    }
-    .card-lift:hover {
-      transform: translateY(-4px);
-      box-shadow: 0 20px 60px -10px rgba(15,23,42,0.10);
-    }
-    .ornament-divider {
-      display: flex;
-      align-items: center;
-      gap: 16px;
-    }
-    .ornament-divider::before,
-    .ornament-divider::after {
-      content: '';
-      flex: 1;
-      height: 1px;
-      background: #e2e8f0;
-    }
-    .hero-bg {
-      background-image:
-        linear-gradient(to bottom, rgba(255,255,255,0.05) 0%, rgba(255,255,255,0.60) 55%, rgba(255,255,255,1) 100%),
-        url('./assets/649086863_122225821406285645_3219642902413552605_n.jpg');
-      background-size: cover;
-      background-position: center top;
-      background-attachment: fixed;
-    }
-    @media (max-width: 768px) {
-      .hero-bg {
-        background-attachment: scroll;
-      }
-    }
-    .reveal {
-      opacity: 0;
-      transform: translateY(20px);
-      transition: opacity 0.7s ease, transform 0.7s ease;
-    }
-    .reveal.visible {
-      opacity: 1;
-      transform: translateY(0);
-    }
-    .form-input {
-      width: 100%;
-      border: 1px solid #cbd5e1;
-      border-radius: 2px;
-      padding: 12px 16px;
-      font-family: 'Inter', sans-serif;
-      font-size: 14px;
-      color: #0f172a;
-      background: #ffffff;
-      transition: border-color 0.2s ease, box-shadow 0.2s ease;
-      outline: none;
-    }
-    .form-input:focus {
-      border-color: #94a3b8;
-      box-shadow: 0 0 0 3px rgba(148,163,184,0.15);
-    }
-    .form-input::placeholder {
-      color: #94a3b8;
-    }
-    #dom-watermark {
-      position: absolute;
-      inset: 0;
-      z-index: -1;
-      opacity: 0;
-      overflow: hidden;
-      color: transparent;
-      user-select: none;
-      pointer-events: none;
-      font-size: 10px;
-      line-height: 1.4;
-      word-break: break-all;
-    }
-  </style>
-</head>
-
-<body class="bg-white text-slate-900 font-sans overflow-x-hidden">
-
-  <!-- INVISIBLE DOM WATERMARK WRAPPER -->
-  <div class="relative" style="min-height:100vh;">
-
-    <!-- Invisible Watermark Layer -->
-    <div id="dom-watermark" aria-hidden="true" class="text-transparent select-none"></div>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SA Global Group | Corporate Consulting & Real Estate</title>
+    <meta name="description" content="SA Global Group specializing in corporate consulting, corporate real estate, oil and natural gas development, and cattle farming.">
+    
+    <!-- Google Fonts: Playfair Display & Inter -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&family=Playfair+Display:ital,wght@0,400;0,600;0,700;1,400;1,600&display=swap" rel="stylesheet">
+    
+    <!-- Tailwind CSS -->
+    <script src="https://cdn.tailwindcss.com"></script>
     <script>
-      (function() {
-        var wm = document.getElementById('dom-watermark');
-        var fragment = document.createDocumentFragment();
-        for (var i = 0; i < 200; i++) {
-          var span = document.createElement('span');
-          span.textContent = 'CONCEPTUAL MOCKUP - NO LEGAL ENTITY ';
-          fragment.appendChild(span);
+        tailwind.config = {
+            theme: {
+                extend: {
+                    fontFamily: {
+                        sans: ['Inter', 'sans-serif'],
+                        serif: ['Playfair Display', 'serif'],
+                    },
+                    colors: {
+                        slate: {
+                            50: '#f8fafc',
+                            100: '#f1f5f9',
+                            200: '#e2e8f0',
+                            300: '#cbd5e1',
+                            400: '#94a3b8',
+                            500: '#64748b',
+                            600: '#475569',
+                            700: '#334155',
+                            800: '#1e293b',
+                            900: '#0f172a',
+                        }
+                    },
+                    animation: {
+                        'fade-in': 'fadeIn 1s ease-out forwards',
+                        'slide-up': 'slideUp 0.8s cubic-bezier(0.16, 1, 0.3, 1) forwards',
+                    },
+                    keyframes: {
+                        fadeIn: {
+                            '0%': { opacity: '0' },
+                            '100%': { opacity: '1' },
+                        },
+                        slideUp: {
+                            '0%': { opacity: '0', transform: 'translateY(30px)' },
+                            '100%': { opacity: '1', transform: 'translateY(0)' },
+                        }
+                    }
+                }
+            }
         }
-        wm.appendChild(fragment);
-      })();
     </script>
 
-    <!-- ═══════════════════════════════════════════════════
-         STICKY TOP NAVIGATION
-    ═══════════════════════════════════════════════════ -->
-    <header id="main-nav" class="fixed top-0 left-0 right-0 z-50 bg-white border-b border-slate-200">
-      <div class="max-w-7xl mx-auto px-6 lg:px-12">
-        <nav class="flex items-center justify-between h-20">
+    <style>
+        /* Smooth scrolling padding for fixed nav */
+        html { scroll-padding-top: 5rem; }
+        
+        /* Premium typography tweaks */
+        body { -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
+        h1, h2, h3, h4, h5, h6 { text-wrap: balance; }
+        p { text-wrap: pretty; }
 
-          <!-- Logo -->
-          <a href="#sa-global" class="flex items-center gap-3 flex-shrink-0" aria-label="SA Global Group Home">
-            <img
-              src="./assets/logo-2-615928933_122219945174285645_6484614006341462860_n.jpg"
-              alt="SA Global Group Logo"
-              class="h-12 w-auto object-contain"
-              loading="eager"
-            />
-            <div class="hidden sm:block">
-              <p class="font-serif text-slate-900 font-semibold text-base leading-tight tracking-wide">SA Global Group</p>
-              <p class="text-slate-400 text-xs tracking-widest uppercase font-medium">Corporate &amp; Real Estate</p>
+        /* Custom Scrollbar */
+        ::-webkit-scrollbar { width: 8px; }
+        ::-webkit-scrollbar-track { background: #f8fafc; }
+        ::-webkit-scrollbar-thumb { background: #cbd5e1; border-radius: 4px; }
+        ::-webkit-scrollbar-thumb:hover { background: #94a3b8; }
+
+        /* Parallax Hero Background */
+        .hero-bg {
+            background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0.1), rgba(248, 250, 252, 1) 90%), url('./assets/649086863_122225821406285645_3219642902413552605_n.jpg');
+            background-size: cover;
+            background-position: center top;
+            background-attachment: fixed;
+        }
+
+        /* Mobile Scroll Fix for Background Attachment */
+        @media (max-width: 768px) {
+            .hero-bg {
+                background-attachment: scroll;
+            }
+        }
+
+        /* Micro-interactions */
+        .hover-lift { transition: transform 0.4s cubic-bezier(0.16, 1, 0.3, 1), box-shadow 0.4s cubic-bezier(0.16, 1, 0.3, 1); }
+        .hover-lift:hover { transform: translateY(-8px); box-shadow: 0 20px 40px -10px rgba(15, 23, 42, 0.08); }
+        
+        .nav-link { position: relative; }
+        .nav-link::after {
+            content: ''; position: absolute; width: 0; height: 1px; bottom: -2px; left: 0;
+            background-color: #0f172a; transition: width 0.3s ease;
+        }
+        .nav-link:hover::after { width: 100%; }
+
+        /* Initial state for scroll reveals */
+        .reveal { opacity: 0; transform: translateY(20px); transition: all 0.8s cubic-bezier(0.16, 1, 0.3, 1); }
+        .reveal.active { opacity: 1; transform: translateY(0); }
+    </style>
+</head>
+<body class="bg-slate-50 text-slate-900 font-sans relative">
+
+    <!-- INVISIBLE DOM WATERMARK -->
+    <div class="relative w-full min-h-screen overflow-hidden flex flex-col">
+        <div id="watermark-layer" class="inset-0 absolute z-[-1] opacity-50 overflow-hidden text-transparent select-none pointer-events-none"></div>
+        <script>
+            const wmContainer = document.getElementById('watermark-layer');
+            let wmHtml = '';
+            for(let i = 0; i < 200; i++) {
+                wmHtml += '<span>CONCEPTUAL MOCKUP - NO LEGAL ENTITY </span>';
+            }
+            wmContainer.innerHTML = wmHtml;
+        </script>
+
+        <!-- STICKY NAVIGATION -->
+        <nav class="fixed top-0 left-0 w-full bg-white/90 backdrop-blur-md border-b border-slate-200 z-50 transition-all duration-300" id="navbar">
+            <div class="max-w-7xl mx-auto px-6 md:px-12 h-20 flex items-center justify-between">
+                <a href="#sa-global" class="flex items-center gap-4 group">
+                    <img src="./assets/logo-2-615928933_122219945174285645_6484614006341462860_n.jpg" alt="SA Global Group Logo" class="h-10 w-auto object-contain transition-transform duration-500 group-hover:scale-105">
+                    <div class="hidden sm:block">
+                        <h1 class="font-serif text-lg font-bold leading-none tracking-tight text-slate-900">SA Global Group</h1>
+                        <span class="text-[0.65rem] uppercase tracking-[0.2em] text-slate-400 font-medium">Corporate Consulting</span>
+                    </div>
+                </a>
+
+                <!-- Desktop Nav -->
+                <div class="hidden md:flex items-center gap-8 text-sm font-medium text-slate-600">
+                    <a href="#sa-global" class="nav-link hover:text-slate-900 transition-colors">Overview</a>
+                    <a href="#operations" class="nav-link hover:text-slate-900 transition-colors">Operations</a>
+                    <a href="#portfolio" class="nav-link hover:text-slate-900 transition-colors">Portfolio</a>
+                    <a href="#contact" class="nav-link hover:text-slate-900 transition-colors">Contact</a>
+                    
+                    <a href="#" class="js-report-request ml-4 px-6 py-2.5 bg-slate-900 text-white hover:bg-slate-800 transition-all duration-300 shadow-sm hover:shadow-md text-xs uppercase tracking-widest flex items-center gap-2 group">
+                        Perspectives Report
+                        <svg class="w-3 h-3 group-hover:translate-x-1 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path></svg>
+                    </a>
+                </div>
+
+                <!-- Mobile Menu Button -->
+                <button class="md:hidden text-slate-900 focus:outline-none p-2" id="mobile-menu-btn">
+                    <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M4 6h16M4 12h16M4 18h16"></path></svg>
+                </button>
             </div>
-          </a>
 
-          <!-- Desktop Nav Links -->
-          <div class="hidden lg:flex items-center gap-10">
-            <a href="#sa-global" class="nav-link text-slate-600 hover:text-slate-900 text-sm font-medium tracking-wide transition-colors">Overview</a>
-            <a href="#operations" class="nav-link text-slate-600 hover:text-slate-900 text-sm font-medium tracking-wide transition-colors">Operations</a>
-            <a href="#portfolio" class="nav-link text-slate-600 hover:text-slate-900 text-sm font-medium tracking-wide transition-colors">Portfolio</a>
-            <a href="#contact" class="nav-link text-slate-600 hover:text-slate-900 text-sm font-medium tracking-wide transition-colors">Contact</a>
-          </div>
-
-          <!-- CTA -->
-          <a
-            href="#"
-            id="nav-cta-btn"
-            class="js-report-request hidden sm:inline-flex items-center gap-2 border border-slate-300 text-slate-700 text-sm font-medium px-5 py-2.5 tracking-wide hover:bg-slate-900 hover:text-white hover:border-slate-900 transition-all duration-300"
-          >
-            <svg xmlns="http://www.w3.org/2000/svg" class="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="1.5"><path stroke-linecap="round" stroke-linejoin="round" d="M19.5 14.25v-2.625a3.375 3.375 0 00-3.375-3.375h-1.5A1.125 1.125 0 0113.5 7.125v-1.5a3.375 3.375 0 00-3.375-3.375H8.25m.75 12l3 3m0 0l3-3m-3 3v-6m-1.5-9H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 00-9-9z" /></svg>
-            Perspectives Report
-          </a>
-
-          <!-- Mobile Hamburger -->
-          <button id="mobile-menu-btn" class="lg:hidden p-2 text-slate-600 hover:text-slate-900 transition-colors" aria-label="Toggle navigation">
-            <svg id="menu-icon-open" xmlns="http://www.w3.org/2000/svg" class="w-6 h-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="1.5">
-              <path stroke-linecap="round" stroke-linejoin="round" d="M3.75 6.75h16.5M3.75 12h16.5m-16.5 5.25h16.5" />
-            </svg>
-            <svg id="menu-icon-close" xmlns="http://www.w3.org/2000/svg" class="w-6 h-6 hidden" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="1.5">
-              <path stroke-linecap="round" stroke-linejoin="round" d="M6 18L18 6M6 6l12 12" />
-            </svg>
-          </button>
+            <!-- Mobile Menu Dropdown -->
+            <div class="md:hidden hidden absolute top-20 left-0 w-full bg-white border-b border-slate-200 shadow-xl" id="mobile-menu">
+                <div class="flex flex-col px-6 py-4 space-y-4 text-sm font-medium text-slate-600">
+                    <a href="#sa-global" class="mobile-link hover:text-slate-900 transition-colors border-b border-slate-100 pb-2">Overview</a>
+                    <a href="#operations" class="mobile-link hover:text-slate-900 transition-colors border-b border-slate-100 pb-2">Operations</a>
+                    <a href="#portfolio" class="mobile-link hover:text-slate-900 transition-colors border-b border-slate-100 pb-2">Portfolio</a>
+                    <a href="#contact" class="mobile-link hover:text-slate-900 transition-colors border-b border-slate-100 pb-2">Contact</a>
+                    <a href="#" class="js-report-request text-slate-900 font-semibold py-2">Perspectives Report &rarr;</a>
+                </div>
+            </div>
         </nav>
-      </div>
 
-      <!-- Mobile Menu Dropdown -->
-      <div id="mobile-menu" class="hidden lg:hidden bg-white border-t border-slate-100 px-6 py-6 space-y-4">
-        <a href="#sa-global" class="block text-slate-700 font-medium text-base py-2 border-b border-slate-100 hover:text-slate-900 transition-colors">Overview</a>
-        <a href="#operations" class="block text-slate-700 font-medium text-base py-2 border-b border-slate-100 hover:text-slate-900 transition-colors">Operations</a>
-        <a href="#portfolio" class="block text-slate-700 font-medium text-base py-2 border-b border-slate-100 hover:text-slate-900 transition-colors">Portfolio</a>
-        <a href="#contact" class="block text-slate-700 font-medium text-base py-2 border-b border-slate-100 hover:text-slate-900 transition-colors">Contact</a>
-        <a href="#" class="js-report-request block text-slate-700 font-medium text-base py-2 hover:text-slate-900 transition-colors">Perspectives Report (PDF)</a>
-      </div>
-    </header>
+        <!-- SECTION 1: HERO -->
+        <section id="sa-global" class="hero-bg min-h-screen pt-32 pb-20 px-6 md:px-12 flex items-center relative">
+            <div class="max-w-7xl mx-auto w-full z-10 animate-slide-up">
+                
+                <div class="inline-flex items-center gap-3 mb-8 px-4 py-1.5 bg-white/80 backdrop-blur-sm border border-slate-200 shadow-sm text-xs font-semibold tracking-[0.15em] text-slate-500 uppercase rounded-full">
+                    <span class="w-1.5 h-1.5 rounded-full bg-slate-900 animate-pulse"></span>
+                    Established 2020
+                </div>
 
-    <!-- ═══════════════════════════════════════════════════
-         SECTION 1: HERO — SA GLOBAL GROUP
-    ═══════════════════════════════════════════════════ -->
-    <section id="sa-global" class="hero-bg pt-20 min-h-screen flex flex-col">
-
-      <!-- Top address bar -->
-      <div class="border-b border-slate-200 bg-white bg-opacity-90">
-        <div class="max-w-7xl mx-auto px-6 lg:px-12 py-3 flex flex-col sm:flex-row items-start sm:items-center justify-between gap-2">
-          <div class="flex items-center gap-2 text-xs text-slate-500 tracking-widest uppercase font-medium">
-            <svg xmlns="http://www.w3.org/2000/svg" class="w-3.5 h-3.5 text-slate-400 flex-shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="1.5"><path stroke-linecap="round" stroke-linejoin="round" d="M15 10.5a3 3 0 11-6 0 3 3 0 016 0z" /><path stroke-linecap="round" stroke-linejoin="round" d="M19.5 10.5c0 7.142-7.5 11.25-7.5 11.25S4.5 17.642 4.5 10.5a7.5 7.5 0 1115 0z" /></svg>
-            <span>2103 Research Forest Dr, The Woodlands, TX 77380</span>
-          </div>
-          <a
-            href="https://www.facebook.com/profile.php?id=61558569372612&amp;locale=zh_CN#"
-            target="_blank"
-            rel="noopener noreferrer"
-            id="hero-facebook-link"
-            class="js-unofficial-link flex items-center gap-1.5 text-xs text-slate-500 hover:text-slate-700 tracking-widest uppercase font-medium transition-colors"
-          >
-            <svg xmlns="http://www.w3.org/2000/svg" class="w-3.5 h-3.5" viewBox="0 0 24 24" fill="currentColor"><path d="M24 12.073c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.99 4.388 10.954 10.125 11.854v-8.385H7.078v-3.47h3.047V9.43c0-3.007 1.792-4.669 4.533-4.669 1.312 0 2.686.235 2.686.235v2.953H15.83c-1.491 0-1.956.925-1.956 1.874v2.25h3.328l-.532 3.47h-2.796v8.385C19.612 23.027 24 18.062 24 12.073z"/></svg>
-            SA Global on Facebook
-          </a>
-        </div>
-      </div>
-
-      <!-- Hero Content -->
-      <div class="flex-1 flex items-center">
-        <div class="max-w-7xl mx-auto px-6 lg:px-12 py-24 lg:py-36 w-full">
-          <div class="max-w-3xl">
-
-            <!-- Overline -->
-            <div class="flex items-center gap-4 mb-8">
-              <div class="hero-rule"></div>
-              <span class="text-xs font-medium tracking-[0.25em] uppercase text-slate-500">Est. 2020 &nbsp;&middot;&nbsp; The Woodlands, Texas</span>
-            </div>
-
-            <!-- Primary Heading -->
-            <h1 class="font-serif text-5xl sm:text-6xl lg:text-7xl xl:text-8xl font-bold text-slate-900 leading-[1.05] tracking-tight mb-8">
-              SA Global<br />
-              <span class="font-light italic text-slate-500">Group</span>
-            </h1>
-
-            <!-- Description -->
-            <p class="text-lg sm:text-xl text-slate-600 font-light leading-relaxed mb-4 max-w-xl">
-              Specializing in <strong class="font-semibold text-slate-800">corporate consulting</strong>, corporate real estate, oil and natural gas development, and cattle farming.
-            </p>
-
-            <!-- Address -->
-            <address class="not-italic mb-10 flex items-start gap-2 text-slate-500 text-sm">
-              <svg xmlns="http://www.w3.org/2000/svg" class="w-4 h-4 mt-0.5 flex-shrink-0 text-slate-400" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="1.5"><path stroke-linecap="round" stroke-linejoin="round" d="M15 10.5a3 3 0 11-6 0 3 3 0 016 0z" /><path stroke-linecap="round" stroke-linejoin="round" d="M19.5 10.5c0 7.142-7.5 11.25-7.5 11.25S4.5 17.642 4.5 10.5a7.5 7.5 0 1115 0z" /></svg>
-              <span>2103 Research Forest Dr, The Woodlands, TX 77380</span>
-            </address>
-
-            <!-- CTA Buttons -->
-            <div class="flex flex-col sm:flex-row items-start gap-4">
-              <a
-                href="#"
-                id="hero-cta-primary"
-                class="js-report-request inline-flex items-center gap-3 bg-slate-900 text-white text-sm font-semibold px-8 py-4 tracking-wide hover:bg-slate-700 transition-all duration-300 group"
-              >
-                <svg xmlns="http://www.w3.org/2000/svg" class="w-4 h-4 group-hover:translate-y-0.5 transition-transform" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="1.5"><path stroke-linecap="round" stroke-linejoin="round" d="M19.5 14.25v-2.625a3.375 3.375 0 00-3.375-3.375h-1.5A1.125 1.125 0 0113.5 7.125v-1.5a3.375 3.375 0 00-3.375-3.375H8.25m.75 12l3 3m0 0l3-3m-3 3v-6m-1.5-9H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 00-9-9z" /></svg>
-                Download Perspectives Report
-              </a>
-              <a
-                href="#operations"
-                id="hero-cta-secondary"
-                class="inline-flex items-center gap-3 border border-slate-300 text-slate-700 text-sm font-medium px-8 py-4 tracking-wide hover:border-slate-500 hover:text-slate-900 transition-all duration-300"
-              >
-                Our Operations
-                <svg xmlns="http://www.w3.org/2000/svg" class="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="1.5"><path stroke-linecap="round" stroke-linejoin="round" d="M19.5 8.25l-7.5 7.5-7.5-7.5" /></svg>
-              </a>
-            </div>
-          </div>
-        </div>
-      </div>
-
-      <!-- Stats Bar -->
-      <div class="bg-white border-t border-slate-200">
-        <div class="max-w-7xl mx-auto px-6 lg:px-12">
-          <div class="grid grid-cols-2 lg:grid-cols-4 divide-x divide-slate-200">
-            <div class="py-8 px-6 text-center">
-              <p class="font-serif text-3xl font-bold text-slate-900">2020</p>
-              <p class="text-xs text-slate-400 tracking-widest uppercase mt-1 font-medium">Established</p>
-            </div>
-            <div class="py-8 px-6 text-center">
-              <p class="font-serif text-3xl font-bold text-slate-900">120+</p>
-              <p class="text-xs text-slate-400 tracking-widest uppercase mt-1 font-medium">Years Combined Exp.</p>
-            </div>
-            <div class="py-8 px-6 text-center">
-              <p class="font-serif text-3xl font-bold text-slate-900">6+</p>
-              <p class="text-xs text-slate-400 tracking-widest uppercase mt-1 font-medium">Industry Verticals</p>
-            </div>
-            <div class="py-8 px-6 text-center">
-              <p class="font-serif text-3xl font-bold text-slate-900">TX</p>
-              <p class="text-xs text-slate-400 tracking-widest uppercase mt-1 font-medium">The Woodlands, Texas</p>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
-
-    <!-- ═══════════════════════════════════════════════════
-         SECTION 2: SA BUSINESS GROUP OPERATIONS
-    ═══════════════════════════════════════════════════ -->
-    <section id="operations" class="bg-slate-50 py-28 lg:py-36">
-      <div class="max-w-7xl mx-auto px-6 lg:px-12">
-
-        <!-- Section Header -->
-        <div class="reveal mb-20">
-          <div class="flex items-center gap-4 mb-6">
-            <div class="hero-rule"></div>
-            <span class="text-xs font-medium tracking-[0.25em] uppercase text-slate-400">SA Business Group</span>
-          </div>
-          <div class="grid lg:grid-cols-2 gap-16 items-end">
-            <div>
-              <h2 class="font-serif text-4xl sm:text-5xl lg:text-6xl font-bold text-slate-900 leading-tight">
-                Operations &amp;<br />
-                <span class="italic font-light text-slate-500">Our Expertise</span>
-              </h2>
-            </div>
-            <div>
-              <p class="text-slate-600 leading-relaxed text-lg font-light">
-                SA Business Group has been a trusted partner to clients since its establishment in 2020. With a steadfast commitment to excellence, opportunity, and client satisfaction, we have earned a distinguished reputation in the industry. Our dedicated team of executives and craft experts brings together a wealth of experience, boasting a combined tenure of over <strong class="text-slate-800 font-semibold">120 years</strong>.
-              </p>
-            </div>
-          </div>
-        </div>
-
-        <!-- Ornament -->
-        <div class="ornament-divider reveal mb-16">
-          <span class="font-serif italic text-slate-300 text-sm px-4">&middot; &middot; &middot;</span>
-        </div>
-
-        <!-- Expertise Block -->
-        <div class="reveal mb-24">
-          <div class="bg-white border border-slate-200 p-10 lg:p-14">
-            <div class="grid lg:grid-cols-3 gap-12">
-              <div class="lg:col-span-1">
-                <h3 class="font-serif text-2xl font-semibold text-slate-900 mb-3">Our Expertise</h3>
-                <div class="w-8 h-0.5 bg-slate-300 mb-4"></div>
-                <p class="text-slate-400 text-sm leading-relaxed">A comprehensive suite of executive management and development solutions.</p>
-              </div>
-              <div class="lg:col-span-2">
-                <p class="text-slate-600 leading-relaxed text-base mb-6">
-                  At SA Business Group, we specialize in Executive management, development solutions across a diverse range of industries. From Venture Capital and Oil and Gas, Engineering, Real Estate Investment &amp; Management, wireless Telecommunications, Banking, Jewelry, Automotive Sales, Marketing, Political Campaigning &mdash; our comprehensive services cater to the unique needs of our clients.
+                <h1 class="font-serif text-5xl md:text-7xl lg:text-8xl font-bold text-slate-900 leading-[1.05] tracking-tight mb-8 max-w-4xl">
+                    Defining Excellence in <span class="italic font-normal text-slate-700">Corporate Strategy.</span>
+                </h1>
+                
+                <p class="text-lg md:text-xl text-slate-600 font-light max-w-2xl leading-relaxed mb-10 border-l-4 border-slate-300 pl-6">
+                    SA Global Group specializing in corporate consulting, corporate real estate, oil and natural gas development, and cattle farming.
                 </p>
-                <p class="text-slate-600 leading-relaxed text-base mb-8">
-                  Whether they operate in the private or public sphere, we are dedicated to delivering results that exceed expectations.
-                </p>
-                <!-- Industry Tags -->
-                <div class="flex flex-wrap gap-2">
-                  <span class="border border-slate-200 text-slate-500 text-xs px-3 py-1.5 tracking-wide font-medium">Venture Capital</span>
-                  <span class="border border-slate-200 text-slate-500 text-xs px-3 py-1.5 tracking-wide font-medium">Oil &amp; Gas</span>
-                  <span class="border border-slate-200 text-slate-500 text-xs px-3 py-1.5 tracking-wide font-medium">Engineering</span>
-                  <span class="border border-slate-200 text-slate-500 text-xs px-3 py-1.5 tracking-wide font-medium">Real Estate</span>
-                  <span class="border border-slate-200 text-slate-500 text-xs px-3 py-1.5 tracking-wide font-medium">Telecommunications</span>
-                  <span class="border border-slate-200 text-slate-500 text-xs px-3 py-1.5 tracking-wide font-medium">Banking</span>
-                  <span class="border border-slate-200 text-slate-500 text-xs px-3 py-1.5 tracking-wide font-medium">Jewelry</span>
-                  <span class="border border-slate-200 text-slate-500 text-xs px-3 py-1.5 tracking-wide font-medium">Automotive Sales</span>
-                  <span class="border border-slate-200 text-slate-500 text-xs px-3 py-1.5 tracking-wide font-medium">Marketing</span>
-                  <span class="border border-slate-200 text-slate-500 text-xs px-3 py-1.5 tracking-wide font-medium">Political Campaigning</span>
+
+                <div class="flex flex-col sm:flex-row items-start sm:items-center gap-6 mb-16">
+                    <a href="#" class="js-report-request px-8 py-4 bg-slate-900 text-white font-medium hover:bg-slate-800 transition-all duration-300 flex items-center gap-3 group text-sm uppercase tracking-widest shadow-lg hover:shadow-xl">
+                        Request Report
+                        <svg class="w-4 h-4 group-hover:translate-x-1 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8l4 4m0 0l-4 4m4-4H3"></path></svg>
+                    </a>
+                    
+                    <a href="https://www.facebook.com/profile.php?id=61558569372612&locale=zh_CN#" class="js-unofficial-link flex items-center gap-2 text-sm font-semibold text-slate-600 hover:text-slate-900 transition-colors uppercase tracking-widest">
+                        <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 24 24"><path d="M22 12c0-5.52-4.48-10-10-10S2 6.48 2 12c0 4.84 3.44 8.87 8 9.8V15H8v-3h2V9.5C10 7.57 11.57 6 13.5 6H16v3h-2c-.55 0-1 .45-1 1v2h3v3h-3v6.95c5.05-.5 9-4.76 9-9.95z"/></svg>
+                        Global Facebook
+                    </a>
                 </div>
-              </div>
-            </div>
-          </div>
-        </div>
 
-        <!-- Why Choose Us — Cards -->
-        <div class="reveal mb-20">
-          <div class="text-center mb-14">
-            <span class="text-xs font-medium tracking-[0.25em] uppercase text-slate-400">Differentiators</span>
-            <h3 class="font-serif text-3xl sm:text-4xl font-semibold text-slate-900 mt-3">Why Choose SA Business Group?</h3>
-          </div>
-          <div class="grid md:grid-cols-3 gap-6">
-
-            <!-- Card 1 -->
-            <div class="card-lift bg-white border border-slate-200 p-8 group">
-              <div class="w-10 h-10 border border-slate-200 flex items-center justify-center mb-6 group-hover:border-slate-400 transition-colors">
-                <svg xmlns="http://www.w3.org/2000/svg" class="w-5 h-5 text-slate-400 group-hover:text-slate-600 transition-colors" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="1.5"><path stroke-linecap="round" stroke-linejoin="round" d="M11.48 3.499a.562.562 0 011.04 0l2.125 5.111a.563.563 0 00.475.345l5.518.442c.499.04.701.663.321.988l-4.204 3.602a.563.563 0 00-.182.557l1.285 5.385a.562.562 0 01-.84.61l-4.725-2.885a.563.563 0 00-.586 0L6.982 20.54a.562.562 0 01-.84-.61l1.285-5.386a.562.562 0 00-.182-.557l-4.204-3.602a.562.562 0 01.321-.988l5.518-.442a.563.563 0 00.475-.345L11.48 3.5z" /></svg>
-              </div>
-              <span class="text-xs font-medium tracking-widest uppercase text-slate-400 mb-3 block">01</span>
-              <h4 class="font-serif text-xl font-semibold text-slate-900 mb-4 leading-snug">Quality Service</h4>
-              <p class="text-slate-500 text-sm leading-relaxed">We prioritize quality in everything we do, from candidate selection to client partnerships. Our meticulous approach ensures that we match the right talent with the right opportunity, every time.</p>
-            </div>
-
-            <!-- Card 2 (featured) -->
-            <div class="card-lift bg-slate-900 border border-slate-900 p-8 group">
-              <div class="w-10 h-10 border border-slate-700 flex items-center justify-center mb-6 group-hover:border-slate-500 transition-colors">
-                <svg xmlns="http://www.w3.org/2000/svg" class="w-5 h-5 text-slate-400" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="1.5"><path stroke-linecap="round" stroke-linejoin="round" d="M2.25 18L9 11.25l4.306 4.307a11.95 11.95 0 015.814-5.519l2.74-1.22m0 0l-5.94-2.28m5.94 2.28l-2.28 5.941" /></svg>
-              </div>
-              <span class="text-xs font-medium tracking-widest uppercase text-slate-500 mb-3 block">02</span>
-              <h4 class="font-serif text-xl font-semibold text-white mb-4 leading-snug">Opportunity</h4>
-              <p class="text-slate-400 text-sm leading-relaxed">We believe in fostering growth and development for both our clients and candidates. By connecting talent with leading organizations, we create opportunities for success and advancement.</p>
-            </div>
-
-            <!-- Card 3 -->
-            <div class="card-lift bg-white border border-slate-200 p-8 group">
-              <div class="w-10 h-10 border border-slate-200 flex items-center justify-center mb-6 group-hover:border-slate-400 transition-colors">
-                <svg xmlns="http://www.w3.org/2000/svg" class="w-5 h-5 text-slate-400 group-hover:text-slate-600 transition-colors" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="1.5"><path stroke-linecap="round" stroke-linejoin="round" d="M15.182 15.182a4.5 4.5 0 01-6.364 0M21 12a9 9 0 11-18 0 9 9 0 0118 0zM9.75 9.75c0 .414-.168.75-.375.75S9 10.164 9 9.75 9.168 9 9.375 9s.375.336.375.75zm-.375 0h.008v.015h-.008V9.75zm5.625 0c0 .414-.168.75-.375.75s-.375-.336-.375-.75.168-.75.375-.75.375.336.375.75zm-.375 0h.008v.015h-.008V9.75z" /></svg>
-              </div>
-              <span class="text-xs font-medium tracking-widest uppercase text-slate-400 mb-3 block">03</span>
-              <h4 class="font-serif text-xl font-semibold text-slate-900 mb-4 leading-snug">Client Satisfaction</h4>
-              <p class="text-slate-500 text-sm leading-relaxed">Our commitment to client satisfaction is unwavering. We strive to not only meet but exceed our clients&rsquo; expectations, delivering exceptional service and results that drive their success.</p>
-            </div>
-          </div>
-        </div>
-
-        <!-- Mission & Vision -->
-        <div class="reveal grid lg:grid-cols-2 gap-6">
-          <div class="bg-white border-l-2 border-slate-300 border border-slate-200 p-10">
-            <div class="flex items-center gap-3 mb-6">
-              <svg xmlns="http://www.w3.org/2000/svg" class="w-5 h-5 text-slate-400" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="1.5"><path stroke-linecap="round" stroke-linejoin="round" d="M3 3l1.664 1.664M21 21l-1.5-1.5m-5.485-1.242L12 17.25 4.5 21V8.742m.164-4.078a2.15 2.15 0 011.743-1.342 48.507 48.507 0 0111.186 0c1.1.128 1.907 1.077 1.907 2.185V19.5M4.664 4.664L19.5 19.5" /></svg>
-              <h3 class="font-serif text-xl font-semibold text-slate-900 tracking-wide">Mission Statement</h3>
-            </div>
-            <blockquote class="text-slate-600 leading-relaxed text-base font-light italic">
-              &ldquo;Our mission at SA Business Group is to empower organizations and individuals to reach their full potential. Through strategic management and personalized service, we aim to be the catalyst for growth and success in the industries we serve.&rdquo;
-            </blockquote>
-          </div>
-
-          <div class="bg-slate-50 border-l-2 border-slate-300 border border-slate-200 p-10">
-            <div class="flex items-center gap-3 mb-6">
-              <svg xmlns="http://www.w3.org/2000/svg" class="w-5 h-5 text-slate-400" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="1.5"><path stroke-linecap="round" stroke-linejoin="round" d="M2.036 12.322a1.012 1.012 0 010-.639C3.423 7.51 7.36 4.5 12 4.5c4.638 0 8.573 3.007 9.963 7.178.07.207.07.431 0 .639C20.577 16.49 16.64 19.5 12 19.5c-4.638 0-8.573-3.007-9.963-7.178z" /><path stroke-linecap="round" stroke-linejoin="round" d="M15 12a3 3 0 11-6 0 3 3 0 016 0z" /></svg>
-              <h3 class="font-serif text-xl font-semibold text-slate-900 tracking-wide">Vision Statement</h3>
-            </div>
-            <blockquote class="text-slate-600 leading-relaxed text-base font-light italic">
-              &ldquo;Our vision is to be the premier recruitment partner of choice, renowned for our integrity, expertise, and unwavering commitment to excellence. We aspire to build lasting relationships based on trust, transparency, and mutual success.&rdquo;
-            </blockquote>
-          </div>
-        </div>
-
-      </div>
-    </section>
-
-    <!-- ═══════════════════════════════════════════════════
-         SECTION 3: PORTFOLIO ENTITIES
-    ═══════════════════════════════════════════════════ -->
-    <section id="portfolio" class="bg-white py-28 lg:py-36">
-      <div class="max-w-7xl mx-auto px-6 lg:px-12">
-
-        <!-- Section Header -->
-        <div class="reveal mb-20">
-          <div class="flex items-center gap-4 mb-6">
-            <div class="hero-rule"></div>
-            <span class="text-xs font-medium tracking-[0.25em] uppercase text-slate-400">SA Global Group</span>
-          </div>
-          <div class="grid lg:grid-cols-2 gap-12 items-end">
-            <h2 class="font-serif text-4xl sm:text-5xl lg:text-6xl font-bold text-slate-900 leading-tight">
-              Portfolio<br />
-              <span class="italic font-light text-slate-500">Entities</span>
-            </h2>
-            <p class="text-slate-500 leading-relaxed font-light">
-              A curated collection of enterprises operating under the SA Global Group umbrella, each representing a distinct and significant business vertical.
-            </p>
-          </div>
-        </div>
-
-        <!-- Portfolio Grid -->
-        <div class="reveal grid lg:grid-cols-2 gap-8">
-
-          <!-- Entity 1: SA Sundevil Ranch -->
-          <article class="card-lift group relative bg-slate-50 border border-slate-200 overflow-hidden">
-            <div class="h-64 bg-gradient-to-br from-slate-100 to-slate-200 relative overflow-hidden flex items-end">
-              <img
-                src="./assets/469813150_1359441361710389_5126245868392459105_n.jpg"
-                alt="SA Sundevil Ranch Property"
-                class="absolute inset-0 w-full h-full object-cover opacity-50 group-hover:opacity-60 group-hover:scale-105 transition-all duration-700"
-                loading="lazy"
-                onerror="this.style.display='none'"
-              />
-              <div class="absolute inset-0 bg-gradient-to-t from-slate-900 via-slate-900/30 to-transparent opacity-60"></div>
-              <div class="relative z-10 p-8">
-                <span class="inline-block bg-white text-slate-700 text-xs font-semibold tracking-widest uppercase px-3 py-1.5">Ranch &amp; Estate</span>
-              </div>
-            </div>
-            <div class="p-10">
-              <h3 class="font-serif text-2xl sm:text-3xl font-semibold text-slate-900 mb-4 leading-snug">SA Sundevil Ranch</h3>
-              <p class="text-slate-500 leading-relaxed mb-8">
-                A corporate housing, event property, and farm stay owned by the SA Global Group &mdash; offering premium, private-label experiences for corporate retreats, executive hosting, and agri-lifestyle events.
-              </p>
-              <div class="flex items-center gap-2 text-slate-400 border-t border-slate-200 pt-6">
-                <svg xmlns="http://www.w3.org/2000/svg" class="w-4 h-4 flex-shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="1.5"><path stroke-linecap="round" stroke-linejoin="round" d="M2.25 12l8.954-8.955c.44-.439 1.152-.439 1.591 0L21.75 12M4.5 9.75v10.125c0 .621.504 1.125 1.125 1.125H9.75v-4.875c0-.621.504-1.125 1.125-1.125h2.25c.621 0 1.125.504 1.125 1.125V21h4.125c.621 0 1.125-.504 1.125-1.125V9.75M8.25 21h8.25" /></svg>
-                <span class="text-xs tracking-wide font-medium">Corporate Housing &nbsp;&middot;&nbsp; Event Property &nbsp;&middot;&nbsp; Farm Stay</span>
-              </div>
-            </div>
-          </article>
-
-          <!-- Entity 2: SA Arena Energy -->
-          <article class="card-lift group relative bg-slate-900 border border-slate-800 overflow-hidden">
-            <div class="h-64 bg-gradient-to-br from-slate-800 to-slate-900 relative overflow-hidden flex items-end">
-              <img
-                src="./assets/texas-480926220_1411272446527280_5376216638997072190_n.jpg"
-                alt="SA Arena Energy — Texas Operations"
-                class="absolute inset-0 w-full h-full object-cover opacity-20 group-hover:opacity-30 group-hover:scale-105 transition-all duration-700"
-                loading="lazy"
-                onerror="this.style.display='none'"
-              />
-              <div class="absolute inset-0 bg-gradient-to-t from-slate-900 to-transparent opacity-80"></div>
-              <div class="relative z-10 p-8">
-                <span class="inline-block bg-slate-700 text-slate-200 text-xs font-semibold tracking-widest uppercase px-3 py-1.5">Energy Sector</span>
-              </div>
-            </div>
-            <div class="p-10">
-              <h3 class="font-serif text-2xl sm:text-3xl font-semibold text-white mb-4 leading-snug">SA Arena Energy</h3>
-              <p class="text-slate-400 leading-relaxed mb-8">
-                An energy enterprise under the SA Global Group portfolio, focused on oil and natural gas operations. Explore our energy sector presence and connect with the team through our official social channel.
-              </p>
-              <div class="border-t border-slate-700 pt-6">
-                <a
-                  href="https://www.facebook.com/Scott.Bookie.Ayers?locale=zh_CN"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  id="arena-energy-facebook-link"
-                  class="js-unofficial-link inline-flex items-center gap-2.5 border border-slate-600 text-slate-300 text-sm font-medium px-6 py-3 hover:bg-white hover:text-slate-900 hover:border-white transition-all duration-300 group/btn"
-                >
-                  <svg xmlns="http://www.w3.org/2000/svg" class="w-4 h-4" viewBox="0 0 24 24" fill="currentColor"><path d="M24 12.073c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.99 4.388 10.954 10.125 11.854v-8.385H7.078v-3.47h3.047V9.43c0-3.007 1.792-4.669 4.533-4.669 1.312 0 2.686.235 2.686.235v2.953H15.83c-1.491 0-1.956.925-1.956 1.874v2.25h3.328l-.532 3.47h-2.796v8.385C19.612 23.027 24 18.062 24 12.073z"/></svg>
-                  Connect on Facebook
-                  <svg xmlns="http://www.w3.org/2000/svg" class="w-3.5 h-3.5 group-hover/btn:translate-x-0.5 transition-transform" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M13.5 4.5L21 12m0 0l-7.5 7.5M21 12H3" /></svg>
-                </a>
-              </div>
-            </div>
-          </article>
-
-        </div>
-      </div>
-    </section>
-
-    <!-- ═══════════════════════════════════════════════════
-         SECTION 4: CONTACT & FOOTER
-    ═══════════════════════════════════════════════════ -->
-    <section id="contact" class="bg-slate-50 py-28 lg:py-36 border-t border-slate-200">
-      <div class="max-w-7xl mx-auto px-6 lg:px-12">
-
-        <!-- Sign-off Quote -->
-        <div class="reveal mb-20">
-          <div class="max-w-4xl mx-auto text-center">
-            <div class="ornament-divider mb-12">
-              <span class="font-serif italic text-slate-300 text-sm px-6">&middot; &middot; &middot;</span>
-            </div>
-            <p class="font-serif text-2xl sm:text-3xl lg:text-4xl text-slate-700 font-light italic leading-relaxed mb-10">
-              &ldquo;Experience the SA Business Group difference today. Partner with us for your business needs and discover the difference that quality service, opportunity, and client satisfaction can make.&rdquo;
-            </p>
-            <div class="flex items-center justify-center gap-4">
-              <div class="w-12 h-12 bg-slate-900 flex items-center justify-center flex-shrink-0">
-                <span class="font-serif text-white text-base font-bold">SA</span>
-              </div>
-              <div class="text-left">
-                <p class="font-serif text-slate-900 font-semibold text-base">Scott Ayers</p>
-                <p class="text-slate-400 text-sm font-medium tracking-wide">President, CEO &nbsp;&mdash;&nbsp; <em class="italic font-light">Empowering Success, Together</em></p>
-              </div>
-            </div>
-          </div>
-        </div>
-
-        <!-- Contact Grid -->
-        <div class="reveal grid lg:grid-cols-2 gap-16 items-start">
-
-          <!-- Left: Info -->
-          <div>
-            <div class="flex items-center gap-4 mb-8">
-              <div class="hero-rule"></div>
-              <span class="text-xs font-medium tracking-[0.25em] uppercase text-slate-400">Get In Touch</span>
-            </div>
-            <h2 class="font-serif text-3xl sm:text-4xl lg:text-5xl font-semibold text-slate-900 leading-tight mb-8">
-              Start the<br />
-              <span class="italic font-light text-slate-500">Conversation</span>
-            </h2>
-            <p class="text-slate-500 leading-relaxed mb-10">
-              Whether you represent a corporation seeking executive management solutions, or an individual pursuing opportunity &mdash; we invite you to connect with our team.
-            </p>
-
-            <div class="space-y-6">
-              <div class="flex items-start gap-4">
-                <div class="w-10 h-10 border border-slate-200 bg-white flex items-center justify-center flex-shrink-0 mt-0.5">
-                  <svg xmlns="http://www.w3.org/2000/svg" class="w-4 h-4 text-slate-400" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="1.5"><path stroke-linecap="round" stroke-linejoin="round" d="M15 10.5a3 3 0 11-6 0 3 3 0 016 0z" /><path stroke-linecap="round" stroke-linejoin="round" d="M19.5 10.5c0 7.142-7.5 11.25-7.5 11.25S4.5 17.642 4.5 10.5a7.5 7.5 0 1115 0z" /></svg>
+                <div class="grid grid-cols-1 md:grid-cols-2 gap-8 pt-10 border-t border-slate-200/60 mt-auto">
+                    <div>
+                        <p class="text-xs font-semibold tracking-widest uppercase text-slate-400 mb-2">Global Headquarters</p>
+                        <p class="text-slate-900 font-medium">2103 Research Forest Dr<br><span class="text-slate-600 font-normal">The Woodlands, TX 77380</span></p>
+                    </div>
                 </div>
-                <div>
-                  <p class="text-xs text-slate-400 tracking-widest uppercase font-medium mb-1">Address</p>
-                  <p class="text-slate-700 font-medium">2103 Research Forest Dr</p>
-                  <p class="text-slate-500 text-sm">The Woodlands, TX 77380</p>
-                </div>
-              </div>
-
-              <div class="flex items-start gap-4">
-                <div class="w-10 h-10 border border-slate-200 bg-white flex items-center justify-center flex-shrink-0 mt-0.5">
-                  <svg xmlns="http://www.w3.org/2000/svg" class="w-4 h-4 text-slate-400" viewBox="0 0 24 24" fill="currentColor"><path d="M24 12.073c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.99 4.388 10.954 10.125 11.854v-8.385H7.078v-3.47h3.047V9.43c0-3.007 1.792-4.669 4.533-4.669 1.312 0 2.686.235 2.686.235v2.953H15.83c-1.491 0-1.956.925-1.956 1.874v2.25h3.328l-.532 3.47h-2.796v8.385C19.612 23.027 24 18.062 24 12.073z"/></svg>
-                </div>
-                <div>
-                  <p class="text-xs text-slate-400 tracking-widest uppercase font-medium mb-1">Social</p>
-                  <a
-                    href="https://www.facebook.com/profile.php?id=61558569372612&amp;locale=zh_CN#"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    id="contact-facebook-link"
-                    class="js-unofficial-link text-slate-700 font-medium hover:text-slate-900 transition-colors"
-                  >
-                    SA Global Group on Facebook
-                  </a>
-                </div>
-              </div>
             </div>
-          </div>
+        </section>
 
-          <!-- Right: Form -->
-          <div class="bg-white border border-slate-200 p-8 lg:p-10">
-            <h3 class="font-serif text-xl font-semibold text-slate-900 mb-6">Send a Message</h3>
-            <form id="contact-form" class="space-y-5" onsubmit="handleFormSubmit(event)">
-              <div class="grid sm:grid-cols-2 gap-4">
-                <div>
-                  <label for="contact-first-name" class="block text-xs font-medium text-slate-500 tracking-widest uppercase mb-2">First Name</label>
-                  <input type="text" id="contact-first-name" name="first_name" class="form-input" placeholder="John" required />
+        <!-- SECTION 2: OPERATIONS -->
+        <section id="operations" class="py-24 md:py-36 px-6 md:px-12 bg-white relative">
+            <div class="max-w-7xl mx-auto">
+                <div class="flex flex-col lg:flex-row gap-16 lg:gap-24 items-start mb-24 reveal">
+                    <div class="lg:w-1/3">
+                        <h2 class="font-serif text-4xl md:text-5xl font-bold text-slate-900 mb-6 leading-tight">SA Business Group</h2>
+                        <div class="w-12 h-1 bg-slate-900 mb-6"></div>
+                        <p class="text-slate-500 font-light leading-relaxed">
+                            Established in 2020, we have earned a distinguished reputation through our steadfast commitment to excellence, opportunity, and client satisfaction.
+                        </p>
+                    </div>
+                    <div class="lg:w-2/3">
+                        <p class="text-xl md:text-2xl text-slate-700 font-serif italic leading-relaxed">
+                            "Our dedicated team of executives and craft experts brings together a wealth of experience, boasting a combined tenure of over 120 years."
+                        </p>
+                    </div>
                 </div>
-                <div>
-                  <label for="contact-last-name" class="block text-xs font-medium text-slate-500 tracking-widest uppercase mb-2">Last Name</label>
-                  <input type="text" id="contact-last-name" name="last_name" class="form-input" placeholder="Smith" required />
+
+                <!-- Grid Layout for Expertise & Why Choose Us -->
+                <div class="grid grid-cols-1 lg:grid-cols-12 gap-8 lg:gap-16">
+                    
+                    <!-- Left Column: Expertise & Mission/Vision -->
+                    <div class="lg:col-span-7 space-y-16">
+                        <div class="reveal">
+                            <h3 class="text-xs font-bold tracking-widest uppercase text-slate-400 mb-4">Our Expertise</h3>
+                            <h4 class="font-serif text-3xl font-bold text-slate-900 mb-6">Comprehensive Solutions</h4>
+                            <p class="text-slate-600 font-light leading-relaxed mb-6">
+                                At SA Business Group, we specialize in Executive management, development solutions across a diverse range of industries. From Venture Capital and Oil and Gas, Engineering, Real Estate Investment & Management, wireless Telecommunications, Banking, Jewelry, Automotive Sales, Marketing, Political Campaigning our comprehensive services cater to the unique needs of our clients. 
+                            </p>
+                            <p class="text-slate-600 font-light leading-relaxed">
+                                Whether they operate in the private or public sphere, we are dedicated to delivering results that exceed expectations.
+                            </p>
+                        </div>
+
+                        <div class="grid sm:grid-cols-2 gap-8 reveal">
+                            <div class="bg-slate-50 p-8 border border-slate-100">
+                                <h5 class="font-serif text-xl font-bold text-slate-900 mb-4">Mission</h5>
+                                <p class="text-slate-600 font-light leading-relaxed text-sm">
+                                    "Our mission at SA Business Group is to empower organizations and individuals to reach their full potential. Through strategic management and personalized service, we aim to be the catalyst for growth and success in the industries we serve."
+                                </p>
+                            </div>
+                            <div class="bg-slate-900 p-8">
+                                <h5 class="font-serif text-xl font-bold text-white mb-4">Vision</h5>
+                                <p class="text-slate-300 font-light leading-relaxed text-sm">
+                                    "Our vision is to be the premier recruitment partner of choice, renowned for our integrity, expertise, and unwavering commitment to excellence. We aspire to build lasting relationships based on trust, transparency, and mutual success."
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Right Column: Why Choose Us Cards -->
+                    <div class="lg:col-span-5 space-y-6">
+                        <h3 class="text-xs font-bold tracking-widest uppercase text-slate-400 mb-8 lg:mt-0 mt-8 reveal">Why Choose SA Business Group?</h3>
+                        
+                        <div class="bg-white border border-slate-200 p-8 hover-lift reveal">
+                            <div class="flex items-center gap-4 mb-4">
+                                <span class="flex items-center justify-center w-10 h-10 rounded-full bg-slate-100 text-slate-900 font-bold font-serif">01</span>
+                                <h5 class="font-serif text-xl font-bold text-slate-900">Quality Service</h5>
+                            </div>
+                            <p class="text-slate-600 font-light leading-relaxed text-sm">
+                                We prioritize quality in everything we do, from candidate selection to client partnerships. Our meticulous approach ensures that we match the right talent with the right opportunity, every time.
+                            </p>
+                        </div>
+
+                        <div class="bg-white border border-slate-200 p-8 hover-lift reveal" style="transition-delay: 100ms;">
+                            <div class="flex items-center gap-4 mb-4">
+                                <span class="flex items-center justify-center w-10 h-10 rounded-full bg-slate-100 text-slate-900 font-bold font-serif">02</span>
+                                <h5 class="font-serif text-xl font-bold text-slate-900">Opportunity</h5>
+                            </div>
+                            <p class="text-slate-600 font-light leading-relaxed text-sm">
+                                We believe in fostering growth and development for both our clients and candidates. By connecting talent with leading organizations, we create opportunities for success and advancement.
+                            </p>
+                        </div>
+
+                        <div class="bg-white border border-slate-200 p-8 hover-lift reveal" style="transition-delay: 200ms;">
+                            <div class="flex items-center gap-4 mb-4">
+                                <span class="flex items-center justify-center w-10 h-10 rounded-full bg-slate-100 text-slate-900 font-bold font-serif">03</span>
+                                <h5 class="font-serif text-xl font-bold text-slate-900">Client Satisfaction</h5>
+                            </div>
+                            <p class="text-slate-600 font-light leading-relaxed text-sm">
+                                Our commitment to client satisfaction is unwavering. We strive to not only meet but exceed our clients’ expectations, delivering exceptional service and results that drive their success.
+                            </p>
+                        </div>
+                    </div>
+
                 </div>
-              </div>
-              <div>
-                <label for="contact-email" class="block text-xs font-medium text-slate-500 tracking-widest uppercase mb-2">Email Address</label>
-                <input type="email" id="contact-email" name="email" class="form-input" placeholder="john.smith@corporation.com" required />
-              </div>
-              <div>
-                <label for="contact-company" class="block text-xs font-medium text-slate-500 tracking-widest uppercase mb-2">Company / Organization</label>
-                <input type="text" id="contact-company" name="company" class="form-input" placeholder="Your Corporation" />
-              </div>
-              <div>
-                <label for="contact-subject" class="block text-xs font-medium text-slate-500 tracking-widest uppercase mb-2">Subject</label>
-                <select id="contact-subject" name="subject" class="form-input" style="appearance:none;-webkit-appearance:none;background-image:url('data:image/svg+xml,%3Csvg xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22 viewBox%3D%220 0 24 24%22 fill%3D%22none%22 stroke%3D%22%2394a3b8%22 stroke-width%3D%221.5%22%3E%3Cpath stroke-linecap%3D%22round%22 stroke-linejoin%3D%22round%22 d%3D%22M19.5 8.25l-7.5 7.5-7.5-7.5%22%2F%3E%3C%2Fsvg%3E');background-repeat:no-repeat;background-position:right 12px center;background-size:16px;padding-right:40px;">
-                  <option value="">Select a service area...</option>
-                  <option value="consulting">Corporate Consulting</option>
-                  <option value="real-estate">Real Estate Investment</option>
-                  <option value="oil-gas">Oil &amp; Gas Development</option>
-                  <option value="venture-capital">Venture Capital</option>
-                  <option value="other">Other Inquiry</option>
-                </select>
-              </div>
-              <div>
-                <label for="contact-message" class="block text-xs font-medium text-slate-500 tracking-widest uppercase mb-2">Message</label>
-                <textarea id="contact-message" name="message" rows="5" class="form-input resize-none" placeholder="Describe your inquiry or business need..." required></textarea>
-              </div>
-              <button
-                type="submit"
-                id="contact-submit-btn"
-                class="w-full bg-slate-900 text-white text-sm font-semibold py-4 px-8 tracking-wide hover:bg-slate-700 transition-all duration-300 flex items-center justify-center gap-2 group"
-              >
-                Submit Inquiry
-                <svg xmlns="http://www.w3.org/2000/svg" class="w-4 h-4 group-hover:translate-x-0.5 transition-transform" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M13.5 4.5L21 12m0 0l-7.5 7.5M21 12H3" /></svg>
-              </button>
-              <div id="form-success" class="hidden bg-slate-50 border border-slate-200 p-4 text-center">
-                <p class="text-slate-600 text-sm font-medium">Thank you for your inquiry. Our team will be in touch shortly.</p>
-              </div>
-            </form>
-          </div>
-        </div>
-      </div>
-    </section>
-
-    <!-- ═══════════════════════════════════════════════════
-         FOOTER
-    ═══════════════════════════════════════════════════ -->
-    <footer class="bg-slate-900 text-white">
-
-      <!-- Top Footer -->
-      <div class="max-w-7xl mx-auto px-6 lg:px-12 py-16 lg:py-20">
-        <div class="grid lg:grid-cols-4 gap-12">
-
-          <!-- Brand -->
-          <div class="lg:col-span-2">
-            <div class="flex items-center gap-3 mb-6">
-              <img
-                src="./assets/logo-2-615928933_122219945174285645_6484614006341462860_n.jpg"
-                alt="SA Global Group Logo"
-                class="h-10 w-auto object-contain brightness-0 invert opacity-80"
-                loading="lazy"
-              />
-              <div>
-                <p class="font-serif text-white font-semibold text-base leading-tight">SA Global Group</p>
-                <p class="text-slate-500 text-xs tracking-widest uppercase font-medium">Corporate &amp; Real Estate</p>
-              </div>
             </div>
-            <p class="text-slate-400 text-sm leading-relaxed max-w-sm mb-8">
-              A trusted partner in corporate consulting, corporate real estate, oil and natural gas development, and cattle farming &mdash; headquartered in The Woodlands, Texas.
-            </p>
-            <address class="not-italic text-slate-500 text-xs leading-relaxed">
-              2103 Research Forest Dr<br />
-              The Woodlands, TX 77380
-            </address>
-          </div>
+        </section>
 
-          <!-- Quick Links -->
-          <div>
-            <h4 class="text-xs font-medium tracking-widest uppercase text-slate-400 mb-6">Navigate</h4>
-            <ul class="space-y-3">
-              <li><a href="#sa-global" class="text-slate-400 text-sm hover:text-white transition-colors">Overview</a></li>
-              <li><a href="#operations" class="text-slate-400 text-sm hover:text-white transition-colors">Operations</a></li>
-              <li><a href="#portfolio" class="text-slate-400 text-sm hover:text-white transition-colors">Portfolio</a></li>
-              <li><a href="#contact" class="text-slate-400 text-sm hover:text-white transition-colors">Contact</a></li>
-              <li><a href="#" id="footer-pdf-link" class="js-report-request text-slate-400 text-sm hover:text-white transition-colors">Perspectives Report</a></li>
-            </ul>
-          </div>
+        <!-- SECTION 3: PORTFOLIO -->
+        <section id="portfolio" class="py-24 md:py-36 px-6 md:px-12 bg-slate-50 border-t border-slate-200">
+            <div class="max-w-7xl mx-auto">
+                <div class="text-center max-w-2xl mx-auto mb-20 reveal">
+                    <h2 class="font-serif text-4xl md:text-5xl font-bold text-slate-900 mb-6">Portfolio Entities</h2>
+                    <p class="text-slate-600 font-light leading-relaxed">
+                        A curated selection of our premier investments, holdings, and operating companies driving value across diverse markets.
+                    </p>
+                </div>
 
-          <!-- Portfolio & Social -->
-          <div>
-            <h4 class="text-xs font-medium tracking-widest uppercase text-slate-400 mb-6">Portfolio</h4>
-            <ul class="space-y-3 mb-10">
-              <li><span class="text-slate-400 text-sm">SA Sundevil Ranch</span></li>
-              <li>
-                <a
-                  href="https://www.facebook.com/Scott.Bookie.Ayers?locale=zh_CN"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  id="footer-arena-link"
-                  class="js-unofficial-link text-slate-400 text-sm hover:text-white transition-colors"
-                >
-                  SA Arena Energy
-                </a>
-              </li>
-            </ul>
-            <h4 class="text-xs font-medium tracking-widest uppercase text-slate-400 mb-4">Social</h4>
-            <a
-              href="https://www.facebook.com/profile.php?id=61558569372612&amp;locale=zh_CN#"
-              target="_blank"
-              rel="noopener noreferrer"
-              id="footer-facebook-link"
-              class="js-unofficial-link inline-flex items-center gap-2 text-slate-400 text-sm hover:text-white transition-colors"
-            >
-              <svg xmlns="http://www.w3.org/2000/svg" class="w-4 h-4" viewBox="0 0 24 24" fill="currentColor"><path d="M24 12.073c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.99 4.388 10.954 10.125 11.854v-8.385H7.078v-3.47h3.047V9.43c0-3.007 1.792-4.669 4.533-4.669 1.312 0 2.686.235 2.686.235v2.953H15.83c-1.491 0-1.956.925-1.956 1.874v2.25h3.328l-.532 3.47h-2.796v8.385C19.612 23.027 24 18.062 24 12.073z"/></svg>
-              Facebook
-            </a>
-          </div>
+                <div class="grid md:grid-cols-2 gap-8 md:gap-12">
+                    
+                    <!-- Entity 1 -->
+                    <div class="group bg-white border border-slate-200 overflow-hidden hover-lift reveal">
+                        <div class="h-64 md:h-80 relative overflow-hidden bg-slate-200">
+                            <!-- Fallback color if image fails -->
+                            <img src="./assets/469813150_1359441361710389_5126245868392459105_n.jpg" alt="SA Sundevil Ranch" class="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105 opacity-90" onerror="this.style.display='none'">
+                            <div class="absolute inset-0 bg-gradient-to-t from-slate-900/60 to-transparent"></div>
+                            <div class="absolute bottom-6 left-8">
+                                <span class="px-3 py-1 bg-white text-slate-900 text-xs font-bold uppercase tracking-widest mb-3 inline-block">Real Estate</span>
+                                <h3 class="font-serif text-3xl font-bold text-white">SA Sundevil Ranch</h3>
+                            </div>
+                        </div>
+                        <div class="p-8 md:p-10">
+                            <p class="text-slate-600 font-light leading-relaxed">
+                                A corporate housing, event property, and farm stay owned by the SA Global Group. Combining premium hospitality with authentic rural experiences for corporate retreats and exclusive events.
+                            </p>
+                        </div>
+                    </div>
 
-        </div>
-      </div>
+                    <!-- Entity 2 -->
+                    <div class="group bg-white border border-slate-200 overflow-hidden hover-lift reveal" style="transition-delay: 150ms;">
+                        <div class="h-64 md:h-80 relative overflow-hidden bg-slate-200">
+                            <img src="./assets/texas-480926220_1411272446527280_5376216638997072190_n.jpg" alt="SA Arena Energy" class="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105 opacity-90" onerror="this.style.display='none'">
+                            <div class="absolute inset-0 bg-gradient-to-t from-slate-900/60 to-transparent"></div>
+                            <div class="absolute bottom-6 left-8">
+                                <span class="px-3 py-1 bg-slate-900 text-white text-xs font-bold uppercase tracking-widest mb-3 inline-block">Energy Sector</span>
+                                <h3 class="font-serif text-3xl font-bold text-white">SA Arena Energy</h3>
+                            </div>
+                        </div>
+                        <div class="p-8 md:p-10 flex flex-col items-start">
+                            <p class="text-slate-600 font-light leading-relaxed mb-8">
+                                Dedicated to responsible oil and natural gas development. SA Arena Energy leads with innovation and operational excellence in the energy landscape.
+                            </p>
+                            <a href="https://www.facebook.com/Scott.Bookie.Ayers?locale=zh_CN" class="js-unofficial-link mt-auto inline-flex items-center gap-2 text-sm font-semibold text-slate-900 border-b border-slate-900 pb-1 hover:text-slate-600 hover:border-slate-600 transition-colors uppercase tracking-widest">
+                                Visit Arena Energy Profile
+                                <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path></svg>
+                            </a>
+                        </div>
+                    </div>
 
-      <!-- Bottom Bar -->
-      <div class="border-t border-slate-800">
-        <div class="max-w-7xl mx-auto px-6 lg:px-12 py-6 flex flex-col sm:flex-row items-start sm:items-center justify-between gap-3">
-          <!-- CRITICAL FOOTER REQUIREMENT: Bottom left text -->
-          <div class="flex flex-col gap-0.5">
-            <p class="text-xs text-slate-300">VISIONARIES Page</p>
-            <p class="text-xs text-slate-300">DEMO ONLY</p>
-          </div>
-          <p class="text-slate-600 text-xs">
-            &copy; 2024 SA Global Group &nbsp;&middot;&nbsp; The Woodlands, TX &nbsp;&middot;&nbsp; All rights reserved.
-          </p>
-        </div>
-      </div>
-    </footer>
+                </div>
+            </div>
+        </section>
 
-  </div><!-- /.relative wrapper -->
+        <!-- SECTION 4: CONTACT & FOOTER -->
+        <section id="contact" class="pt-24 md:pt-36 bg-white relative border-t border-slate-200 flex-grow">
+            <div class="max-w-7xl mx-auto px-6 md:px-12 mb-24 reveal">
+                <div class="grid lg:grid-cols-2 gap-16 lg:gap-24">
+                    
+                    <!-- Left: Quote & Info -->
+                    <div>
+                        <h2 class="font-serif text-4xl md:text-5xl font-bold text-slate-900 mb-10 leading-tight">Connect With Us</h2>
+                        <blockquote class="font-serif text-xl md:text-2xl text-slate-700 italic leading-relaxed mb-10 border-l-4 border-slate-300 pl-6">
+                            "Experience the SA Business Group difference today. Partner with us for your business needs and discover the difference that quality service, opportunity, and client satisfaction can make."
+                        </blockquote>
+                        <div class="mb-12">
+                            <p class="font-bold text-slate-900 uppercase tracking-widest text-sm mb-1">Scott Ayers</p>
+                            <p class="text-slate-500 text-sm font-medium">President, CEO - Empowering Success, Together</p>
+                        </div>
 
-  <!-- ═══════════════════════════════════════════════════
-       VANILLA JAVASCRIPT
-  ═══════════════════════════════════════════════════ -->
-  <script>
-    // Mobile Menu Toggle
-    (function() {
-      var btn = document.getElementById('mobile-menu-btn');
-      var menu = document.getElementById('mobile-menu');
-      var iconOpen = document.getElementById('menu-icon-open');
-      var iconClose = document.getElementById('menu-icon-close');
-      var isOpen = false;
+                        <div class="space-y-6 text-sm text-slate-600">
+                            <div class="flex gap-4">
+                                <svg class="w-5 h-5 text-slate-400 shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z"></path><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z"></path></svg>
+                                <p>2103 Research Forest Dr<br>The Woodlands, TX 77380</p>
+                            </div>
+                        </div>
+                    </div>
 
-      btn.addEventListener('click', function() {
-        isOpen = !isOpen;
-        menu.classList.toggle('hidden', !isOpen);
-        iconOpen.classList.toggle('hidden', isOpen);
-        iconClose.classList.toggle('hidden', !isOpen);
-      });
+                    <!-- Right: Contact Form -->
+                    <div class="bg-slate-50 p-8 md:p-12 border border-slate-200">
+                        <h3 class="font-serif text-2xl font-bold text-slate-900 mb-8">Inquire Today</h3>
+                        <form class="space-y-6" onsubmit="event.preventDefault(); alert('Message conceptual mockup - form disabled.');">
+                            <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+                                <div>
+                                    <label class="block text-xs font-bold text-slate-500 uppercase tracking-widest mb-2">First Name</label>
+                                    <input type="text" class="w-full border-b border-slate-300 bg-transparent py-2 focus:outline-none focus:border-slate-900 transition-colors text-slate-900 placeholder-slate-400" placeholder="John" required>
+                                </div>
+                                <div>
+                                    <label class="block text-xs font-bold text-slate-500 uppercase tracking-widest mb-2">Last Name</label>
+                                    <input type="text" class="w-full border-b border-slate-300 bg-transparent py-2 focus:outline-none focus:border-slate-900 transition-colors text-slate-900 placeholder-slate-400" placeholder="Doe" required>
+                                </div>
+                            </div>
+                            <div>
+                                <label class="block text-xs font-bold text-slate-500 uppercase tracking-widest mb-2">Email Address</label>
+                                <input type="email" class="w-full border-b border-slate-300 bg-transparent py-2 focus:outline-none focus:border-slate-900 transition-colors text-slate-900 placeholder-slate-400" placeholder="john@company.com" required>
+                            </div>
+                            <div>
+                                <label class="block text-xs font-bold text-slate-500 uppercase tracking-widest mb-2">Message</label>
+                                <textarea rows="4" class="w-full border-b border-slate-300 bg-transparent py-2 focus:outline-none focus:border-slate-900 transition-colors text-slate-900 placeholder-slate-400 resize-none" placeholder="How can we assist you?" required></textarea>
+                            </div>
+                            <button type="submit" class="w-full py-4 bg-slate-900 text-white text-xs font-bold uppercase tracking-widest hover:bg-slate-800 transition-colors mt-4">
+                                Send Message
+                            </button>
+                        </form>
+                    </div>
+                </div>
+            </div>
 
-      var mobileLinks = menu.querySelectorAll('a');
-      mobileLinks.forEach(function(link) {
-        link.addEventListener('click', function() {
-          isOpen = false;
-          menu.classList.add('hidden');
-          iconOpen.classList.remove('hidden');
-          iconClose.classList.add('hidden');
+            <!-- Footer -->
+            <footer class="bg-slate-900 pt-16 pb-8 px-6 md:px-12 mt-auto">
+                <div class="max-w-7xl mx-auto flex flex-col md:flex-row justify-between items-start md:items-end border-b border-slate-800 pb-12 mb-8">
+                    <div class="mb-8 md:mb-0">
+                        <h2 class="font-serif text-2xl font-bold text-white mb-4">SA Global Group</h2>
+                        <p class="text-slate-400 text-sm max-w-sm leading-relaxed mb-6">Premium corporate consulting, real estate, energy development, and agricultural investments based in Texas.</p>
+                        <a href="#" class="js-report-request text-xs text-white uppercase tracking-widest font-bold border-b border-white pb-1 hover:text-slate-300 hover:border-slate-300 transition-colors">
+                            Download Perspectives Report
+                        </a>
+                    </div>
+                    
+                    <div class="flex gap-12 text-sm text-slate-400">
+                        <div class="flex flex-col space-y-3">
+                            <a href="#sa-global" class="hover:text-white transition-colors">Overview</a>
+                            <a href="#operations" class="hover:text-white transition-colors">Operations</a>
+                        </div>
+                        <div class="flex flex-col space-y-3">
+                            <a href="#portfolio" class="hover:text-white transition-colors">Portfolio</a>
+                            <a href="#contact" class="hover:text-white transition-colors">Contact</a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="max-w-7xl mx-auto flex justify-between items-center relative">
+                    <!-- CRITICAL FOOTER TEXT -->
+                    <div class="text-xs text-slate-300 flex flex-col">
+                        <span>VISIONARIES Page</span>
+                        <span>DEMO ONLY</span>
+                    </div>
+                    
+                    <div class="text-xs text-slate-500">
+                        &copy; 2024 SA Global Group
+                    </div>
+                </div>
+            </footer>
+        </section>
+    </div>
+
+    <!-- SCRIPTS -->
+    <script>
+        // Smooth reveal on scroll
+        const revealElements = document.querySelectorAll('.reveal');
+        const revealOptions = {
+            threshold: 0.1,
+            rootMargin: "0px 0px -50px 0px"
+        };
+        const revealOnScroll = new IntersectionObserver(function(entries, observer) {
+            entries.forEach(entry => {
+                if (!entry.isIntersecting) return;
+                entry.target.classList.add('active');
+                observer.unobserve(entry.target);
+            });
+        }, revealOptions);
+        revealElements.forEach(el => revealOnScroll.observe(el));
+
+        // Mobile menu toggle
+        const menuBtn = document.getElementById('mobile-menu-btn');
+        const mobileMenu = document.getElementById('mobile-menu');
+        const mobileLinks = document.querySelectorAll('.mobile-link');
+
+        menuBtn.addEventListener('click', () => {
+            mobileMenu.classList.toggle('hidden');
         });
-      });
-    })();
 
-    // Scroll Reveal
-    (function() {
-      var revealEls = document.querySelectorAll('.reveal');
-      function checkReveal() {
-        var h = window.innerHeight;
-        revealEls.forEach(function(el) {
-          if (el.getBoundingClientRect().top < h - 80) {
-            el.classList.add('visible');
-          }
+        mobileLinks.forEach(link => {
+            link.addEventListener('click', () => {
+                mobileMenu.classList.add('hidden');
+            });
         });
-      }
-      window.addEventListener('scroll', checkReveal, { passive: true });
-      checkReveal();
-    })();
 
-    // Sticky Nav Shadow
-    (function() {
-      var nav = document.getElementById('main-nav');
-      window.addEventListener('scroll', function() {
-        nav.style.boxShadow = window.scrollY > 10
-          ? '0 4px 30px rgba(15,23,42,0.07)'
-          : 'none';
-      }, { passive: true });
-    })();
-
-    // Contact Form Handler
-    function handleFormSubmit(e) {
-      e.preventDefault();
-      var form = document.getElementById('contact-form');
-      var successMsg = document.getElementById('form-success');
-      var submitBtn = document.getElementById('contact-submit-btn');
-      submitBtn.textContent = 'Sending\u2026';
-      submitBtn.disabled = true;
-      setTimeout(function() {
-        form.reset();
-        successMsg.classList.remove('hidden');
-        submitBtn.classList.add('hidden');
-      }, 800);
-    }
-
-    // Interstitial Warning for .js-unofficial-link
-    (function() {
-      var unofficialLinks = document.querySelectorAll('.js-unofficial-link');
-      unofficialLinks.forEach(function(link) {
-        link.addEventListener('click', function(e) {
-          var proceed = confirm(
-            "SECURITY NOTICE:\n\nYou are now leaving this conceptual staging environment. You are being redirected to an unverified third-party / Unofficial Social Page.\n\nDo you wish to proceed?"
-          );
-          if (!proceed) {
-            e.preventDefault();
-          }
+        // Interstitial Warning Modal (Unofficial Links)
+        const unofficialLinks = document.querySelectorAll('.js-unofficial-link');
+        unofficialLinks.forEach(link => {
+            link.addEventListener('click', function(e) {
+                const proceed = confirm("SECURITY NOTICE:\n\nYou are now leaving this conceptual staging environment. You are being redirected to an unverified third-party / Unofficial Social Page.\n\nDo you wish to proceed?");
+                if (!proceed) {
+                    e.preventDefault();
+                }
+            });
         });
-      });
-    })();
-  </script>
 
-  <!-- Report Request Interceptor -->
-  <script>
-    (function() {
-      var reportLinks = document.querySelectorAll('.js-report-request');
-      reportLinks.forEach(function(link) {
-        link.addEventListener('click', function(e) {
-          e.preventDefault();
-          alert('Upon Request Please Contact SA Group.');
+        // Navbar blur on scroll
+        const navbar = document.getElementById('navbar');
+        window.addEventListener('scroll', () => {
+            if (window.scrollY > 50) {
+                navbar.classList.add('shadow-sm');
+            } else {
+                navbar.classList.remove('shadow-sm');
+            }
         });
-      });
-    })();
-  </script>
+    </script>
 
-  <!-- CONSOLE LOG WATERMARKS — CRITICAL: DO NOT REMOVE -->
-  <script>
-    console.log("%c\uD83D\uDED1 STAFFYTALENT LLC - CONCEPTUAL MOCKUP", "color: #b70021; font-size: 20px; font-weight: bold;");
-    console.log("%cThis digital property is a non-functional UI demo. It is NOT associated with sa.global, Arena Energy LP, or any recognized corporate entity. Intellectual Property and Content claims are the sole responsibility of the requesting client.", "color: #333; font-size: 14px;");
-  </script>
+    <!-- Report Request Interceptor -->
+    <script>
+        (function() {
+            var reportLinks = document.querySelectorAll('.js-report-request');
+            reportLinks.forEach(function(link) {
+                link.addEventListener('click', function(e) {
+                    e.preventDefault();
+                    alert('Upon Request Please Contact SA Group.');
+                });
+            });
+        })();
+    </script>
 
+    <!-- CONSOLE LOG WATERMARKS - DO NOT REMOVE -->
+    <script>
+        console.log("%c🛑 STAFFYTALENT LLC - CONCEPTUAL MOCKUP", "color: #b70021; font-size: 20px; font-weight: bold;");
+        console.log("%cThis digital property is a non-functional UI demo. It is NOT associated with sa.global, Arena Energy LP, or any recognized corporate entity. Intellectual Property and Content claims are the sole responsibility of the requesting client.", "color: #333; font-size: 14px;");
+    </script>
 </body>
 </html>
