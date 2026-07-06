@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Billing Document - StaffyTalent LLC</title>
+    <style>
+        body {
+            font-family: 'Courier New', Courier, monospace;
+            font-size: 14px;
+            color: #000;
+            background-color: #fff;
+            margin: 0;
+            padding: 40px;
+            line-height: 1.4;
+        }
+        .document-container {
+            max-width: 900px;
+            margin: 0 auto;
+            border: 2px solid #000;
+            padding: 20px;
+        }
+        .header-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            border-bottom: 2px solid #000;
+            padding-bottom: 20px;
+            margin-bottom: 20px;
+        }
+        .company-info h1 {
+            font-size: 20px;
+            margin: 0 0 5px 0;
+            text-transform: uppercase;
+        }
+        .document-title h2 {
+            font-size: 24px;
+            margin: 0 0 10px 0;
+            text-align: right;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+        .info-table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-bottom: 20px;
+        }
+        .info-table td {
+            border: 1px solid #000;
+            padding: 5px 10px;
+            vertical-align: top;
+        }
+        .label {
+            font-weight: bold;
+            text-transform: uppercase;
+            font-size: 12px;
+            display: block;
+            margin-bottom: 3px;
+        }
+        .line-items {
+            width: 100%;
+            border-collapse: collapse;
+            margin-bottom: 20px;
+            border: 2px solid #000;
+        }
+        .line-items th, .line-items td {
+            border: 1px solid #000;
+            padding: 8px 10px;
+            text-align: left;
+        }
+        .line-items th {
+            background-color: #e0e0e0;
+            font-weight: bold;
+            text-transform: uppercase;
+            font-size: 12px;
+        }
+        .line-items td.amount {
+            text-align: right;
+        }
+        .total-row {
+            font-weight: bold;
+            font-size: 16px;
+        }
+        .total-row td {
+            border-top: 2px solid #000;
+        }
+        .legal-block {
+            border: 1px solid #000;
+            padding: 15px;
+            font-size: 11px;
+            text-align: justify;
+            background-color: #fafafa;
+        }
+        .legal-block h3 {
+            font-size: 13px;
+            margin-top: 0;
+            text-transform: uppercase;
+            text-align: center;
+            border-bottom: 1px dashed #000;
+            padding-bottom: 5px;
+        }
+        .legal-block p {
+            margin: 0 0 10px 0;
+        }
+        .legal-block p:last-child {
+            margin-bottom: 0;
+        }
+    </style>
+</head>
+<body>
+    <div class="document-container">
+        <div class="header-grid">
+            <div class="company-info">
+                <h1>StaffyTalent LLC</h1>
+                <div>SYSTEM ARCHITECTURE & CONSULTING</div>
+                <div>Texas, USA</div>
+            </div>
+            <div class="document-title">
+                <h2>BILLING DOCUMENT</h2>
+                <div>Document No: 2026-0705-SA</div>
+                <div>Date: 2026-07-05</div>
+            </div>
+        </div>
+
+        <table class="info-table">
+            <tr>
+                <td width="50%">
+                    <span class="label">Sold-To Party / Payer:</span>
+                    Scott Ayers<br>
+                    scottayers09@gmail.com
+                </td>
+                <td width="50%">
+                    <span class="label">Terms of Payment:</span>
+                    Z001 - CONCEPTUAL DELIVERABLE / NO INITIAL FEE<br>
+                    *Go-Live effort to be billed separately upon formal request.
+                </td>
+            </tr>
+        </table>
+
+        <table class="line-items">
+            <thead>
+                <tr>
+                    <th width="10%">Item</th>
+                    <th width="70%">Description</th>
+                    <th width="20%" class="amount">Net Value (USD)</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>000010</td>
+                    <td>
+                        <strong>CONCEPTUAL STAGING DEPLOYMENT (VERCEL)</strong><br>
+                        Development of static, non-functional HTML/CSS structural mockup. Includes embedded technical staging markers, "Demo Only" demarcations, and staging environment setup on .vercel.app subdomain.
+                    </td>
+                    <td class="amount">0.00</td>
+                </tr>
+                <tr>
+                    <td>000020</td>
+                    <td>
+                        <strong>PLATFORM TEMPLATE CONFIGURATION (SQUARESPACE)</strong><br>
+                        Setup of visual template architecture and layout for immediate IP ownership transfer. Client assumes full billing and administrative control upon acceptance of transfer link.
+                    </td>
+                    <td class="amount">0.00</td>
+                </tr>
+                <tr>
+                    <td>000030</td>
+                    <td>
+                        <strong>DNS ADMINISTRATION & DELEGATION</strong><br>
+                        Configuration of GoDaddy DNS routing (A Record/CNAME pointing) via Delegate Access to connect client-owned domains to staging environments.
+                    </td>
+                    <td class="amount">0.00</td>
+                </tr>
+                <tr class="total-row">
+                    <td colspan="2" style="text-align: right;">TOTAL DOCUMENT VALUE:</td>
+                    <td class="amount">0.00</td>
+                </tr>
+            </tbody>
+        </table>
+
+        <div class="legal-block">
+            <h3>Statement of Indemnification, Limitation of Liability, and Content Ownership</h3>
+            <p><strong>1. Role of the Developer and Content Ownership:</strong> StaffyTalent LLC ("Developer") has been retained strictly for the technical assembly and configuration of a conceptual digital staging environment. The Developer operates solely as an independent technical architect executing specific instructions provided by the Client. All text, imagery, corporate claims, entity names, and intellectual property ("Content") embedded within this page were provided entirely by the Client. The Developer explicitly disclaims any affiliation with, or endorsement of, the entities, claims, or perceived associations presented within this staging environment.</p>
+            
+            <p><strong>2. Safe Harbor and Misrepresentation:</strong> The Developer assumes absolutely no liability for the accuracy, legality, or operational legitimacy of the user-generated content provided by the Client. Similar to platform liability protections (e.g., Squarespace, Vercel), the Developer is not responsible for misrepresentations, trademark infringements, or digital proximity tactics executed by the Client. The Client assumes full and total legal responsibility for the intellectual property and the public or private distribution of this site.</p>
+            
+            <p><strong>3. Takedown Requests and Third-Party Disputes:</strong> Should any recognized corporate entity, regulatory body, or third party issue a cease-and-desist, DMCA notice, or demand for takedown, this request falls directly and solely upon the Client as the underlying Intellectual Property owner. The Developer will not arbitrate, defend, or manage third-party infringement claims arising from the Client's supplied content.</p>
+            
+            <p><strong>4. Prerequisites for Future Administration:</strong> This invoice covers a static, one-time conceptual build. Should the Client request StaffyTalent LLC to transition this property to a "Live" status, or request ongoing database administration, hosting, or maintenance, the Developer requires the immediate submission of static, verifiable corporate tax documentation (e.g., verified EIN records, Secretary of State standing) corroborating the exact claims and entities listed on the site. Without this documentation, all future technical engagements will be denied.</p>
+            
+            <p><strong>5. Electronic Execution and Verbal Acknowledgment:</strong> This conceptual staging build is provided without an initial fee. The digital transmission of this document to the Client's specified email address (scottayers09@gmail.com) serves as a binding electronic record of these terms, functioning as a digital signature of receipt. Delivery of this communication—regardless of whether it is actively opened, read, or explicitly acknowledged in writing by the Client—constitutes the Client's full assumption of all aforementioned indemnifications, liability limitations, and IP ownership burdens. Furthermore, these terms have been verbally read and explicitly communicated to the Client upon the issuance of the staging environment.</p>
+        </div>
+    </div>
+</body>
+</html>

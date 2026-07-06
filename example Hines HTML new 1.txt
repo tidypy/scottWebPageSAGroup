@@ -1,0 +1,3897 @@
+
+
+
+
+    
+  
+
+
+  
+    
+  
+  
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+    
+    
+  <!-- Site Departure Popup setting variables -->
+  
+          
+  
+    
+  <!DOCTYPE html>
+  <html lang="en" class="no-js">
+    <head> 
+        
+      <script type="text/javascript" src="https://cdn-prod.securiti.ai/consent/auto_blocking/a77e5454-32a5-418a-bdc9-d2d9b7a03569/a27c730b-b07f-49e3-ba41-58ac4724bf82.js"></script> 
+<script>
+    (function () {
+        var s = document.createElement('script');
+        s.src = 'https://cdn-prod.securiti.ai/consent/cookie-consent-sdk-loader.js';
+        s.setAttribute('data-tenant-uuid', 'a77e5454-32a5-418a-bdc9-d2d9b7a03569');
+        s.setAttribute('data-domain-uuid', 'a27c730b-b07f-49e3-ba41-58ac4724bf82');
+        s.setAttribute('data-backend-url', 'https://app.securiti.ai');
+        s.setAttribute('data-skip-css', 'false');
+        s.defer = true;
+        var parent_node = document.head || document.body;
+        parent_node.appendChild(s);
+    })()
+    </script> 
+<script async src='https://cdn-prod.securiti.ai/consent/cookie_banner/a77e5454-32a5-418a-bdc9-d2d9b7a03569/5ee54994-c76b-4561-8c3b-3a841730327d/google_consent_defaults.js'></script>
+      
+      <meta charset="utf-8" />
+      <meta http-equiv="x-ua-compatible" content="ie=edge">
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+      <meta name="google-site-verification" content="KMjavCOCiieHLu4iqdfs1405o3UlBTHbZMpKqKcspd0" />
+      <meta name="naver-site-verification" content="6683045411a0e956afda2d342caaf16fd0af61bc" />
+            <link rel="stylesheet" 
+            href="/dist/styles/main-c667a347ba.css"
+            integrity= "sha384-0pDJtf6+0nozqQZAPIr/iYgtKho2tFn5NGsCKYcr1sh2hDIe+FecIs7rJu1Nskvx"
+            crossorigin= "anonymous">
+  
+      <link href="https://www.hines.com/news/feed.rss" rel="alternate" type="application/rss+xml" title="Hines News" />
+
+              <meta name="facebook-domain-verification" content="h0nlimp1zhikq6ozhpndy3vtic3n6b">
+      
+            <script>
+        // Picture element HTML5 shiv
+        document.createElement( "picture" );
+        window.popupData = {"excludedPopupDomains":["cloudfront.net"]};
+      </script>
+
+                        
+    <title>Private Infrastructure &amp; Real Estate: Guide to Real Assets… - Hines</title>
+<script>
+dataLayer = [];
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WSRJTXB');
+
+
+</script><meta name="generator" content="SEOmatic">
+<meta name="keywords" content="real, infrastructure, estate, better, converge">
+<meta name="description" content="Understand the roles of private infrastructure and real estate in asset portfolios. This guide offers insights on benefits, risks, liquidity, and…">
+<meta name="referrer" content="no-referrer-when-downgrade">
+<meta name="robots" content="all">
+<meta content="407576302618420" property="fb:profile_id">
+<meta content="449399535747995" property="fb:app_id">
+<meta content="en_US" property="og:locale">
+<meta content="Hines" property="og:site_name">
+<meta content="website" property="og:type">
+<meta content="https://www.hines.com/better-together-where-infrastructure-and-real-estate-converge" property="og:url">
+<meta content="Private Infrastructure &amp; Real Estate: Guide to Real Assets 2026" property="og:title">
+<meta content="Understand the roles of private infrastructure and real estate in asset portfolios. This guide offers insights on benefits, risks, liquidity, and…" property="og:description">
+<meta content="https://hines-assets.s3.amazonaws.com/misc/_1200x630_crop_center-center_82_none/Better-Together-meta-Image-2.webp?mtime=1780586357" property="og:image">
+<meta content="1200" property="og:image:width">
+<meta content="568" property="og:image:height">
+<meta content="Better Together Where Infrastructure and Real Estate Converge" property="og:image:alt">
+<meta content="https://en.wikipedia.org/wiki/Hines_Interests_Limited_Partnership" property="og:see_also">
+<meta content="https://www.instagram.com/hines/" property="og:see_also">
+<meta content="https://www.youtube.com/user/HinesGlobal" property="og:see_also">
+<meta content="https://www.linkedin.com/company/hines/" property="og:see_also">
+<meta content="https://www.facebook.com/hinesglobal" property="og:see_also">
+<meta content="https://twitter.com/hines" property="og:see_also">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@hines">
+<meta name="twitter:creator" content="@hines">
+<meta name="twitter:title" content="Private Infrastructure &amp; Real Estate: Guide to Real Assets 2026">
+<meta name="twitter:description" content="Understand the roles of private infrastructure and real estate in asset portfolios. This guide offers insights on benefits, risks, liquidity, and…">
+<meta name="twitter:image" content="https://hines-assets.s3.amazonaws.com/misc/_1200x630_crop_center-center_82_none/Better-Together-meta-Image-2.webp?mtime=1780586357">
+<meta name="twitter:image:width" content="800">
+<meta name="twitter:image:height" content="378">
+<meta name="twitter:image:alt" content="Better Together Where Infrastructure and Real Estate Converge">
+<meta name="google-site-verification" content="5VOFNRvjHnuvHAga_YF1zmZNT6KP-3v4iz8PZDl1Q2Y">
+<link href="https://www.hines.com/better-together-where-infrastructure-and-real-estate-converge" rel="canonical">
+<link href="https://www.hines.com/" rel="home">
+<link type="text/plain" href="https://www.hines.com/humans.txt" rel="author"></head>
+
+    
+    
+    <body class=" ">
+
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WSRJTXB"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+
+
+
+      <span class="d-none"><?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<symbol viewBox="0 0 132 39" id="sprites_hines-logo" xmlns="http://www.w3.org/2000/svg"><path d="M107.9 29.5c-1.2 6.5-5.8 9.4-11.5 9.4-6.6 0-12.9-5.3-12.9-12.5 0-7.6 5-14.6 12.7-14.6 6.6 0 11.6 4.5 11.6 11.5H89.5V26c0 6.4.8 11.6 7.9 11.6 4.1 0 8.3-3.2 9-8h1.5v-.1zm-6-8.1v-2.2c0-4.7-2.7-6.1-5.9-6.1-3.9 0-5.6 3.6-5.8 4.1-.4 1.2-.6 2.7-.6 4.3h12.3v-.1zm-74.5-3.1V3.1h-4.3V1.6h13.8v1.5h-4.2v33.4h4.2V38H23.1v-1.5h4.3V19.9H11.6v16.6h4.3V38H2v-1.5h4.3V3.1H2V1.6h13.9v1.5h-4.3v15.2h15.8zM39.3 38v-1.5h3.6V13.9h-3.6v-1.5h1.4c2.4 0 4.9-.1 7.2-.6v24.8h3.5V38H39.3zm18.4-24.1h-3.6v-1.5h1.4c1.2 0 2.5 0 3.6-.1 1.2-.1 2.5-.3 3.6-.5v6.9h.1c1.8-4.1 4.3-6.9 9.1-6.9 2.3 0 7.7.5 7.7 6.5v18.3h3.5V38H71.2v-1.5h3.4V19c0-4.7-1.5-5.4-4.1-5.4-4.4 0-7.8 6-7.8 10.9v12h3.5V38H54.1v-1.5h3.6V13.9zm70.2-1.5v7.2h-1.4c-1-3.8-3.2-6.4-7-6.6-5.3-.1-6.1 3.9-6.1 4.7 0 1.9.5 2.8 10.4 4.8 5 1 6.7 3.3 6.7 7.4 0 5.6-4.2 8.9-9.3 8.9-2.7 0-5.6-1.1-7.4-3.2l-1.4 2.3H111v-8.5h1.5c1.2 4.7 4.4 8.1 9.2 8.1 2.9 0 6.3-2.2 6.3-5.6 0-2.5-3.6-3.7-8.9-5-4.3-1-8-1.6-8-7.2 0-2.7 1.7-8 8.7-8 2 0 4 .8 6 2.4l1.2-1.7h.9zM42.8 1.6h5.1v4.9h-5.1V1.6z" fill="#B70021"/></symbol>
+<symbol viewBox="0 0 132 39" id="sprites_hines-logo-white" xmlns="http://www.w3.org/2000/svg"><path d="M107.9 29.5c-1.2 6.5-5.8 9.4-11.5 9.4-6.6 0-12.9-5.3-12.9-12.5 0-7.6 5-14.6 12.7-14.6 6.6 0 11.6 4.5 11.6 11.5H89.5V26c0 6.4.8 11.6 7.9 11.6 4.1 0 8.3-3.2 9-8h1.5v-.1zm-6-8.1v-2.2c0-4.7-2.7-6.1-5.9-6.1-3.9 0-5.6 3.6-5.8 4.1-.4 1.2-.6 2.7-.6 4.3h12.3v-.1zm-74.5-3.1V3.1h-4.3V1.6h13.8v1.5h-4.2v33.4h4.2V38H23.1v-1.5h4.3V19.9H11.6v16.6h4.3V38H2v-1.5h4.3V3.1H2V1.6h13.9v1.5h-4.3v15.2h15.8zM39.3 38v-1.5h3.6V13.9h-3.6v-1.5h1.4c2.4 0 4.9-.1 7.2-.6v24.8h3.5V38H39.3zm18.4-24.1h-3.6v-1.5h1.4c1.2 0 2.5 0 3.6-.1 1.2-.1 2.5-.3 3.6-.5v6.9h.1c1.8-4.1 4.3-6.9 9.1-6.9 2.3 0 7.7.5 7.7 6.5v18.3h3.5V38H71.2v-1.5h3.4V19c0-4.7-1.5-5.4-4.1-5.4-4.4 0-7.8 6-7.8 10.9v12h3.5V38H54.1v-1.5h3.6V13.9zm70.2-1.5v7.2h-1.4c-1-3.8-3.2-6.4-7-6.6-5.3-.1-6.1 3.9-6.1 4.7 0 1.9.5 2.8 10.4 4.8 5 1 6.7 3.3 6.7 7.4 0 5.6-4.2 8.9-9.3 8.9-2.7 0-5.6-1.1-7.4-3.2l-1.4 2.3H111v-8.5h1.5c1.2 4.7 4.4 8.1 9.2 8.1 2.9 0 6.3-2.2 6.3-5.6 0-2.5-3.6-3.7-8.9-5-4.3-1-8-1.6-8-7.2 0-2.7 1.7-8 8.7-8 2 0 4 .8 6 2.4l1.2-1.7h.9zM42.8 1.6h5.1v4.9h-5.1V1.6z" fill="#FFF"/></symbol>
+<symbol viewBox="0 0 36 36" id="sprites_share-email" xmlns="http://www.w3.org/2000/svg"><path fill="#1A2930" d="M18 20.8c.1 0 .1 0 .1-.1L29.9 9H6.1l11.7 11.7c.1.1.1.1.2.1zM6 11.1v14.7l7.4-7.4L6 11.1zm13.3 10.8c-.3.3-.8.5-1.3.5s-.9-.2-1.3-.5l-2.2-2.2L7.1 27h21.7l-7.4-7.4-2.1 2.3zm3.3-3.4l7.4 7.4V11.1l-7.4 7.4z"/></symbol>
+<symbol viewBox="0 0 36 36" id="sprites_share-pdf" xmlns="http://www.w3.org/2000/svg"><path fill="#1A2930" d="M27 6v24H9V6h18m3-3H6v30h24V3z"/><path fill="#FFF" d="M4 11h28v14H4z"/><path d="M8.9 19.8V23h-2v-9.1h3.5c2.2 0 3.6.9 3.6 2.9 0 2.1-1.5 3-3.6 3H8.9zm1.3-4.3H8.9v2.7h1.3c1.2 0 1.8-.4 1.8-1.4s-.6-1.3-1.8-1.3zm5.1-1.6h3.4c2.8 0 4.5 1.7 4.5 4.6S21.5 23 18.7 23h-3.4v-9.1zm3.3 1.6h-1.4v5.9h1.4c1.7 0 2.5-1.2 2.5-2.9 0-1.8-.7-3-2.5-3zm6 7.5v-9.1h6.2v1.6h-4.3v2h4v1.6h-4V23h-1.9z" fill="#1A2930"/></symbol>
+<symbol viewBox="0 0 36 36" id="sprites_share-print" xmlns="http://www.w3.org/2000/svg"><g fill="#1A2930"><path d="M10 5h16v5H10zm0 27h16V19H10v13zm3-10h10v1H13v-1zm0 3h10v1H13v-1zm0 3h10v1H13v-1z"/><path d="M5 11v14h4v-7h18v7h4V11H5zm8 4H8v-1h5v1z"/></g></symbol>
+<symbol viewBox="0 0 36 36" id="sprites_share-social" xmlns="http://www.w3.org/2000/svg"><g fill="#1A2930"><path d="M27 18.7V25H9V11h4.7c1-1.2 2.2-2.2 3.6-3H6v20h24V16.2l-3 2.5z"/><path d="M25 4.8v13.4l8-6.7zM12 22c1-4 5.9-7 13-7V8c-7.1 0-13 5-13 14z"/></g></symbol>
+<symbol viewBox="0 0 27 27" id="sprites_social-facebook" xmlns="http://www.w3.org/2000/svg"><path fill="#fff" d="M27 13.582C27 6.082 20.956 0 13.5 0S0 6.081 0 13.582C0 20.363 4.937 25.981 11.39 27v-9.491H7.964v-3.927h3.428V10.59c0-3.404 2.015-5.284 5.099-5.284 1.477 0 3.022.265 3.022.265v3.343h-1.703c-1.677 0-2.2 1.046-2.2 2.12v2.548h3.745l-.599 3.927h-3.146V27C22.063 25.981 27 20.362 27 13.582z"/></symbol>
+<symbol viewBox="-3 0 36 36" id="sprites_social-facebook-side" xmlns="http://www.w3.org/2000/svg"><path class="hshare-set__socialicons" d="M27 13.582C27 6.082 20.956 0 13.5 0S0 6.081 0 13.582C0 20.363 4.937 25.981 11.39 27v-9.491H7.964v-3.927h3.428V10.59c0-3.404 2.015-5.284 5.099-5.284 1.477 0 3.022.265 3.022.265v3.343h-1.703c-1.677 0-2.2 1.046-2.2 2.12v2.548h3.745l-.599 3.927h-3.146V27C22.063 25.981 27 20.362 27 13.582z"/></symbol>
+<symbol viewBox="0 0 24 24" id="sprites_social-google-plus" xmlns="http://www.w3.org/2000/svg"><path fill="#FFF" d="M14.4 3.5h-1.7c.6.5 1.9 1.5 1.9 3.6 0 2-1.2 3-2.4 3.9-.4.4-.8.7-.8 1.4 0 .6.4.9.7 1.2l1 .8c1.2 1 2.4 2 2.4 3.9 0 2.6-2.6 5.2-7.5 5.2-4.1 0-5.9-1.9-5.9-4 0-1 .5-2.4 2.2-3.4 1.7-1 4.1-1.2 5.4-1.3-.4-.5-.8-1-.8-1.9 0-.5.1-.7.3-1.1-.3.2-.6.2-.9.2-3 0-4.7-2.2-4.7-4.3 0-1.3.4-2.8 1.6-3.8 1.6-1.3 3.6-1.5 5.2-1.5h5.8l-1.8 1.1zm6 8.3V9H19v2.8h-2.8v1.4H19V16h1.4v-2.8h2.8v-1.4h-2.8zM7.1 16.1c-.6.2-2.4.9-2.4 2.8 0 2 1.9 3.4 4.9 3.4 2.7 0 4.1-1.3 4.1-3 0-1.4-.9-2.2-3.1-3.6H10c-.2 0-1.7 0-2.9.4zM8.7 3.4c-.7 0-1.5.3-2 .8-.5.6-.6 1.4-.6 2.2 0 1.8 1.1 4.9 3.5 4.9.7 0 1.5-.4 1.9-.8.6-.6.7-1.4.7-1.9 0-2.1-1.2-5.2-3.5-5.2z"/></symbol><symbol viewBox="0 0 26 27" id="sprites_social-instagram" xmlns="http://www.w3.org/2000/svg"><path fill="#fff" d="M13 0C9.468 0 9.027.017 7.64.081 6.257.148 5.315.375 4.486.709a6.347 6.347 0 00-2.303 1.557 6.618 6.618 0 00-1.5 2.391c-.321.861-.54 1.84-.604 3.278C.013 9.375 0 9.832 0 13.5s.016 4.125.078 5.565c.065 1.437.283 2.417.605 3.277a6.651 6.651 0 001.499 2.392 6.339 6.339 0 002.303 1.557c.83.333 1.772.562 3.156.628C9.027 26.986 9.468 27 13 27s3.973-.017 5.36-.081c1.383-.067 2.326-.295 3.155-.628a6.37 6.37 0 002.303-1.557 6.622 6.622 0 001.5-2.392c.32-.86.54-1.84.604-3.277.065-1.44.078-1.898.078-5.565 0-3.668-.016-4.125-.078-5.565-.065-1.437-.284-2.418-.605-3.277a6.657 6.657 0 00-1.499-2.392A6.315 6.315 0 0021.515.709C20.686.375 19.743.147 18.359.08 16.973.013 16.532 0 13 0zm0 2.43c3.47 0 3.884.018 5.254.08 1.268.062 1.956.28 2.413.467.609.244 1.04.536 1.497 1.008.454.472.735.921.97 1.553.178.475.39 1.19.448 2.506.062 1.424.076 1.851.076 5.456 0 3.605-.016 4.033-.08 5.456-.066 1.317-.278 2.03-.456 2.506-.243.632-.52 1.08-.974 1.554a4.046 4.046 0 01-1.495 1.008c-.455.185-1.154.405-2.422.465-1.38.064-1.786.079-5.264.079s-3.884-.017-5.263-.084c-1.269-.068-1.968-.288-2.423-.473A4.015 4.015 0 013.787 23a4.118 4.118 0 01-.975-1.553c-.178-.473-.389-1.198-.455-2.514-.048-1.418-.066-1.855-.066-5.45s.018-4.034.066-5.469c.066-1.316.277-2.04.455-2.513.228-.641.52-1.08.975-1.553.454-.472.878-.776 1.494-1.01.455-.187 1.139-.407 2.406-.474 1.382-.05 1.788-.068 5.264-.068L13 2.43zm0 4.138c-3.689 0-6.676 3.105-6.676 6.932 0 3.83 2.99 6.932 6.676 6.932 3.689 0 6.675-3.105 6.675-6.932 0-3.83-2.99-6.932-6.675-6.932zM13 18c-2.394 0-4.333-2.014-4.333-4.5S10.606 9 13 9s4.333 2.014 4.333 4.5S15.394 18 13 18zm8.5-11.706c0 .895-.7 1.62-1.56 1.62-.861 0-1.56-.726-1.56-1.62 0-.893.7-1.618 1.56-1.618.859-.002 1.56.725 1.56 1.618z"/></symbol>
+<symbol viewBox="0 0 27 27" id="sprites_social-linkedin" xmlns="http://www.w3.org/2000/svg"><path fill="#fff" d="M23.003 23.009h-3.998v-6.266c0-1.494-.03-3.416-2.084-3.416-2.085 0-2.403 1.625-2.403 3.306v6.376H10.52V10.125h3.84v1.756h.052C14.95 10.87 16.254 9.8 18.204 9.8c4.05 0 4.8 2.666 4.8 6.137v7.072h-.001zM6.004 8.362a2.32 2.32 0 01-2.32-2.323 2.322 2.322 0 112.32 2.323zM8.01 23.01h-4.01V10.125h4.01v12.884zM25.003 0H1.993C.89 0 0 .87 0 1.945v23.11C0 26.13.891 27 1.992 27H25c1.1 0 2-.87 2-1.945V1.945C27 .871 26.1 0 25 0h.003z"/></symbol>
+<symbol viewBox="-4 0 36 36" id="sprites_social-linkedin-side" xmlns="http://www.w3.org/2000/svg"><path class="lshare-set__socialicons" d="M23.003 23.009h-3.998v-6.266c0-1.494-.03-3.416-2.084-3.416-2.085 0-2.403 1.625-2.403 3.306v6.376H10.52V10.125h3.84v1.756h.052C14.95 10.87 16.254 9.8 18.204 9.8c4.05 0 4.8 2.666 4.8 6.137v7.072h-.001zM6.004 8.362a2.32 2.32 0 01-2.32-2.323 2.322 2.322 0 112.32 2.323zM8.01 23.01h-4.01V10.125h4.01v12.884zM25.003 0H1.993C.89 0 0 .87 0 1.945v23.11C0 26.13.891 27 1.992 27H25c1.1 0 2-.87 2-1.945V1.945C27 .871 26.1 0 25 0h.003z"/></symbol>
+<symbol viewBox="0 0 25 21" id="sprites_social-twitter" xmlns="http://www.w3.org/2000/svg"><path fill="#fff" d="M 13.688124,9.9529434 22.250391,0 H 20.221409 L 12.786793,8.6420008 6.8487865,0 H 0 L 8.97943,13.068236 0,23.505425 h 2.0290984 l 7.8511457,-9.126246 6.2709689,9.126246 H 23 L 13.687626,9.9529434 Z M 10.908996,13.18337 9.9991925,11.882069 2.7602109,1.527476 h 3.1165765 l 5.8419426,8.3564865 0.909803,1.3013015 7.593833,10.862152 H 17.10579 l -6.196794,-8.863547 z"/></symbol>
+<symbol viewBox="-6 -2 36 36" id="sprites_social-twitter-side" xmlns="http://www.w3.org/2000/svg"><path class="nshare-set__socialicons" style="padding:3px;" d="M 13.688124,9.9529434 22.250391,0 H 20.221409 L 12.786793,8.6420008 6.8487865,0 H 0 L 8.97943,13.068236 0,23.505425 h 2.0290984 l 7.8511457,-9.126246 6.2709689,9.126246 H 23 L 13.687626,9.9529434 Z M 10.908996,13.18337 9.9991925,11.882069 2.7602109,1.527476 h 3.1165765 l 5.8419426,8.3564865 0.909803,1.3013015 7.593833,10.862152 H 17.10579 l -6.196794,-8.863547 z"/></symbol>
+<symbol viewBox="0 0 27 19" id="sprites_social-youtube" xmlns="http://www.w3.org/2000/svg"><path fill="#fff" d="M26.436 2.934a3.413 3.413 0 00-.866-1.494 3.38 3.38 0 00-1.484-.872C21.982 0 13.512 0 13.512 0S5.064-.011 2.938.568a3.38 3.38 0 00-1.484.872c-.411.415-.71.93-.866 1.494A35.646 35.646 0 000 9.512c-.006 2.198.19 4.392.588 6.553.156.565.455 1.08.866 1.493.412.415.923.716 1.484.873C5.04 19 13.512 19 13.512 19s8.447 0 10.574-.569a3.378 3.378 0 001.484-.873c.411-.414.71-.928.866-1.493.39-2.162.578-4.356.563-6.553a35.642 35.642 0 00-.563-6.578zM10.81 13.58v-8.15l7.05 4.08-7.05 4.07z"/></symbol>
+<symbol viewBox="0 0 58 58" id="sprites_video-play" xmlns="http://www.w3.org/2000/svg"><path d="M0 0v58h58V0H0zm21 41.7V15.6l21.3 13.1-21.3 13z"/></symbol>
+</svg>
+</span>
+
+      <a class="skip-link u-color-type-white u-color-bg-red" href="#main-content">Skip to content</a>
+
+      <div class="l-container js-container ">
+        <header
+  class="l-header"
+  data-component-site-header
+>
+  <div class="masthead">
+    <div class="masthead__inner">
+      <div class="masthead__branding">
+        
+        <a href="https://www.hines.com/" class="hines-logo ">
+                                    <img src="https://hines-assets.s3.amazonaws.com/hines-logos/Intelligent-Real-Estate-Investments-at-Hines.svg" alt="">
+                              </a>
+      </div>
+
+      <button
+        class="masthead__trigger u-type-label"
+        aria-controls="NavDrawer"
+        aria-expanded="false"
+        data-nav-drawer-toggle
+      >Menu</button>
+
+      <div class="masthead__nav">
+        
+<nav class="h-nav h-nav--secondary">
+  <ul class="h-nav__list">
+    <li class="h-nav__item">
+      <a
+        href="https://www.hines.com/news/press-room"
+        class="link link--alt link--icon link--right-carat"
+      >Sign Up</a>
+    </li>
+    <li class="h-nav__item">
+      <a
+        href="https://www.hines.com/contact"
+        class="link link--alt link--icon link--right-carat js-contact-trigger"
+      >Contact Us</a>
+    </li>
+    <li class="h-nav__item">
+      <a
+        href="https://www.hines.com/search"
+        class="link link--alt link--icon link--search"
+      >Search</a>
+    </li>
+  </ul>
+</nav>
+        
+
+<nav class="h-nav h-nav--main" data-component-main-nav>
+  <ul class="h-nav__list">
+                                        
+              
+      
+      <li
+        class="h-nav__item is-primary"
+        data-mega-menu-trigger      >
+        
+        
+                      
+    
+    
+    <a
+      href="https://www.hines.com/investment-management"
+      class="h-nav__link"
+      
+      
+    >Investment Management</a>
+  
+                            <div class="mega-menu" data-mega-menu>
+            <div class="mega-menu__inner u-constrain-content--slightly">
+                              <div class="mega-menu__description">
+                  <span class="u-type-h2 u-color-type-dark-navy">A tailored approach to global real estate investing.</span>
+                </div>
+                            <div class="mega-menu__nav v-nav">
+                <ul class="v-nav__list">
+                                                                                
+                    <li class="v-nav__item">
+                                            
+                        <div class="v-nav__label">Investment Management</div>
+                                                                            <ul class="v-nav__list">
+                                                          <li class="v-nav__item">
+                                
+                      
+    
+    
+    <a
+      href="https://www.hines.com/investment-management"
+      class="v-nav__link"
+      
+      
+    >Overview</a>
+  
+                              </li>
+                                                          <li class="v-nav__item">
+                                
+                      
+    
+    
+    <a
+      href="https://www.hines.com/investment-management/strategies-and-products"
+      class="v-nav__link"
+      
+      
+    >Strategies and Products</a>
+  
+                              </li>
+                                                      </ul>
+                                                                  </li>
+                                  </ul>
+              </div>
+            </div>
+          </div>
+              </li>
+                                        
+              
+      
+      <li
+        class="h-nav__item is-primary"
+        data-mega-menu-trigger      >
+        
+        
+                      
+    
+    
+    <a
+      href="https://www.hines.com/real-estate-services"
+      class="h-nav__link"
+      
+      
+    >Real Estate Services</a>
+  
+                            <div class="mega-menu" data-mega-menu>
+            <div class="mega-menu__inner u-constrain-content--slightly">
+                              <div class="mega-menu__description">
+                  <span class="u-type-h2 u-color-type-dark-navy">Vertically integrated services that create lasting value.</span>
+                </div>
+                            <div class="mega-menu__nav v-nav">
+                <ul class="v-nav__list">
+                                                                                
+                    <li class="v-nav__item">
+                                            
+                        <div class="v-nav__label">Services</div>
+                                                                            <ul class="v-nav__list">
+                                                          <li class="v-nav__item">
+                                
+                      
+    
+    
+    <a
+      href="https://www.hines.com/real-estate-services"
+      class="v-nav__link"
+      
+      
+    >Overview</a>
+  
+                              </li>
+                                                          <li class="v-nav__item">
+                                
+                      
+    
+    
+    <a
+      href="https://www.hines.com/real-estate-services/development"
+      class="v-nav__link"
+      
+      
+    >Development</a>
+  
+                              </li>
+                                                          <li class="v-nav__item">
+                                
+                      
+    
+    
+    <a
+      href="https://www.hines.com/real-estate-services/acquisitions-dispositions"
+      class="v-nav__link"
+      
+      
+    >Acquisitions &amp; Dispositions</a>
+  
+                              </li>
+                                                          <li class="v-nav__item">
+                                
+                      
+    
+    
+    <a
+      href="https://www.hines.com/real-estate-services/management-services"
+      class="v-nav__link"
+      
+      
+    >Management Services</a>
+  
+                              </li>
+                                                          <li class="v-nav__item">
+                                
+                      
+    
+    
+    <a
+      href="https://www.hines.com/real-estate-services/conceptual-construction"
+      class="v-nav__link"
+      
+      
+    >Conceptual Construction</a>
+  
+                              </li>
+                                                      </ul>
+                                                                  </li>
+                                                                                    </ul><ul class="v-nav__list">
+                                          
+                    <li class="v-nav__item">
+                                            
+                        <div class="v-nav__label">Product Type</div>
+                                                                            <ul class="v-nav__list">
+                                                          <li class="v-nav__item">
+                                
+                      
+    
+    
+    <a
+      href="https://www.hines.com/data-centers"
+      class="v-nav__link"
+      
+      
+    >Data Centers</a>
+  
+                              </li>
+                                                          <li class="v-nav__item">
+                                
+                      
+    
+    
+    <a
+      href="https://www.hines.com/real-estate-services/product-types/industrial"
+      class="v-nav__link"
+      
+      
+    >Industrial</a>
+  
+                              </li>
+                                                          <li class="v-nav__item">
+                                
+                      
+    
+    
+    <a
+      href="https://www.hines.com/real-estate-services/product-types/land-development"
+      class="v-nav__link"
+      
+      
+    >Land Development</a>
+  
+                              </li>
+                                                          <li class="v-nav__item">
+                                
+                      
+    
+    
+    <a
+      href="https://www.hines.com/life-sciences"
+      class="v-nav__link"
+      rel="noopener noreferrer"
+      target="_blank"
+    >Life Sciences</a>
+  
+                              </li>
+                                                          <li class="v-nav__item">
+                                
+                      
+    
+    
+    <a
+      href="https://www.hines.com/real-estate-services/product-types/living"
+      class="v-nav__link"
+      
+      
+    >Living</a>
+  
+                              </li>
+                                                          <li class="v-nav__item">
+                                
+                      
+    
+    
+    <a
+      href="https://www.hines.com/real-estate-services/product-types/niche"
+      class="v-nav__link"
+      
+      
+    >Niche</a>
+  
+                              </li>
+                                                          <li class="v-nav__item">
+                                
+                      
+    
+    
+    <a
+      href="https://www.hines.com/real-estate-services/product-types/office"
+      class="v-nav__link"
+      
+      
+    >Office</a>
+  
+                              </li>
+                                                          <li class="v-nav__item">
+                                
+                      
+    
+    
+    <a
+      href="https://www.hines.com/real-estate-services/product-types/retail"
+      class="v-nav__link"
+      
+      
+    >Retail</a>
+  
+                              </li>
+                                                          <li class="v-nav__item">
+                                
+                      
+    
+    
+    <a
+      href="https://www.thesq.com/"
+      class="v-nav__link"
+      rel="noopener noreferrer"
+      target="_blank"
+    >The Square: Flex Office</a>
+  
+                              </li>
+                                                          <li class="v-nav__item">
+                                
+                      
+    
+    
+    <a
+      href="https://www.hines.com/t3"
+      class="v-nav__link"
+      rel="noopener noreferrer"
+      target="_blank"
+    >T3: Timber, Transit, Technology</a>
+  
+                              </li>
+                                                      </ul>
+                                                                  </li>
+                                  </ul>
+              </div>
+            </div>
+          </div>
+              </li>
+                                        
+              
+      
+      <li
+        class="h-nav__item is-primary"
+              >
+        
+        
+                      
+    
+    
+    <a
+      href="https://www.hines.com/properties"
+      class="h-nav__link"
+      
+      
+    >Properties</a>
+  
+              </li>
+                                        
+              
+      
+      <li
+        class="h-nav__item is-primary"
+        data-mega-menu-trigger      >
+        
+        
+                      
+    
+    
+    <a
+      href="https://www.hines.com/insights"
+      class="h-nav__link"
+      
+      
+    >Insights</a>
+  
+                            <div class="mega-menu" data-mega-menu>
+            <div class="mega-menu__inner u-constrain-content--slightly">
+                              <div class="mega-menu__description">
+                  <span class="u-type-h2 u-color-type-dark-navy">Stay informed on the hot topics and trends in real estate.</span>
+                </div>
+                            <div class="mega-menu__nav v-nav">
+                <ul class="v-nav__list">
+                                                                                
+                    <li class="v-nav__item">
+                                            
+                        <div class="v-nav__label">Insights</div>
+                                                                            <ul class="v-nav__list">
+                                                          <li class="v-nav__item">
+                                
+                      
+    
+    
+    <a
+      href="https://www.hines.com/insights"
+      class="v-nav__link"
+      
+      
+    >Overview</a>
+  
+                              </li>
+                                                          <li class="v-nav__item">
+                                
+                      
+    
+    
+    <a
+      href="https://www.hines.com/research"
+      class="v-nav__link"
+      
+      
+    >Proprietary Research</a>
+  
+                              </li>
+                                                      </ul>
+                                                                  </li>
+                                  </ul>
+              </div>
+            </div>
+          </div>
+              </li>
+                      
+                  <li class="h-nav__item is-separator"></li>
+              
+      
+      <li
+        class="h-nav__item"
+        data-mega-menu-trigger      >
+        
+        
+                      
+    
+    
+    <a
+      href="https://www.hines.com/about"
+      class="h-nav__link"
+      
+      
+    >About Us</a>
+  
+                            <div class="mega-menu" data-mega-menu>
+            <div class="mega-menu__inner u-constrain-content--slightly">
+                              <div class="mega-menu__description">
+                  <span class="u-type-h2 u-color-type-dark-navy">A leader in investment and development since 1957.</span>
+                </div>
+                            <div class="mega-menu__nav v-nav">
+                <ul class="v-nav__list">
+                                      
+                    <li class="v-nav__item">
+                                              
+                      
+    
+    
+    <a
+      href="https://www.hines.com/about"
+      class="v-nav__link"
+      
+      
+    >About the Firm</a>
+  
+                                                                  </li>
+                                      
+                    <li class="v-nav__item">
+                                              
+                      
+    
+    
+    <a
+      href="https://www.hines.com/about/staff-leadership"
+      class="v-nav__link"
+      
+      
+    >Leadership</a>
+  
+                                                                  </li>
+                                      
+                    <li class="v-nav__item">
+                                              
+                      
+    
+    
+    <a
+      href="https://www.hines.com/sustainability"
+      class="v-nav__link"
+      
+      
+    >Sustainability</a>
+  
+                                                                  </li>
+                                      
+                    <li class="v-nav__item">
+                                              
+                      
+    
+    
+    <a
+      href="https://www.hines.com/about/connecting-onehines"
+      class="v-nav__link"
+      
+      
+    >Connecting OneHines</a>
+  
+                                                                  </li>
+                                      
+                    <li class="v-nav__item">
+                                              
+                      
+    
+    
+    <a
+      href="https://www.hines.com/news"
+      class="v-nav__link"
+      
+      
+    >News</a>
+  
+                                                                  </li>
+                                                                                    </ul><ul class="v-nav__list">
+                                          
+                    <li class="v-nav__item">
+                                            
+                        <div class="v-nav__label">Geographies</div>
+                                                                            <ul class="v-nav__list">
+                                                          <li class="v-nav__item">
+                                
+                      
+    
+    
+    <a
+      href="https://www.hines.com/locations/americas"
+      class="v-nav__link"
+      
+      
+    >Americas</a>
+  
+                              </li>
+                                                          <li class="v-nav__item">
+                                
+                      
+    
+    
+    <a
+      href="https://www.hines.com/locations/asia-pacific"
+      class="v-nav__link"
+      
+      
+    >Asia Pacific</a>
+  
+                              </li>
+                                                          <li class="v-nav__item">
+                                
+                      
+    
+    
+    <a
+      href="https://www.hines.com/locations/europe"
+      class="v-nav__link"
+      
+      
+    >Europe</a>
+  
+                              </li>
+                                                      </ul>
+                                                                  </li>
+                                      
+                    <li class="v-nav__item">
+                                              </ul>
+                        <ul class="v-nav__list">
+                          <div class="v-nav__label">Locations</div>
+                          <li>
+
+
+
+  
+  
+  
+  
+
+
+
+
+<div class="dropdown dropdown--list dropdown--nav js-location-dropdown">
+  <button class="dropdown__title js-location-title" aria-controls="dropdown-nav-countries">Choose a Country</button>
+  <div class="dropdown__links" aria-aria-labelledby="dropdown-nav-countries">
+
+                          <a href="https://www.hines.com/locations/usa" class="dropdown__link">United States</a>
+
+      
+                <a href="https://www.hines.com/locations/australia" class="dropdown__link">Australia</a>
+
+                <a href="https://www.hines.com/locations/brazil" class="dropdown__link">Brazil</a>
+
+                <a href="https://www.hines.com/locations/canada" class="dropdown__link">Canada</a>
+
+                <a href="https://www.hines.com/locations/costa-rica" class="dropdown__link">Costa Rica</a>
+
+                <a href="https://www.hines.com/locations/czechia" class="dropdown__link">Czechia</a>
+
+                <a href="https://www.hines.com/locations/france" class="dropdown__link">France</a>
+
+                <a href="https://www.hines.com/locations/germany" class="dropdown__link">Germany</a>
+
+                <a href="https://www.hines.com/locations/greater-china" class="dropdown__link">Greater China</a>
+
+                <a href="https://www.hines.com/locations/greece" class="dropdown__link">Greece</a>
+
+                <a href="https://www.hines.com/locations/india" class="dropdown__link">India</a>
+
+                <a href="https://www.hines.com/locations/ireland" class="dropdown__link">Ireland</a>
+
+                <a href="https://www.hines.com/locations/italy" class="dropdown__link">Italy</a>
+
+                <a href="https://www.hines.com/locations/japan" class="dropdown__link">Japan</a>
+
+                <a href="https://www.hines.com/locations/luxembourg" class="dropdown__link">Luxembourg</a>
+
+                <a href="https://www.hines.com/locations/mexico" class="dropdown__link">Mexico</a>
+
+                <a href="https://www.hines.com/locations/panama" class="dropdown__link">Panama</a>
+
+                <a href="https://www.hines.com/locations/poland" class="dropdown__link">Poland</a>
+
+                <a href="https://www.hines.com/locations/singapore" class="dropdown__link">Singapore</a>
+
+                <a href="https://www.hines.com/locations/south-korea" class="dropdown__link">South Korea</a>
+
+                <a href="https://www.hines.com/locations/spainandportugal" class="dropdown__link">Spain and Portugal</a>
+
+                <a href="https://www.hines.com/locations/the-netherlands" class="dropdown__link">The Netherlands</a>
+
+                <a href="https://www.hines.com/locations/united-arab-emirates" class="dropdown__link">United Arab Emirates</a>
+
+                <a href="https://www.hines.com/locations/united-kingdom" class="dropdown__link">United Kingdom</a>
+
+          
+  </div>
+</div>                                          </li>
+                                  </ul>
+              </div>
+            </div>
+          </div>
+              </li>
+                      
+              
+      
+      <li
+        class="h-nav__item"
+        data-mega-menu-trigger      >
+        
+        
+                      
+    
+    
+    <a
+      href="https://www.hines.com/careers"
+      class="h-nav__link"
+      
+      
+    >Careers</a>
+  
+                            <div class="mega-menu" data-mega-menu>
+            <div class="mega-menu__inner u-constrain-content--slightly">
+                              <div class="mega-menu__description">
+                  <span class="u-type-h2 u-color-type-dark-navy">Contribute to our communities, the quality of the built environment and our fellow employees.</span>
+                </div>
+                            <div class="mega-menu__nav v-nav">
+                <ul class="v-nav__list">
+                                      
+                    <li class="v-nav__item">
+                                              
+                      
+    
+    
+    <a
+      href="https://www.hines.com/careers"
+      class="v-nav__link"
+      
+      
+    >Life at Hines</a>
+  
+                                                                  </li>
+                                      
+                    <li class="v-nav__item">
+                                              
+                      
+    
+    
+    <a
+      href="https://www.hines.com/careers/experienced-professionals"
+      class="v-nav__link"
+      
+      
+    >Experienced Professionals</a>
+  
+                                                                  </li>
+                                      
+                    <li class="v-nav__item">
+                                              
+                      
+    
+    
+    <a
+      href="https://www.hines.com/careers/graduates-and-interns"
+      class="v-nav__link"
+      
+      
+    >Internships and Early Careers</a>
+  
+                                                                  </li>
+                                      
+                    <li class="v-nav__item">
+                                              
+                      
+    
+    
+    <a
+      href="https://www.hines.com/day-in-the-life"
+      class="v-nav__link"
+      
+      
+    >A Day in the Life</a>
+  
+                                                                  </li>
+                                      
+                    <li class="v-nav__item">
+                                              
+                      
+    
+    
+    <a
+      href="https://careers-hines.icims.com/"
+      class="v-nav__link"
+      rel="noopener noreferrer"
+      target="_blank"
+    >Job Search</a>
+  
+                                                                  </li>
+                                      
+                    <li class="v-nav__item">
+                                              </ul>
+                        <ul class="v-nav__list">
+                          <div class="v-nav__label">Countries</div>
+                          <li>
+
+
+
+  
+  
+  
+  
+
+
+
+
+<div class="dropdown dropdown--list dropdown--nav js-location-dropdown">
+  <button class="dropdown__title js-location-title" aria-controls="dropdown-nav-countries">Choose a Country</button>
+  <div class="dropdown__links" aria-aria-labelledby="dropdown-nav-countries">
+
+          
+                      <a href="https://www.hines.com/careers/locations/usa" class="dropdown__link">United States</a>
+
+            
+                          <a href="https://www.hines.com/careers/locations/australia" class="dropdown__link">Australia</a>
+
+                                  <a href="https://www.hines.com/careers/locations/brazil" class="dropdown__link">Brazil</a>
+
+                                  <a href="https://www.hines.com/careers/locations/canada" class="dropdown__link">Canada</a>
+
+                                  <a href="https://www.hines.com/careers/locations/costa-rica" class="dropdown__link">Costa Rica</a>
+
+                                                <a href="https://www.hines.com/careers/locations/france" class="dropdown__link">France</a>
+
+                                  <a href="https://www.hines.com/careers/locations/germany" class="dropdown__link">Germany</a>
+
+                                  <a href="https://www.hines.com/careers/locations/greater-china" class="dropdown__link">Greater China</a>
+
+                                  <a href="https://www.hines.com/careers/locations/greece" class="dropdown__link">Greece</a>
+
+                                  <a href="https://www.hines.com/careers/locations/india" class="dropdown__link">India</a>
+
+                                  <a href="https://www.hines.com/careers/locations/ireland" class="dropdown__link">Ireland</a>
+
+                                  <a href="https://www.hines.com/careers/locations/italy" class="dropdown__link">Italy</a>
+
+                                                <a href="https://www.hines.com/careers/locations/luxembourg" class="dropdown__link">Luxembourg</a>
+
+                                  <a href="https://www.hines.com/careers/locations/mexico" class="dropdown__link">Mexico</a>
+
+                                  <a href="https://www.hines.com/careers/locations/panama" class="dropdown__link">Panama</a>
+
+                                  <a href="https://www.hines.com/careers/locations/poland" class="dropdown__link">Poland</a>
+
+                                                              <a href="https://www.hines.com/careers/locations/spainandportugal" class="dropdown__link">Spain and Portugal</a>
+
+                                                              <a href="https://www.hines.com/careers/locations/united-kingdom" class="dropdown__link">United Kingdom</a>
+
+              
+    
+  </div>
+</div>                                          </li>
+                                  </ul>
+              </div>
+            </div>
+          </div>
+              </li>
+                      
+              
+      
+      <li
+        class="h-nav__item"
+        data-mega-menu-trigger      >
+        
+        
+                      
+    
+    
+    <a
+      href="#"
+      class="h-nav__link"
+      
+      
+    >Investor Login</a>
+  
+                            <div class="mega-menu" data-mega-menu>
+            <div class="mega-menu__inner u-constrain-content--slightly">
+                              <div class="mega-menu__description">
+                  <span class="u-type-h2 u-color-type-dark-navy">Access your Hines accounts</span>
+                </div>
+                            <div class="mega-menu__nav v-nav">
+                <ul class="v-nav__list">
+                                                                                
+                    <li class="v-nav__item">
+                                            
+                        <div class="v-nav__label">Investor Login</div>
+                                                                            <ul class="v-nav__list">
+                                                          <li class="v-nav__item">
+                                
+                      
+    
+    
+    <a
+      href="https://app.junipersquare.com/i/hines"
+      class="v-nav__link"
+      
+      
+    >Hines Investor Portal</a>
+  
+                              </li>
+                                                          <li class="v-nav__item">
+                                
+                      
+    
+    
+    <a
+      href="https://secureaccountview.com/BFWeb/clients/hines/index"
+      class="v-nav__link"
+      rel="noopener noreferrer"
+      target="_blank"
+    >Hines Private Wealth Solutions</a>
+  
+                              </li>
+                                                      </ul>
+                                                                  </li>
+                                  </ul>
+              </div>
+            </div>
+          </div>
+              </li></ul>
+</nav>
+      </div>
+    </div>
+  </div>
+
+      
+<div aria-hidden="true" class="nav-drawer" id="NavDrawer" data-nav-drawer>
+  <div class="nav-drawer__header">
+    <div class="nav-drawer__branding">
+      
+<!-- Please ensure all svgs passed through this file are formatted properly for accessibility. Example below:
+
+<svg role="img" aria-labelledby="title-hines-red-logo description-hines-red-logo"><title id="title-hines-red-logo">Hines Logo</title><desc id="description-hines-red-logo">You can leave the description out if it's not relevant in this use case.</desc></svg>
+
+Standard, white, and dark all have this standard applied.  -->
+
+<a href="https://www.hines.com/" class="hines-logo hines-logo--small">
+  <svg role="img" aria-labelledby="title-hines-logo"><title id="title-hines-logo">Hines Logo</title>
+    <use xlink:href="#sprites_hines-logo-white" />
+  </svg>
+</a>
+    </div>
+    <button
+      aria-controls="narrow-nav"
+      aria-expanded="false"
+      class="nav-drawer__trigger u-type-label"
+      data-nav-drawer-toggle
+    >
+      <span class="u-isVisuallyHidden">Dismiss Navigation</span>
+      <svg class="v-nav-dismiss" width="31" height="31" viewBox="0 0 31 31" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false">
+  <path d="M1 30L30 1" stroke="white" stroke-width="2"/>
+  <path d="M30 30L1 1" stroke="white" stroke-width="2"/>
+</svg>
+    </button>
+  </div>
+  <div class="nav-drawer__content">
+    <nav class="v-nav">
+      <ul class="v-nav__list expandable-list expandable-list--on-red js-expandable-list">
+                  <li class="v-nav__item u-type-h3 expandable-list__item js-expandable-list-item">
+            <div class="js-expandable-list-trigger">
+                              <div class="v-nav__link">Investment Management</div>
+                          </div>
+                                        <div class="expandable-list__contents js-expandable-list-contents">
+                                                      <div class="v-nav__sublabel">INVESTMENT MANAGEMENT</div>
+                                                                        <div class="u-type-a">
+                      
+    
+    
+    <a
+      href="https://www.hines.com/investment-management"
+      class="v-nav__link"
+      
+      
+    >Overview</a>
+  </div>
+                                                                        <div class="u-type-a">
+                      
+    
+    
+    <a
+      href="https://www.hines.com/investment-management/strategies-and-products"
+      class="v-nav__link"
+      
+      
+    >Strategies and Products</a>
+  </div>
+                                                </div>
+                      </li>
+                  <li class="v-nav__item u-type-h3 expandable-list__item js-expandable-list-item">
+            <div class="js-expandable-list-trigger">
+                              <div class="v-nav__link">Real Estate Services</div>
+                          </div>
+                                        <div class="expandable-list__contents js-expandable-list-contents">
+                                                      <div class="v-nav__sublabel">SERVICES</div>
+                                                                        <div class="u-type-a">
+                      
+    
+    
+    <a
+      href="https://www.hines.com/real-estate-services"
+      class="v-nav__link"
+      
+      
+    >Overview</a>
+  </div>
+                                                                        <div class="u-type-a">
+                      
+    
+    
+    <a
+      href="https://www.hines.com/real-estate-services/development"
+      class="v-nav__link"
+      
+      
+    >Development</a>
+  </div>
+                                                                        <div class="u-type-a">
+                      
+    
+    
+    <a
+      href="https://www.hines.com/real-estate-services/acquisitions-dispositions"
+      class="v-nav__link"
+      
+      
+    >Acquisitions &amp; Dispositions</a>
+  </div>
+                                                                        <div class="u-type-a">
+                      
+    
+    
+    <a
+      href="https://www.hines.com/real-estate-services/management-services"
+      class="v-nav__link"
+      
+      
+    >Management Services</a>
+  </div>
+                                                                        <div class="u-type-a">
+                      
+    
+    
+    <a
+      href="https://www.hines.com/real-estate-services/conceptual-construction"
+      class="v-nav__link"
+      
+      
+    >Conceptual Construction</a>
+  </div>
+                                                                        <div class="v-nav__sublabel">PRODUCT TYPE</div>
+                                                                        <div class="u-type-a">
+                      
+    
+    
+    <a
+      href="https://www.hines.com/data-centers"
+      class="v-nav__link"
+      
+      
+    >Data Centers</a>
+  </div>
+                                                                        <div class="u-type-a">
+                      
+    
+    
+    <a
+      href="https://www.hines.com/real-estate-services/product-types/industrial"
+      class="v-nav__link"
+      
+      
+    >Industrial</a>
+  </div>
+                                                                        <div class="u-type-a">
+                      
+    
+    
+    <a
+      href="https://www.hines.com/real-estate-services/product-types/land-development"
+      class="v-nav__link"
+      
+      
+    >Land Development</a>
+  </div>
+                                                                        <div class="u-type-a">
+                      
+    
+    
+    <a
+      href="https://www.hines.com/life-sciences"
+      class="v-nav__link"
+      rel="noopener noreferrer"
+      target="_blank"
+    >Life Sciences</a>
+  </div>
+                                                                        <div class="u-type-a">
+                      
+    
+    
+    <a
+      href="https://www.hines.com/real-estate-services/product-types/living"
+      class="v-nav__link"
+      
+      
+    >Living</a>
+  </div>
+                                                                        <div class="u-type-a">
+                      
+    
+    
+    <a
+      href="https://www.hines.com/real-estate-services/product-types/niche"
+      class="v-nav__link"
+      
+      
+    >Niche</a>
+  </div>
+                                                                        <div class="u-type-a">
+                      
+    
+    
+    <a
+      href="https://www.hines.com/real-estate-services/product-types/office"
+      class="v-nav__link"
+      
+      
+    >Office</a>
+  </div>
+                                                                        <div class="u-type-a">
+                      
+    
+    
+    <a
+      href="https://www.hines.com/real-estate-services/product-types/retail"
+      class="v-nav__link"
+      
+      
+    >Retail</a>
+  </div>
+                                                                        <div class="u-type-a">
+                      
+    
+    
+    <a
+      href="https://www.thesq.com/"
+      class="v-nav__link"
+      rel="noopener noreferrer"
+      target="_blank"
+    >The Square: Flex Office</a>
+  </div>
+                                                                        <div class="u-type-a">
+                      
+    
+    
+    <a
+      href="https://www.hines.com/t3"
+      class="v-nav__link"
+      rel="noopener noreferrer"
+      target="_blank"
+    >T3: Timber, Transit, Technology</a>
+  </div>
+                                                </div>
+                      </li>
+                  <li class="v-nav__item u-type-h3 ">
+            <div class="">
+                              
+                      
+    
+    
+    <a
+      href="https://www.hines.com/properties"
+      class="v-nav__link"
+      
+      
+    >Properties</a>
+  
+                          </div>
+                      </li>
+                  <li class="v-nav__item u-type-h3 expandable-list__item js-expandable-list-item">
+            <div class="js-expandable-list-trigger">
+                              <div class="v-nav__link">Insights</div>
+                          </div>
+                                        <div class="expandable-list__contents js-expandable-list-contents">
+                                                      <div class="v-nav__sublabel">INSIGHTS</div>
+                                                                        <div class="u-type-a">
+                      
+    
+    
+    <a
+      href="https://www.hines.com/insights"
+      class="v-nav__link"
+      
+      
+    >Overview</a>
+  </div>
+                                                                        <div class="u-type-a">
+                      
+    
+    
+    <a
+      href="https://www.hines.com/research"
+      class="v-nav__link"
+      
+      
+    >Proprietary Research</a>
+  </div>
+                                                </div>
+                      </li>
+                  <li class="v-nav__item u-type-h3 expandable-list__item js-expandable-list-item">
+            <div class="js-expandable-list-trigger">
+                              <div class="v-nav__link">About Us</div>
+                          </div>
+                                        <div class="expandable-list__contents js-expandable-list-contents">
+                                                      <div class="u-type-a">
+                      
+    
+    
+    <a
+      href="https://www.hines.com/about"
+      class="v-nav__link"
+      
+      
+    >About the Firm</a>
+  </div>
+                                                                        <div class="u-type-a">
+                      
+    
+    
+    <a
+      href="https://www.hines.com/about/staff-leadership"
+      class="v-nav__link"
+      
+      
+    >Leadership</a>
+  </div>
+                                                                        <div class="u-type-a">
+                      
+    
+    
+    <a
+      href="https://www.hines.com/sustainability"
+      class="v-nav__link"
+      
+      
+    >Sustainability</a>
+  </div>
+                                                                        <div class="u-type-a">
+                      
+    
+    
+    <a
+      href="https://www.hines.com/about/connecting-onehines"
+      class="v-nav__link"
+      
+      
+    >Connecting OneHines</a>
+  </div>
+                                                                        <div class="u-type-a">
+                      
+    
+    
+    <a
+      href="https://www.hines.com/news"
+      class="v-nav__link"
+      
+      
+    >News</a>
+  </div>
+                                                                        <div class="v-nav__sublabel">GEOGRAPHIES</div>
+                                                                        <div class="u-type-a">
+                      
+    
+    
+    <a
+      href="https://www.hines.com/locations/americas"
+      class="v-nav__link"
+      
+      
+    >Americas</a>
+  </div>
+                                                                        <div class="u-type-a">
+                      
+    
+    
+    <a
+      href="https://www.hines.com/locations/asia-pacific"
+      class="v-nav__link"
+      
+      
+    >Asia Pacific</a>
+  </div>
+                                                                        <div class="u-type-a">
+                      
+    
+    
+    <a
+      href="https://www.hines.com/locations/europe"
+      class="v-nav__link"
+      
+      
+    >Europe</a>
+  </div>
+                                                                        <div class="dropdown--nav-on-red">
+                      <div class="v-nav__sublabel">Locations</div>
+                      
+
+
+
+  
+  
+  
+  
+
+
+
+
+<div class="dropdown dropdown--list dropdown--nav js-location-dropdown">
+  <button class="dropdown__title js-location-title" aria-controls="dropdown-nav-countries">Choose a Country</button>
+  <div class="dropdown__links" aria-aria-labelledby="dropdown-nav-countries">
+
+                          <a href="https://www.hines.com/locations/usa" class="dropdown__link">United States</a>
+
+      
+                <a href="https://www.hines.com/locations/australia" class="dropdown__link">Australia</a>
+
+                <a href="https://www.hines.com/locations/brazil" class="dropdown__link">Brazil</a>
+
+                <a href="https://www.hines.com/locations/canada" class="dropdown__link">Canada</a>
+
+                <a href="https://www.hines.com/locations/costa-rica" class="dropdown__link">Costa Rica</a>
+
+                <a href="https://www.hines.com/locations/czechia" class="dropdown__link">Czechia</a>
+
+                <a href="https://www.hines.com/locations/france" class="dropdown__link">France</a>
+
+                <a href="https://www.hines.com/locations/germany" class="dropdown__link">Germany</a>
+
+                <a href="https://www.hines.com/locations/greater-china" class="dropdown__link">Greater China</a>
+
+                <a href="https://www.hines.com/locations/greece" class="dropdown__link">Greece</a>
+
+                <a href="https://www.hines.com/locations/india" class="dropdown__link">India</a>
+
+                <a href="https://www.hines.com/locations/ireland" class="dropdown__link">Ireland</a>
+
+                <a href="https://www.hines.com/locations/italy" class="dropdown__link">Italy</a>
+
+                <a href="https://www.hines.com/locations/japan" class="dropdown__link">Japan</a>
+
+                <a href="https://www.hines.com/locations/luxembourg" class="dropdown__link">Luxembourg</a>
+
+                <a href="https://www.hines.com/locations/mexico" class="dropdown__link">Mexico</a>
+
+                <a href="https://www.hines.com/locations/panama" class="dropdown__link">Panama</a>
+
+                <a href="https://www.hines.com/locations/poland" class="dropdown__link">Poland</a>
+
+                <a href="https://www.hines.com/locations/singapore" class="dropdown__link">Singapore</a>
+
+                <a href="https://www.hines.com/locations/south-korea" class="dropdown__link">South Korea</a>
+
+                <a href="https://www.hines.com/locations/spainandportugal" class="dropdown__link">Spain and Portugal</a>
+
+                <a href="https://www.hines.com/locations/the-netherlands" class="dropdown__link">The Netherlands</a>
+
+                <a href="https://www.hines.com/locations/united-arab-emirates" class="dropdown__link">United Arab Emirates</a>
+
+                <a href="https://www.hines.com/locations/united-kingdom" class="dropdown__link">United Kingdom</a>
+
+          
+  </div>
+</div>                    </div>
+                                                </div>
+                      </li>
+                  <li class="v-nav__item u-type-h3 expandable-list__item js-expandable-list-item">
+            <div class="js-expandable-list-trigger">
+                              <div class="v-nav__link">Careers</div>
+                          </div>
+                                        <div class="expandable-list__contents js-expandable-list-contents">
+                                                      <div class="u-type-a">
+                      
+    
+    
+    <a
+      href="https://www.hines.com/careers"
+      class="v-nav__link"
+      
+      
+    >Life at Hines</a>
+  </div>
+                                                                        <div class="u-type-a">
+                      
+    
+    
+    <a
+      href="https://www.hines.com/careers/experienced-professionals"
+      class="v-nav__link"
+      
+      
+    >Experienced Professionals</a>
+  </div>
+                                                                        <div class="u-type-a">
+                      
+    
+    
+    <a
+      href="https://www.hines.com/careers/graduates-and-interns"
+      class="v-nav__link"
+      
+      
+    >Internships and Early Careers</a>
+  </div>
+                                                                        <div class="u-type-a">
+                      
+    
+    
+    <a
+      href="https://www.hines.com/day-in-the-life"
+      class="v-nav__link"
+      
+      
+    >A Day in the Life</a>
+  </div>
+                                                                        <div class="u-type-a">
+                      
+    
+    
+    <a
+      href="https://careers-hines.icims.com/"
+      class="v-nav__link"
+      rel="noopener noreferrer"
+      target="_blank"
+    >Job Search</a>
+  </div>
+                                                                        <div class="dropdown--nav-on-red">
+                      <div class="v-nav__sublabel">Countries</div>
+                      
+
+
+
+  
+  
+  
+  
+
+
+
+
+<div class="dropdown dropdown--list dropdown--nav js-location-dropdown">
+  <button class="dropdown__title js-location-title" aria-controls="dropdown-nav-countries">Choose a Country</button>
+  <div class="dropdown__links" aria-aria-labelledby="dropdown-nav-countries">
+
+          
+                      <a href="https://www.hines.com/careers/locations/usa" class="dropdown__link">United States</a>
+
+            
+                          <a href="https://www.hines.com/careers/locations/australia" class="dropdown__link">Australia</a>
+
+                                  <a href="https://www.hines.com/careers/locations/brazil" class="dropdown__link">Brazil</a>
+
+                                  <a href="https://www.hines.com/careers/locations/canada" class="dropdown__link">Canada</a>
+
+                                  <a href="https://www.hines.com/careers/locations/costa-rica" class="dropdown__link">Costa Rica</a>
+
+                                                <a href="https://www.hines.com/careers/locations/france" class="dropdown__link">France</a>
+
+                                  <a href="https://www.hines.com/careers/locations/germany" class="dropdown__link">Germany</a>
+
+                                  <a href="https://www.hines.com/careers/locations/greater-china" class="dropdown__link">Greater China</a>
+
+                                  <a href="https://www.hines.com/careers/locations/greece" class="dropdown__link">Greece</a>
+
+                                  <a href="https://www.hines.com/careers/locations/india" class="dropdown__link">India</a>
+
+                                  <a href="https://www.hines.com/careers/locations/ireland" class="dropdown__link">Ireland</a>
+
+                                  <a href="https://www.hines.com/careers/locations/italy" class="dropdown__link">Italy</a>
+
+                                                <a href="https://www.hines.com/careers/locations/luxembourg" class="dropdown__link">Luxembourg</a>
+
+                                  <a href="https://www.hines.com/careers/locations/mexico" class="dropdown__link">Mexico</a>
+
+                                  <a href="https://www.hines.com/careers/locations/panama" class="dropdown__link">Panama</a>
+
+                                  <a href="https://www.hines.com/careers/locations/poland" class="dropdown__link">Poland</a>
+
+                                                              <a href="https://www.hines.com/careers/locations/spainandportugal" class="dropdown__link">Spain and Portugal</a>
+
+                                                              <a href="https://www.hines.com/careers/locations/united-kingdom" class="dropdown__link">United Kingdom</a>
+
+              
+    
+  </div>
+</div>                    </div>
+                                                </div>
+                      </li>
+                  <li class="v-nav__item u-type-h3 expandable-list__item js-expandable-list-item">
+            <div class="js-expandable-list-trigger">
+                              <div class="v-nav__link">Investor Login</div>
+                          </div>
+                                        <div class="expandable-list__contents js-expandable-list-contents">
+                                                      <div class="v-nav__sublabel">INVESTOR LOGIN</div>
+                                                                        <div class="u-type-a">
+                      
+    
+    
+    <a
+      href="https://app.junipersquare.com/i/hines"
+      class="v-nav__link"
+      
+      
+    >Hines Investor Portal</a>
+  </div>
+                                                                        <div class="u-type-a">
+                      
+    
+    
+    <a
+      href="https://secureaccountview.com/BFWeb/clients/hines/index"
+      class="v-nav__link"
+      rel="noopener noreferrer"
+      target="_blank"
+    >Hines Private Wealth Solutions</a>
+  </div>
+                                                </div>
+                      </li>
+        
+        <li class="v-nav__item-top u-type-h3">
+          <a
+            href="https://www.hines.com/search"
+            class="link link--alt link--icon link--search"
+          ><span class="v-nav__link">Search</span></a>
+        </li>
+      </ul>
+    </nav>
+  </div>
+</div>
+  </header>
+
+        <main class="l-main" id="main-content" tabindex="-1" role="main">
+                      
+    <div class="l-content l-content--w-margin l-content--better-together-where-infrastructure-and-real-estate-converge u-constrain-content">
+                    
+<header class="image-header image-header--with-action">
+    
+  
+    
+    
+    <img
+      alt="Better Together Where Infrastructure and Real Estate Converge"
+      
+      srcset="              https://hines-assets.s3.amazonaws.com/background-images/_330x125_crop_center-center_90_none/Better-Together-hero-Image_2400x1500-2.webp 330w,              https://hines-assets.s3.amazonaws.com/background-images/_660x250_crop_center-center_90_none/Better-Together-hero-Image_2400x1500-2.webp 660w,              https://hines-assets.s3.amazonaws.com/background-images/_990x375_crop_center-center_90_none/Better-Together-hero-Image_2400x1500-2.webp 990w,              https://hines-assets.s3.amazonaws.com/background-images/_1320x500_crop_center-center_90_none/Better-Together-hero-Image_2400x1500-2.webp 1320w,              https://hines-assets.s3.amazonaws.com/background-images/_1650x625_crop_center-center_80_none/Better-Together-hero-Image_2400x1500-2.webp 1650w,              https://hines-assets.s3.amazonaws.com/background-images/_1980x750_crop_center-center_80_none/Better-Together-hero-Image_2400x1500-2.webp 1980w,              https://hines-assets.s3.amazonaws.com/background-images/_2310x875_crop_center-center_80_none/Better-Together-hero-Image_2400x1500-2.webp 2310w,              https://hines-assets.s3.amazonaws.com/background-images/_2640x1000_crop_center-center_80_none/Better-Together-hero-Image_2400x1500-2.webp 2640w,              https://hines-assets.s3.amazonaws.com/background-images/_2970x1125_crop_center-center_80_none/Better-Together-hero-Image_2400x1500-2.webp 2970w          "
+
+      sizes="(min-width: 980px) 100vw,
+            100vw">
+          <div class="image-header__text-container">
+      <h1 class="heading heading--reversed heading--in-image image-header__heading">Better Together: Where Infrastructure and Real Estate Converge</h1>
+      <div class="image-header__subheading u-type-o">
+        
+      </div> 
+
+      
+          
+                      
+    
+    
+    <a
+      href="https://hines-assets.s3.amazonaws.com/documents/PerspectivesInfrastructure26.pdf"
+      class="btn btn--arrow"
+      rel="noopener noreferrer"
+      target="_blank"
+    >Download the Report</a>
+   
+           
+           
+    </div>
+
+  
+</header>
+
+          
+  <div class="l-page-detail l-page-detail--date-left">
+    <time class="page-publish-date page-publish-date--left link" datetime="2026-06-11">
+      June 11, 2026
+    </time>
+  </div>
+          <section class="l-content-grid l-content-grid--10-0 l-content-grid--text ">
+  <div class="l-content-grid__col">
+            <article class="text">
+          <style>
+.l-content-grid--text:has(.mar), .l-content-grid--12-0 {margin-top:2.5rem!important;}
+@media (min-width: 48em) {
+.long-headline{font-size: 3rem!important;}
+}
+.l-content-grid__col:has(.outlookComponent), .l-content-grid__col:has(.full-width) {
+ width:100%!important;
+}
+.l-content-grid--text:has(.component-margin) {margin-top:2.5rem;}
+.subscribeBox {
+background-color: lightgray;
+padding: 20px;
+text-align: center;
+position:relative;
+}
+.blackHead {color:#17212b;margin-bottom:3rem;font-size:2.8rem;}
+.perspectives {font-size:clamp(2rem, 0.478vw + 1.847rem, 2.5rem);}
+.bottomLink {text-decoration:underline;}
+.subscribeText p.intro {
+margin-top: -.25rem!important;
+}
+.subscribeBox p {
+margin-top: 0;
+}
+.SubscribeLine {
+width: 33%;
+max-width: 70px;
+margin: 30px auto 20px;
+background-color: #b70021;
+height:1px;
+border:none;
+}
+.l-content-grid--9-3 {
+margin-top: 0;
+ }
+.clearfix {clear:both;}
+figure:has(.sidebar-image) {margin: 1rem 0;}
+.subscribeBox a.btn {margin: 1rem 0;}
+.sidebar-image {max-width:150px;margin:0.25rem auto;}
+.mar-2-5-rem, #watch-now {
+margin-top:2.5rem!important;
+}
+.mar-1-rem {margin-top:1rem!important;}
+.subscribeBox .btn::before, .case-study .btn::before {
+ content: '';
+ position:absolute;
+ inset: 0;
+ z-index: 1;
+}
+.text-image-link {}
+.case-study {position:relative; box-shadow: 0 0 0 3px transparent;}
+.subscribeBox:focus-within .sidebar-image, .subscribeBox:hover .sidebar-image, .case-study:hover, .case-study:focus-within {
+ box-shadow: 0 0 0 3px #b70021;
+}
+.subscribeBox .btn:focus-within :focus, .case-study .btn:focus-within :focus {
+ box-shadow: none;
+ outline: none;
+}
+.visibility-hidden-d {
+visibility:hidden;
+}
+.redBullet {color:#b70021; font-size:2rem;} 
+.side-with-properties--aside {
+display:flex;
+flex-flow:column nowrap;
+gap: 1rem;
+}
+.aside-properties-wrapper {
+ display:flex;
+flex-flow: column nowrap;
+gap: 2.5rem;
+margin-top:2.5rem;
+}
+.aside-properties-property {
+ display:flex;
+flex-flow: row nowrap;
+gap: 2rem;
+align-items:center;
+ position:relative;
+}
+.aside-properties-property a::before {
+ content: '';
+ position:absolute;
+ inset: 0;
+ z-index: 1;
+}
+.aside-properties-property:focus-within, .aside-properties-property:hover {
+ box-shadow: 0 0 0 3px #b70021;
+}
+.aside-properties-property:focus-within :focus {
+ box-shadow: none;
+ outline: none;
+}
+.aside-properties-property-content-wrapper {
+display:flex;
+flex-flow: column nowrap;
+gap: 0.5rem;
+justify-items:center;
+}
+.aside-properties-property-name {
+font-size:2rem;
+}
+.aside-properties-property-link {
+font-family:PostGrotesk, "Helvetica Neue", Helvetica, Arial, sans-serif;
+font-size:1.4rem;
+font-weight:500;
+text-transform:uppercase;}
+.aside-properties-property-media-wrapper {max-width:90px;width:100%;height:90px;order:-1;}
+.aside-properties-property-media-wrapper figure, .aside-properties-property-media {width:100%;height:100%;object-fit:cover;}
+.full-width {width:100%!important;}
+.eighty {width:80%!important;}
+figcaption {font-family:TiemposHeadlineWeb,Georgia,Times,Times New Roman,serif; font-weight:500;font-size:1.4rem;}
+.quote-left {text-align:left; margin-top:0!important;}
+.quote-left .quote__quotation {width:100%!important;margin:0;background-position:top left; font-size:clamp(2.5rem, 0.956vw + 2.194rem, 3.5rem);}
+.quote__quotation {background-position: top left;padding: 2.5rem 0 0;}
+.quote--hanging-right .quote__quotation {padding-inline-end: 1rem;}
+.quote--middle {display:flex; align-items:center;}
+.black--text {color:#17212b!important;}
+.figcaption {
+font-family: TiemposHeadlineWeb,Georgia,Times,Times New Roman,serif;
+font-weight: 500;
+font-size: 1.4rem;
+}
+.red-separator-line:after {
+content: "";
+display: block;
+width: 4.1rem;
+height: 1px;
+margin-top: 4rem;
+border-bottom: 1px solid;
+border-color: #b70021;
+}
+.red-separator-line.span:after {margin-top:0;}
+.bottom-line:after {margin-top:0!important;}
+.wrap-balance {text-wrap:balance!important;}
+@media screen and (min-width: 80em) {
+    .quote--hanging-right {
+        margin-right: -7rem;}
+}
+.mar-3-5-rem {margin-top:3.5rem!important;}
+.mar-block-1-5-rem {margin-block: 0.5rem 1.5rem!important;}
+.mar-zero {margin-top:0!important;}
+.hidden {display:none!important;}
+.strong {font-weight:bold;}
+.footnoteLink {text-decoration:none;font-weight:bold;}
+.author-bio {
+display:flex;
+flex-flow: column nowrap;
+}
+.l-content-grid__col:has(.side-with-properties) {
+ width:100%!important;
+}
+.l-content-grid__col:has(.bottomFootnotes) {
+ width:100%!important;
+}
+@media screen and (min-width:768px) {
+.bottomFootnotes .u-type-footnote {column-count: 2;}
+.blockSpan {display:block!important;}
+}
+.side-with-properties--aside {
+display:flex;
+flex-flow:column nowrap;
+gap: 1rem;
+}
+.side-with-properties--aside h3 {text-transform:uppercase;}
+.aside-properties-wrapper {
+ display:flex;
+flex-flow: column nowrap;
+gap: 2.5rem;
+margin-top:2.5rem;
+}
+.aside-properties-property {
+ display:flex;
+flex-flow: row nowrap;
+gap: 1.5rem;
+align-items:center;
+position:relative;
+}
+.aside-properties-property-content-wrapper {
+display:flex;
+flex-flow: column nowrap;
+gap: 0.5rem;
+justify-content:center;
+}
+.aside-properties-property-name span {
+font-size:1.6rem;
+color:#b70021;
+font-weight:700;
+}
+.aside-properties-property-name {
+font-size:1.5rem;
+}
+.aside-properties-property-link {
+font-family:PostGrotesk, "Helvetica Neue", Helvetica, Arial, sans-serif;
+font-size:1.3rem;
+font-weight:500;
+text-transform:uppercase;}
+.aside-properties-property-media-wrapper {max-width:90px;width:100%;height:90px;order:-1;}
+.aside-properties-property-media-wrapper figure, .aside-properties-property-media {width:100%;height:100%;object-fit:cover;}
+.aside-properties-property-link::before {
+ content: '';
+ position: absolute;
+ inset: 0;
+ z-index: 1;
+ }
+.aside-properties-property:focus-within,
+ .aside-properties-property:hover {
+ box-shadow: 0 0 0 3px #b70021;
+ }
+.aside-properties-property-link:focus-within :focus {
+ box-shadow: none;
+ outline: none;
+ }
+li.number:before {
+content: "";
+display: block;
+height: auto;
+width: auto;
+position: absolute;
+background-color: transparent;
+font-weight:bold;
+color: #b70021;
+left: 0;
+top: 0;
+}
+li.first:before {
+content: "1.";
+}
+li.second:before {
+content: "2.";
+}
+li.third:before {
+content: "3.";
+}
+.case-study .quote__quotation {background-image:none;}
+.takeaways:after, .webcast:after, .red-line:after, #watch-now:after {
+content: "";
+display: block;
+width: 4.1rem;
+height: 1px;
+margin-top: 4rem;
+border-bottom: 1px solid;
+border-color: #b70021;
+}
+.red-line-side-after:after {
+content: "";
+display: block;
+width: 4.1rem;
+height: 1px;
+margin-top: 2rem;
+border-bottom: 1px solid;
+border-color: #b70021;
+}
+.red-line-side-before:before {
+content: "";
+display: block;
+width: 4.1rem;
+height: 1px;
+margin-bottom: 2rem;
+border-bottom: 1px solid;
+border-color: #b70021;
+}
+.author-bio .author-pic {order:-1; max-width:175px;}
+.red--strong {font-weight:bold;color:#b70021;}
+.black--strong {font-weight:bold;}
+.author-col {display:flex; flex-flow: row wrap; gap:2rem;}
+ .left-quote {
+display:grid;
+grid-template-columns: 1fr 3fr;
+gap: 1rem;
+}
+.about-author-single .l-content-grid {display:flex; flex-flow:column-reverse; gap: 2rem;}
+@media screen and (max-width:768px) {
+.reverse-mobile {display:flex; flex-flow: column-reverse; gap:2rem;}
+.about-author-single .l-content-grid__col {margin-top:1.5rem;}
+.top-btn .btn {margin-block-end:1rem; min-width:21rem; text-align:center;}
+.visibility-hidden-d, .hidden-m {
+display:none!important;
+}
+}
+@media only screen and (max-width:600px) {
+.left-quote {grid-template-columns: 1fr;}
+}
+.left-quote .quote--author figure {
+max-width:200px;
+width:100%;
+}
+}
+</style>
+        </article>
+      </div>
+</section>
+          
+<div class="audio-player left js-audio-player" data-player>
+
+  <div class="audio-header">
+
+    <button class="play-pause-btn" aria-label="Play / Pause">
+    <svg class="icon icon-play" viewBox="0 0 30 30" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <path d="M15 2.5C12.5277 2.5 10.111 3.23311 8.05537 4.60663C5.99976 5.98015 4.3976 7.93238 3.4515 10.2165C2.50541 12.5005 2.25787 15.0139 2.74018 17.4386C3.2225 19.8634 4.41301 22.0907 6.16116 23.8388C7.90932 25.587 10.1366 26.7775 12.5614 27.2598C14.9861 27.7421 17.4995 27.4946 19.7835 26.5485C22.0676 25.6024 24.0198 24.0002 25.3934 21.9446C26.7669 19.889 27.5 17.4723 27.5 15C27.5 13.3585 27.1767 11.733 26.5485 10.2165C25.9203 8.69989 24.9996 7.3219 23.8388 6.16117C22.6781 5.00043 21.3001 4.07969 19.7835 3.45151C18.267 2.82332 16.6415 2.5 15 2.5ZM12.5 20.625V9.375L20 15L12.5 20.625Z" fill="#B70021"/>
+    </svg>
+    <svg class="icon icon-pause" viewBox="0 0 30 30" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <path d="M15 2.5C8.09625 2.5 2.5 8.09625 2.5 15C2.5 21.9037 8.09625 27.5 15 27.5C21.9037 27.5 27.5 21.9037 27.5 15C27.5 8.09625 21.9037 2.5 15 2.5ZM13.75 20H11.25V10H13.75V20ZM18.75 20H16.25V10H18.75V20Z" fill="#B70021"/>
+    </svg>
+    </button>
+
+    <div class="audio-info">
+      <span class="listen-text"><p>Listen to article</p></span>
+      <span class="audio-dot"></span>
+      <span class="read-time">Read time: 0:00</span>
+    </div>
+
+  </div>
+
+  <div class="audio-progress">
+
+    <span class="current-time">0:00</span>
+
+    <input
+      type="range"
+      class="progress-bar"
+      min="0"
+      value="0"
+      step="1"
+    >
+
+    <span class="total-time">0:00</span>
+
+  </div>
+
+  <audio preload="metadata" data-id="1950368" data-title="Private Infrastructure and Real Estate Convergence Transcript Final 3 pdf">
+    <source src="https://hines-assets.s3.amazonaws.com/Private-Infrastructure-and-Real-Estate-Convergence-Transcript-Final-3.pdf.mp3" type="audio/mpeg">
+  </audio>
+
+</div>
+          <section class="l-content-grid l-content-grid--10-0 l-content-grid--text no-margin">
+  <div class="l-content-grid__col">
+            <article class="text">
+          <section class="outlookComponent"><div class="l-content-grid l-content-grid--9-3"><div class="l-content-grid__col subscribeText"><p class="black--strong">The boundary between infrastructure and real estate has become increasingly blurred, creating a broader real assets opportunity with complementary sources of resilience, income, and recovery-driven growth.</p><div class="takeaways mar-zero"><p class="red-separator-line bottom-line mar-zero">&nbsp;</p><h3 class="intro intro--m intro--strong mar-2-5-rem">Key Takeaways</h3><ul class="mar-2-5-rem"><li>Infrastructure and real estate increasingly overlap across the built environment. That convergence has become visible across assets such as data centers, logistics platforms, airports, convention centers, sports stadiums, social infrastructure such as healthcare and affordable housing, and mixed-use developments.</li><li>That convergence has potential implications for investors because the two sectors share common real-asset DNA but often deliver resilience, inflation sensitivity, income, and cyclical upside in different proportions.</li><li>This combination could be even more critical today as investors face increasingly volatile and uncertain markets. Within a broader real-assets framework, investors could use infrastructure for stability and durable income while using repriced private real estate for recovery-driven growth as supply constraints support fundamentals.</li><li>Hines Research has found that, historically, combining the two sectors in equal measure has improved return potential while maintaining relatively moderate volatility compared with more growth-oriented private market strategies.</li></ul><p class="mar-3-5-rem top-btn hidden"><a class="btn" href="#property-sector-trends" target="_self">Explore Property Sector Trends</a></p></div><p class="mar-2-5-rem">The past several years have forced many investors to rethink some long-held assumptions.</p><p class="mar-2-5-rem">Interest rates are no longer near zero. Public market valuations have remained elevated. Geopolitical tensions, industrial policy shifts, and supply chain realignment have been reshaping how and where capital is deployed. At the same time, AI and digital infrastructure demand have been putting enormous pressure on power systems, logistics networks, and physical infrastructure worldwide.</p></div><div class="l-content-grid__col"><div class="subscribeBox"><p class="intro--strong"><strong>Perspectives</strong></p><p class="mar-block-1-5-rem"><strong>Better Together: Where Infrastructure and Real Estate Converge</strong></p><div><img class="sidebar-image" src="https://hines-assets.s3.amazonaws.com/background-images/Better-Together-cover-060826-v2.jpg" alt=""></div><p><a class="btn" href="https://hines-assets.s3.amazonaws.com/documents/PerspectivesInfrastructure26.pdf" target="_blank"><strong>Download the Report</strong></a></p></div><p class="red--strong wrap-balance red-separator-line bottom-line mar-zero">&nbsp;</p><h3 class="intro intro--m mar-2-5-rem">Authors:</h3><p class="red--strong wrap-balance mar-1-rem">David Steinbach</p><p class="black--strong wrap-balance mar-zero">Global Chief Investment Officer</p><p class="red--strong wrap-balance mar-1-rem">Michael C. Hudgins</p><p class="black--strong wrap-balance mar-zero">Senior Managing Director - Research</p><p class="red--strong wrap-balance red-separator-line bottom-line mar-zero">&nbsp;</p><!-- case studies--><div class="side-with-properties--aside mar-2-5-rem hidden"><div class="text--minor red-line-side-before"><h3>Case Studies</h3></div><div class="aside-properties-wrapper red-line-side-after"><div class="aside-properties-property case-study"><div class="aside-properties-property-content-wrapper"><h4 class="aside-properties-property-name"><strong>83 Avenue Marceau</strong>&nbsp;<br>Paris</h4><p><a class="no-decoration aside-properties-property-link" href="/the-european-prime-office-rebound/83-avenue-marceau" target="_blank">View Case Study</a></p></div><div class="aside-properties-property-media-wrapper"><figure class="image"><img class="aside-properties-property-media" src="https://hines-assets.s3.amazonaws.com/misc/83-avenue-marceau-thumb.webp" alt=""></figure></div></div><div class="aside-properties-property case-study"><div class="aside-properties-property-content-wrapper"><h4 class="aside-properties-property-name"><strong>B'Ella Berlin</strong>&nbsp;<br>Berlin</h4><p><a class="no-decoration aside-properties-property-link" href="/the-european-prime-office-rebound/bella-berlin" target="_blank">View Case Study</a></p></div><div class="aside-properties-property-media-wrapper"><figure class="image"><img class="aside-properties-property-media" src="https://hines-assets.s3.amazonaws.com/misc/bella-berlin-thumb.webp" alt=""></figure></div></div><div class="aside-properties-property case-study"><div class="aside-properties-property-content-wrapper"><h4 class="aside-properties-property-name"><strong>Diagonal Vertical</strong>&nbsp;<br>Barcelona</h4><p><a class="no-decoration aside-properties-property-link" href="/the-european-prime-office-rebound/diagonal-vertical" target="_blank">View Case Study</a></p></div><div class="aside-properties-property-media-wrapper"><figure class="image"><img class="aside-properties-property-media" src="https://hines-assets.s3.amazonaws.com/misc/diagonal-vertical__thumb-v2.webp" alt=""></figure></div></div></div></div><!-- end case studies --></div></div></section>
+        </article>
+      </div>
+</section>
+          <section class="l-content-grid l-content-grid--10-0 l-content-grid--text no-margin">
+  <div class="l-content-grid__col">
+            <article class="text">
+          <p class="mar-2-5-rem">Public markets have performed well through much of this period, but many investors are questioning how durable those returns will be if growth slows or volatility rises.</p><p class="mar-2-5-rem">Some private market sectors also appear to be entering a more mature phase of the cycle. Private equity performance, for example, has increasingly tracked public equity markets over time, raising similar valuation concerns for investors looking to avoid concentrated market exposure (see <strong class="intro--strong">Figure 1</strong>). If investors are focused on elevated valuations in public equities, it could be difficult to ignore similar concerns across parts of private markets as well.</p>
+        </article>
+      </div>
+</section>
+          <section class="l-content-grid l-content-grid--10-0 l-content-grid--text no-margin">
+  <div class="l-content-grid__col">
+            <article class="text">
+          <h3 class="intro--strong mar-2-5-rem">
+    <strong>Figure 1:&nbsp;Both Public and Private Equity Markets Have Done Well But Track Each Other&nbsp;</strong><br>
+    <strong>&nbsp;-&nbsp;U.S. private equity total return performance indexed and compared to U.S. public equities</strong>
+</h3>
+<div class="full-width mar-zero" style="height:0px;overflow:hidden;padding:65.38% 0px 0px;position:relative;width:100%;will-change:transform;">
+    <iframe style="border-color:currentcolor;border-image:initial;border-style:none;border-width:medium;height:100%;left:0px;margin:0px;padding:0px;position:absolute;top:0px;width:100%;" loading="lazy" src="https://e.infogram.com/c43fe578-f6ed-4868-828e-9f02240a16a7?src=embed&amp;embed_type=responsive_iframe" title="U.S. Private Equity Total Return Performance Indexed and Compared to U.S. Public Equities" allowfullscreen="" allow="fullscreen"></iframe>
+</div>
+<p class="figcaption mar-zero">
+    Past performance cannot guarantee future results.&nbsp;
+</p>
+<p class="figcaption mar-zero">
+    Sources: MSCI-Burgiss, Hines Research. As of 3Q2025, the most recent data point available for the Private Equity data. Covers the trailing 15-year period. <a class="footnoteLink" href="#footnote1" target="_self"><sup>1</sup></a>
+</p>
+        </article>
+      </div>
+</section>
+          <section class="l-content-grid l-content-grid--10-0 l-content-grid--text no-margin">
+  <div class="l-content-grid__col">
+            <article class="text">
+          <p class="mar-2-5-rem">Recent headlines around rising debt fund redemption requests and downward pressure on lending rates suggest that the private corporate debt sector may be undergoing a natural cyclical moderation in total return potential. For investors focused on diversification, that may strengthen the case for looking beyond traditional private capital allocations.</p><p class="mar-2-5-rem"><a href="https://www.hines.com/news/real-assets-in-the-age-of-supply-shocks" rel="noopener noreferrer" target="_blank">Real assets</a> may offer a compelling alternative. Private infrastructure and real estate both provide exposure to hard assets tied to long-term economic activity. Historically, both sectors have delivered combinations of income, lower volatility, and some degree of inflation sensitivity relative to traditional public markets.</p><p class="mar-2-5-rem">Importantly, however, infrastructure and real estate do not behave in exactly the same way. That matters today because investors may be entering a period when stability, income generation, and recovery-driven growth become increasingly valuable.</p><h2 class="intro intro--strong mar-2-5-rem">Infrastructure Has Been Growing, But So Has the Opportunity in Real Estate</h2><p class="mar-2-5-rem">Institutional interest in infrastructure has grown steadily over the past decade and appears to be accelerating. Investors have been drawn to infrastructure’s long-duration cash flows, links to inflation, and defensive characteristics—particularly in a more uncertain macroeconomic environment.</p><p class="mar-2-5-rem">Global infrastructure fundraising increased sharply in 2025, outpacing other private asset classes (see <strong class="intro--strong">Figure 2</strong>). Demand has been fueled by energy investment, digital infrastructure growth, and the massive capital requirements associated with AI-related development.</p><h3 class="intro--strong mar-2-5-rem"><strong>Figure 2:&nbsp;While Global Private Market Fundraising Slowed From 2021-2024, Infrastructure (and Now Real Estate) Have Picked Up</strong></h3><div class="full-width mar-zero" style="height:0px;overflow:hidden;padding:65.38% 0px 0px;position:relative;width:100%;will-change:transform;"><iframe style="border-color:currentcolor;border-image:initial;border-style:none;border-width:medium;height:100%;left:0px;margin:0px;padding:0px;position:absolute;top:0px;width:100%;" loading="lazy" src="https://e.infogram.com/9ce60ef3-4b64-4e13-b11b-b17d51eef5a9?src=embed&amp;embed_type=responsive_iframe" title="While Overall Private Market Fundraising Slowed from 2021 to 2024, Infrastructure (and now Real Estate) Have Picked Up" allowfullscreen="" allow="fullscreen"></iframe></div><p class="figcaption mar-zero">Past performance cannot guarantee future results. Sources: Prequin, Hines Research. As of 2Q2026 but using only complete calendar years, so ending with 2025.</p>
+        </article>
+      </div>
+</section>
+          <section class="l-content-grid l-content-grid--10-0 l-content-grid--text no-margin">
+  <div class="l-content-grid__col">
+            <article class="text">
+          <p class="mar-2-5-rem">Data centers require <a href="https://www.hines.com/data-centers" rel="noopener noreferrer" target="_blank">powered land</a>, industrial facilities, and logistics networks. Manufacturing reshoring requires warehouses, housing, and transportation access. Population growth and urbanization have continued to support residential demand in supply-constrained markets.</p><p class="mar-2-5-rem">At the same time, real estate had already undergone a substantial repricing cycle. Values reset materially after interest rates started rising in 2022, and new development slowed sharply, in our opinion, a key precondition in the new recovery cycle (see <strong class="intro--strong">Figure 3</strong>).</p><h3 class="intro--strong mar-2-5-rem"><strong>Figure 3:&nbsp;U.S. and European Supply Is Slowing Sharply As New Construction Starts Have Fallen in Absolute Numbers</strong></h3><div class="full-width mar-zero" style="height:0px;overflow:hidden;padding:65.38% 0px 0px;position:relative;width:100%;will-change:transform;"><iframe style="border-color:currentcolor;border-image:initial;border-style:none;border-width:medium;height:100%;left:0px;margin:0px;padding:0px;position:absolute;top:0px;width:100%;" loading="lazy" src="https://e.infogram.com/3f1a479d-8497-4aea-94b3-c2b6fbfdb6b0?src=embed&amp;embed_type=responsive_iframe" title="U.S. and European Supply Is Slowing Sharply as New Construction Starts Have Fallen In Absolute Numbers" allowfullscreen="" allow="fullscreen"></iframe></div><p class="figcaption mar-zero">Past performance cannot guarantee future results. Sources: Left-Hand Chart: CoStar, Hines Research. As of 4Q2025. All data are aggregates for 54 major U.S. metro markets covered by CoStar. Right-Hand Chart: MSCI Real Capital Analytics, Hines Research. As of 4Q2025.</p>
+        </article>
+      </div>
+</section>
+          <section class="l-content-grid l-content-grid--10-0 l-content-grid--text no-margin">
+  <div class="l-content-grid__col">
+            <article class="text">
+          <p class="mar-2-5-rem">In prior periods, when supply was high, real estate rent growth could weaken, making constrained supply one of the most powerful forces in real estate. Across several key sectors, new development has slowed materially, creating conditions where even moderate growth in demand could support above-trend rent growth. In recent years, higher financing costs and elevated development hurdles have constrained new supply across many markets. In many sectors, development has become difficult to justify at current return expectations.</p><p class="mar-2-5-rem">Historically, those environments have created attractive entry points for long-term investors.</p><p class="mar-2-5-rem">Infrastructure could provide stability and durable income. Real estate may offer greater cyclical upside as markets recover and constrained supply begins to support fundamentals again. If historical recovery dynamics hold, we believe that real estate could experience a period of above-trend returns as markets and valuations normalize, though the pace and magnitude of the recovery will likely vary by sector and market.</p><p class="mar-2-5-rem"><strong>For investors, the opportunity may not be choosing between the two, but combining them.</strong></p>
+        </article>
+      </div>
+</section>
+          <section class="l-content-grid l-content-grid--10-0 l-content-grid--text no-margin">
+  <div class="l-content-grid__col">
+            <article class="text">
+          <div class="row bottom-text-box outlookComponent" id="webcastteaser">
+    <div class="col text_box">
+        <h3 class="intro--strong">
+            <strong>Webcast: The Age of Convergence: Opportunities &amp; Insights</strong>
+        </h3>
+        <p class="mar-2-5-rem">
+            <strong>Learn how real assets, infrastructure, and capital allocation are reshaping the future of investing.</strong>
+        </p>
+        <p class="mar-2-5-rem">
+            <a class="btn btn--arrow" href="https://www.hines.com/news/convergence-real-estate-opportunities-insights" target="_blank">Watch Now: The Age of Convergence Webcast</a>
+        </p>
+    </div>
+    <div class="col image_box">
+        <figure class="image">
+            <img src="https://hines-assets.s3.amazonaws.com/misc/Convergence-Webcast-Thumbnail-639x360.webp">
+        </figure>
+    </div>
+</div>
+<style>
+@media only screen and (min-width: 1400px) {
+.row {
+ display: flex;
+max-width:100%;
+}
+.text_box {
+/*width:55%!important;*/
+align-content:center;
+}
+/*.image_box {
+width:45%!important;
+}*/
+}
+.text_box {
+background-color: #e2e2e2;
+padding: 1.2em;
+}
+.col {
+width: 100%;
+}
+</style>
+        </article>
+      </div>
+</section>
+          <section class="l-content-grid l-content-grid--10-0 l-content-grid--text no-margin">
+  <div class="l-content-grid__col">
+            <article class="text">
+          <h2 class="intro intro--strong mar-2-5-rem">Real Assets Share Common DNA</h2><p class="mar-2-5-rem full-width">The distinction between infrastructure and real estate is often more institutional than economic, in our view. They became meaningfully separated as institutional asset classes in the 1980s and 1990s, primarily because of how large investors organized portfolios.</p><p class="mar-2-5-rem">Both asset classes are grounded in physical, income-producing assets tied to essential economic activity. Infrastructure investments may include utilities, transportation systems, digital infrastructure, and renewable power. Real estate includes traditional sectors such as living, industrial, and office, along with specialty sectors such as logistics, life sciences, and self-storage.</p><p class="mar-2-5-rem"><strong>Both asset classes also tend to offer:</strong></p><ul class="mar-2-5-rem"><li>Durable cash flow generation</li><li>Hard asset backing with residual value even in stressed market environments</li><li>Some degree of inflation sensitivity</li><li>Lower historical volatility than public equities</li><li>Exposure to long-term demographic and economic trends</li><li>Multiple risk and return profiles across core, value-add, and opportunistic strategies</li></ul><p class="mar-2-5-rem">Hines has observed overlap between the sectors themselves—think data centers, airports, convention centers, stadiums, affordable housing tied to public contracts, and transportation-oriented mixed-use developments (see <strong class="intro--strong">Figure 4</strong>).</p>
+        </article>
+      </div>
+</section>
+          <section class="l-content-grid l-content-grid--10-0 l-content-grid--text ">
+  <div class="l-content-grid__col">
+            <article class="text">
+          <style>
+.venn {
+  width: 1300px;
+  background-color:#fff;
+  min-height: 850px;
+  margin: 0 auto;
+    position: relative;
+  isolation: isolate;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.circle {
+  width: 950px;
+  height: 850px;
+  border-radius: 50%;
+  border: 2px solid;
+  position:absolute;
+  background-color: transparent;
+  padding: 1rem;
+  text-align:left;
+   display:flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  z-index: 2;
+}
+.circle1 {
+  left: 0;
+  border-color: transparent;
+  background-color: transparent;
+  box-shadow: inset 350px 0px 0 0px #E1EAF2;
+  align-items: flex-start;
+padding-bottom: 10rem;
+}
+.circle1 ul, .circle1 h3 {
+  margin-left:5rem;
+}
+.middleBg {
+    position: absolute;
+  width: 600px;
+  height: 785px;
+  background-color: #C6D8CB;
+  border-radius: 60%;
+  z-index: 1;
+}
+.circle2 {
+    width: 600px;
+  height: 650px;
+  position:absolute;
+  border-color: transparent;
+  background-color: transparent;
+  z-index: 3;
+}
+.circle2 ul {
+  margin-left:3rem;
+}
+.circle3 {
+  right: 0;
+  border-color: transparent;
+  background-color: transparent;
+  align-items: flex-end;
+  box-shadow: inset -350px 0px 0 0px #DCE3C5;
+}
+.circle3 ul {
+  margin-right:9rem;
+}
+.circle3 h3 {
+  margin-right:20rem;
+}
+.circle ul {
+  list-style-type: none;
+  padding-left:0!important;
+  overflow: visible;
+  max-width: 40rem;
+}
+.circle ul li {
+  margin-bottom: 1rem;
+  line-height:150%;
+  padding-left:0!important;
+margin-top:1rem;
+font-size: 1.6rem;
+font-weight: 600;
+display: flex;
+flex-direction: row;
+gap: 1rem;
+cursor: pointer;
+position: relative;
+}
+.circle li::after {
+  content: attr(data-tooltip);
+  position: absolute;
+  left: 50%;
+  top: calc(100% + 10px);
+  transform: translateX(-50%);
+  width: 100%;
+  padding: 12px;
+  background: #222;
+  color: #fff;
+  border-radius: 8px;
+  font-size: 1.4rem;
+  line-height: 1.4;
+  opacity: 0;
+  visibility: hidden;
+  pointer-events: none;
+  transition: opacity .2s ease;
+  z-index: 100;
+}
+/* Show on hover (desktop) */
+.circle li:hover::after,
+/* Show on focus (mobile tap) */
+.circle li:focus::after {
+  opacity: 1;
+  visibility: visible;
+}
+.circle ul li:before {display:none;}
+.circle2 li {font-size:2rem!important;}
+.circle2 h3 {
+  margin-top: 3rem;
+}
+.circle1 h3, .circle3 h3 {
+    padding-bottom: 1rem;
+}
+.small {font-size:smaller;}
+.circle h3 {font-weight: bold; font-size: 2rem;}
+.circle1:hover {box-shadow: inset 350px 0px 0 0px #9BB7D4;}
+.venn:has(.circle2:hover) .middleBg {background-color: #3E7D58;}
+.circle2:hover {color: #fff;}
+.circle3:hover {box-shadow: inset -350px 0px 0 0px #8DA33B;color: #fff;}
+.venn h3 img {width: 100px;}
+.liIcon {width: 30px; display: inline; max-width:unset;}
+.innerCol {display: flex;flex-direction: column; gap: .5rem;}
+.mobileTooltip {display: none;}
+@media screen and (max-width: 1300px) {
+    .venn {max-width: 100%; min-height: auto; flex-direction: row; padding: 2rem;overflow: visible;justify-content: center; align-items: center; margin: 0 auto;}
+    .middleBg {display: none;}
+    .circle {width: 100%; height: auto; position: relative; background-color: transparent;
+    align-items: flex-start; justify-content: flex-start; padding: 2rem 0rem;box-shadow: unset;}
+    .circle ul, .circle h3 {
+        margin: 0;
+        padding: 0;
+    }
+    .circle1:hover {box-shadow: unset;}
+.circle2:hover {color: inherit;}
+.circle3:hover {box-shadow: unset;color: inherit;}
+.circle ul li {font-size:1.6rem!important;}    
+.mobileTooltip {display: inline;}
+p:has(.liIcon) {width:30px!important;overflow:visible;}
+}
+@media screen and (max-width: 768px) {
+    .venn {max-width: 100%; flex-direction: column; padding: 2rem 0;overflow: visible;}    
+}
+@media screen and (max-width: 500px) {
+    .circle ul li {font-weight: normal;}   
+}
+</style>
+<h3 class="intro--strong mar-2-5-rem">
+    <strong>Figure 4:&nbsp;Real Assets Are Converging</strong>
+</h3>
+<section class="venn mar-1-rem">
+    <div class="circle circle1">
+        <h3>
+            <img src="https://hines-assets.s3.amazonaws.com/misc/html-components/Infrastructure.svg" alt="">Infrastructure
+        </h3>
+        <ul>
+            <li data-tooltip="Power generation, transmission, and utility systems.">
+                <img class="liIcon" src="https://hines-assets.s3.amazonaws.com/misc/html-components/Utilities-and-Power.svg" alt=""> <span>Utilities &amp; Power&nbsp;<sup class="mobileTooltip">i</sup></span>
+            </li>
+            <li data-tooltip="Rail, road, transit, ports, and mobility systems.">
+                <img class="liIcon" src="https://hines-assets.s3.amazonaws.com/misc/html-components/Transport.svg" alt=""> <span>Transport&nbsp;<sup class="mobileTooltip">i</sup></span>
+            </li>
+            <li data-tooltip="Fiber, towers, cloud networks, and digital connectivity.">
+                <p>
+                    <img class="liIcon" src="https://hines-assets.s3.amazonaws.com/misc/html-components/Digital-Insfrastructure.svg" alt="">
+                </p>
+                <div class="innerCol">
+                    <span>Digital Infrastructure </span><span class="small">Fiber, Towers, Data Networks&nbsp;<sup class="mobileTooltip">i</sup></span>
+                </div>
+            </li>
+            <li data-tooltip="Pipelines, processing, storage, and related energy systems.">
+                <img class="liIcon" src="https://hines-assets.s3.amazonaws.com/misc/html-components/Midstream-and-Pipeline.svg" alt=""> <span>Midstream Energy &amp; Pipelines&nbsp;<sup class="mobileTooltip">i</sup></span>
+            </li>
+            <li data-tooltip="Renewable power platforms and energy transition assets.">
+                <img class="liIcon" src="https://hines-assets.s3.amazonaws.com/misc/html-components/Renewables.svg" alt=""> <span>Renewables&nbsp;<sup class="mobileTooltip">i</sup></span>
+            </li>
+        </ul>
+    </div>
+    <div class="middleBg">
+        &nbsp;
+    </div>
+    <div class="circle circle2">
+        <ul>
+            <li data-tooltip="Facilities supporting compute, storage, AI, and cloud demand.">
+                <img class="liIcon" src="https://hines-assets.s3.amazonaws.com/misc/html-components/Data-Centers.svg" alt=""> <span>Data Centers&nbsp;<sup class="mobileTooltip">i</sup></span>
+            </li>
+            <li data-tooltip="Sites where power availability is central to real estate value.">
+                <p>
+                    <img class="liIcon" src="https://hines-assets.s3.amazonaws.com/misc/html-components/Powered-Land.svg" alt="">
+                </p>
+                <div class="innerCol">
+                    <span>Powered Land /Power-Ready Sites&nbsp;<sup class="mobileTooltip">i</sup></span>
+                </div>
+            </li>
+            <li data-tooltip="Transportation hubs with operational and real estate value.">
+                <img class="liIcon" src="https://hines-assets.s3.amazonaws.com/misc/html-components/Airports.svg" alt=""> <span>Airports&nbsp;<sup class="mobileTooltip">i</sup></span>
+            </li>
+            <li data-tooltip="Event assets blending civic infrastructure and destination real estate.">
+                <img class="liIcon" src="https://hines-assets.s3.amazonaws.com/misc/html-components/Convention-Centers.svg" alt=""> <span>Convention Centers&nbsp;<sup class="mobileTooltip">i</sup></span>
+            </li>
+            <li data-tooltip="Large-format venues with infrastructure, hospitality, and mixed-use ties.">
+                <img class="liIcon" src="https://hines-assets.s3.amazonaws.com/misc/html-components/Sports-Stadiums-and-Arenas.svg" alt=""> <span>Sports Stadiums &amp; Arenas&nbsp;<sup class="mobileTooltip">i</sup></span>
+            </li>
+            <li data-tooltip="Housing models often enabled by public-private partnerships.">
+                <p>
+                    <img class="liIcon" src="https://hines-assets.s3.amazonaws.com/misc/html-components/Affordable-Housing.svg" alt="">
+                </p>
+                <div class="innerCol">
+                    <span>Affordable Housing /Public-Private Partnerships&nbsp;<sup class="mobileTooltip">i</sup></span>
+                </div>
+            </li>
+            <li data-tooltip="Real estate development shaped by transportation infrastructure.">
+                <p>
+                    <img class="liIcon" src="https://hines-assets.s3.amazonaws.com/misc/html-components/Transit-Oriented-Developments.svg" alt="">
+                </p>
+                <div class="innerCol">
+                    <span>Transit-Oriented Developments&nbsp;<sup class="mobileTooltip">i</sup></span>
+                </div>
+            </li>
+            <li data-tooltip="Community assets such as schools, hospitals, and civic uses.">
+                <p>
+                    <img class="liIcon" src="https://hines-assets.s3.amazonaws.com/misc/html-components/Social-Infrastructure.svg" alt="">
+                </p>
+                <div class="innerCol">
+                    <span>Social Infrastructure</span><span class="small">Schools, Hospitals&nbsp;<sup class="mobileTooltip">i</sup></span>
+                </div>
+            </li>
+        </ul>
+    </div>
+    <div class="circle circle3">
+        <h3>
+            <img src="https://hines-assets.s3.amazonaws.com/misc/html-components/Real-Estate.svg" alt=""> Real Estate
+        </h3>
+        <ul>
+            <li data-tooltip="Residential and multifamily real estate.">
+                <img class="liIcon" src="https://hines-assets.s3.amazonaws.com/misc/html-components/Living.svg" alt=""> <span>Living&nbsp;<sup class="mobileTooltip">i</sup></span>
+            </li>
+            <li data-tooltip="Workplace, corporate, and office environments.">
+                <img class="liIcon" src="https://hines-assets.s3.amazonaws.com/misc/html-components/Office.svg" alt=""> <span>Office&nbsp;<sup class="mobileTooltip">i</sup></span>
+            </li>
+            <li data-tooltip="Hotels, lodging, and guest-centered assets.">
+                <img class="liIcon" src="https://hines-assets.s3.amazonaws.com/misc/html-components/Hospitality.svg" alt=""> <span>Hospitality&nbsp;<sup class="mobileTooltip">i</sup></span>
+            </li>
+            <li data-tooltip="Consumer-facing retail and destination environments.">
+                <img class="liIcon" src="https://hines-assets.s3.amazonaws.com/misc/html-components/Retail.svg" alt=""> <span>Retail&nbsp;<sup class="mobileTooltip">i</sup></span>
+            </li>
+            <li data-tooltip="Industrial, distribution, and warehouse properties.">
+                <img class="liIcon" src="https://hines-assets.s3.amazonaws.com/misc/html-components/Logistics-and-Warehouses.svg" alt=""> <span>Logistics &amp; Warehouses&nbsp;<sup class="mobileTooltip">i</sup></span>
+            </li>
+            <li data-tooltip="Self-storage facilities and operating real estate.">
+                <img class="liIcon" src="https://hines-assets.s3.amazonaws.com/misc/html-components/Self-Storage.svg" alt=""> <span>Self-Storage&nbsp;<sup class="mobileTooltip">i</sup></span>
+            </li>
+            <li data-tooltip="Labs, research, manufacturing, and life science properties.">
+                <img class="liIcon" src="https://hines-assets.s3.amazonaws.com/misc/html-components/Life-Sciences.svg" alt=""> <span>Life Sciences&nbsp;<sup class="mobileTooltip">i</sup></span>
+            </li>
+            <li data-tooltip="Land platforms for development, energy, and infrastructure adjacency.">
+                <img class="liIcon" src="https://hines-assets.s3.amazonaws.com/misc/html-components/Land.svg" alt=""> <span>Land&nbsp;<sup class="mobileTooltip">i</sup></span>
+            </li>
+        </ul>
+    </div>
+</section>
+        </article>
+      </div>
+</section>
+          <section class="l-content-grid l-content-grid--10-0 l-content-grid--text no-margin">
+  <div class="l-content-grid__col">
+            <article class="text">
+          <p class="mar-2-5-rem">
+    In our view, investors should move beyond siloed views of asset classes toward a broader understanding of how the built environment functions as a whole. Industrial assets have been supporting retail logistics and last-mile delivery. Airports have increasingly become consumer-oriented retail destinations. Residential buildings have incorporated hospitality and workplace functionality. Infrastructure and real estate have functioned less as separate categories and more as interconnected systems.
+</p>
+<p class="mar-2-5-rem">
+    Historically, both infrastructure and real estate have delivered attractive combinations of return, income, and lower volatility relative to many public market asset classes, though with different risk and return profiles across the two sectors (see <strong class="intro--strong">Figure 5</strong>).
+</p>
+<p class="mar-2-5-rem">
+    <strong>This convergence may create new opportunities for investors able to think holistically about real assets.</strong>
+</p>
+<h3 class="intro--strong mar-2-5-rem">
+    <strong>Figure 5:&nbsp;Private Markets Are Generally Low-Volatility and Rational&nbsp;</strong><br>
+    <strong>&nbsp;-&nbsp;IRR performance for private markets, trailing 15-year average annualized</strong>
+</h3>
+<div class="full-width mar-zero" style="height:0px;overflow:hidden;padding:65.38% 0px 0px;position:relative;width:100%;will-change:transform;">
+    <iframe style="border-color:currentcolor;border-image:initial;border-style:none;border-width:medium;height:100%;left:0px;margin:0px;padding:0px;position:absolute;top:0px;width:100%;" loading="lazy" src="https://e.infogram.com/b2bf63b1-323e-4167-a8fc-9cdd9595ce26?src=embed&amp;embed_type=responsive_iframe" title="Private Markets Are Generally Low Volatility and Rational" allowfullscreen="" allow="fullscreen"></iframe>
+</div>
+<p class="figcaption mar-zero">
+    Past performance cannot guarantee future results. Source: MSCI-Burgiss, Prequin, Hines Research. As of 3Q2025, the most recent data point available, for the trailing 15-year period.<a class="footnoteLink" href="#footnote2" target="_self"><sup>2</sup></a>
+</p>
+        </article>
+      </div>
+</section>
+          <section class="l-content-grid l-content-grid--10-0 l-content-grid--text no-margin">
+  <div class="l-content-grid__col">
+            <article class="text">
+          <h2 class="intro intro--strong mar-2-5-rem">
+    Better Together
+</h2>
+<p class="mar-2-5-rem">
+    Infrastructure and real estate often deliver similar benefits, but in different proportions.
+</p>
+<p class="mar-2-5-rem">
+    Core infrastructure has historically generated stable, income-oriented returns supported by regulated or contractual cash flows. Inflation protection is often embedded directly into pricing structures or concession agreements. Regulated utilities, for example, may benefit from contractual inflation linkage, regulated pricing structures, or rising replacement costs that allow revenues to increase alongside inflation.
+</p>
+<p class="mar-2-5-rem">
+    Infrastructure may also include development-oriented strategies that offer less immediate income and higher risk profiles, especially in sectors tied to digital infrastructure or energy transition development.
+</p>
+<p class="mar-2-5-rem">
+    Real estate could also provide attractive income generation, particularly in core and value-add strategies, but appreciation tends to play a larger role in total return. Real estate may benefit more directly from improving fundamentals, rental growth, and cyclical recoveries—notably after periods of market repricing, when supply constraints have begun to support occupancy and rent growth again.
+</p>
+<p class="mar-2-5-rem">
+    The relationship could become even more compelling when the two sectors are combined.
+</p>
+<p class="mar-2-5-rem">
+    Historically, adding real estate exposure to an infrastructure allocation improved return potential while only modestly increasing volatility (see <strong class="intro--strong">Figure 6</strong>). <strong>In Hines Research’s analysis, allocations combining infrastructure with up to 50% private real estate produced stronger risk-adjusted outcomes than infrastructure-only exposure</strong> while maintaining lower volatility than more growth-oriented private market strategies.
+</p>
+<p class="mar-2-5-rem">
+    Beyond that level, however, the incremental return benefit historically appeared less compelling relative to the additional risk assumed.
+</p>
+<h3 class="intro--strong mar-2-5-rem">
+    <strong>Figure 6:&nbsp;Real Estate and Infrastructure Are Better Together&nbsp;</strong><br>
+    <strong>&nbsp;-&nbsp;Select real estate/infrastructure blends with resulting IRR performance, 15-year avg. annualized</strong>
+</h3>
+<div class="full-width mar-zero" style="height:0px;overflow:hidden;padding:65.38% 0px 0px;position:relative;width:100%;will-change:transform;">
+    <iframe style="border-color:currentcolor;border-image:initial;border-style:none;border-width:medium;height:100%;left:0px;margin:0px;padding:0px;position:absolute;top:0px;width:100%;" loading="lazy" src="https://e.infogram.com/a8ee2bde-7071-40fe-9cb5-4b2c5f1e588f?src=embed&amp;embed_type=responsive_iframe" title="Real Estate and Infrastructure Are Better Together" allowfullscreen="" allow="fullscreen"></iframe>
+</div>
+<p class="figcaption mar-zero">
+    Past performance cannot guarantee future results. Source: MSCI-Burgiss, Prequin, Hines Research. As of 3Q2025, the most recent data point available, for the trailing 15-year period.<a class="footnoteLink" href="#footnote3" target="_self"><sup>3</sup></a>
+</p>
+        </article>
+      </div>
+</section>
+          <section class="l-content-grid l-content-grid--10-0 l-content-grid--text ">
+  <div class="l-content-grid__col">
+            <article class="text">
+          <p class="mar-2-5-rem">
+    That brings us to today. Infrastructure has remained comparatively resilient through the recent market adjustment. Real estate, meanwhile, appears to be early in its recovery cycle following the reset that began in 2022 (see <strong class="intro--strong">Figure 7</strong>). <strong>If historical recovery dynamics hold, real estate investors could experience a period of above-trend “catch-up” returns as markets normalize over the next several years, though we expect this will vary by sector and geographic region.</strong>
+</p>
+<p class="mar-2-5-rem">
+    Rather than replacing real estate exposure, rising infrastructure allocations may strengthen the case for pairing the two sectors together within a broader real assets strategy.
+</p>
+<h3 class="intro--strong mar-2-5-rem">
+    <strong>Figure 7:&nbsp;Global Private Real Estate Is Cycling with Its Downturn Seemingly Over&nbsp;</strong><br>
+    <strong>&nbsp;-&nbsp;Private market total return performance, indexed, trailing 15-year period</strong>
+</h3>
+<div class="full-width mar-zero" style="height:0px;overflow:hidden;padding:65.38% 0px 0px;position:relative;width:100%;will-change:transform;">
+    <iframe style="border-color:currentcolor;border-image:initial;border-style:none;border-width:medium;height:100%;left:0px;margin:0px;padding:0px;position:absolute;top:0px;width:100%;" loading="lazy" src="https://e.infogram.com/8dc6538d-050e-43c3-9f43-63869467a84e?src=embed&amp;embed_type=responsive_iframe" title="Global Private Real Estate is Cycling with its Downturn Seemingly Over" allowfullscreen="" allow="fullscreen"></iframe>
+</div>
+<p class="figcaption mar-zero">
+    Past performance cannot guarantee future results. Source: MSCI-Burgiss, NCREIF, ANREV, INREV, Hines Research. As of 3Q2025, the most recent data point available, for the trailing 15-year period.<a class="footnoteLink" href="#footnote4" target="_self"><sup>4</sup></a>
+</p>
+        </article>
+      </div>
+</section>
+          <section class="l-content-grid l-content-grid--10-0 l-content-grid--text no-margin">
+  <div class="l-content-grid__col">
+            <article class="text">
+          <section class="box-section"><h2 class="intro intro--strong mar-zero full-width">Data Centers and Powered Land: A Case Study in Convergence</h2><p class="mar-2-5-rem">We believe that few sectors better illustrate the convergence of infrastructure and real estate than data centers.</p><p class="mar-2-5-rem">The explosive growth of AI, cloud computing, and digital connectivity has accelerated demand for data center capacity globally. But increasingly, the opportunity could extend beyond the buildings themselves.</p><p class="mar-2-5-rem">Power availability, land entitlement, and infrastructure readiness have become critical bottlenecks in the development pipeline. The scarce resources have often not been capital but execution—securing land, procuring power, navigating entitlement processes, and delivering projects in supply-constrained markets.</p><p class="mar-2-5-rem"><i>This dynamic could create opportunities across both infrastructure and real estate strategies.</i></p><p class="mar-2-5-rem">Infrastructure investors may pursue long-duration digital infrastructure exposure through operational facilities and vertically integrated development strategies. Those investments may offer attractive return potential, but they also carry construction, leasing, and operational risk.</p><p class="mar-2-5-rem">Real estate managers, meanwhile, may approach the opportunity differently by focusing on powered land development and horizontal infrastructure. In many cases, managers may monetize sites before vertical construction begins, reducing exposure to facility construction and leasing risk while still seeking to benefit from growing demand for digital infrastructure capacity.</p><p class="mar-2-5-rem">In that sense, powered land may represent a differentiated risk-adjusted approach to the data center opportunity.</p><p class="mar-2-5-rem"><strong>Hines Research estimates that approximately </strong><a href="https://www.hines.com/powered-land" rel="noopener noreferrer" target="_blank"><strong>40,000 acres of powered land</strong></a><strong> may be required globally over the next five years to support projected data center demand.</strong> That includes just the ground under the data centers themselves, and we expect significant further demand for space for ancillary office, logistics, and industrial development surrounding those data centers.</p><p class="mar-2-5-rem">The opportunity may be particularly compelling in parts of Europe in the near to medium term, though the U.S. and Asia also continue to present attractive development opportunities.</p><p class="mar-2-5-rem">The broader implication has been that some of the most compelling opportunities across real assets may increasingly emerge where infrastructure and real estate overlap.</p></section>
+        </article>
+      </div>
+</section>
+          <section class="l-content-grid l-content-grid--10-0 l-content-grid--text no-margin">
+  <div class="l-content-grid__col">
+            <article class="text">
+          <h2 class="intro intro--strong mar-2-5-rem">Convergence Creates Opportunity</h2><p class="mar-2-5-rem full-width">Investing in real assets has become more capital-intensive, more operationally complex, and less defined by traditional asset class boundaries.</p><p class="mar-2-5-rem">Infrastructure continues to attract institutional capital because of its resilience, inflation sensitivity, and durable cash flows. Real estate, meanwhile, appears positioned to benefit from improving fundamentals, constrained supply, and a recovery already underway across several sectors. These complementary characteristics may prove even more valuable for investors concerned about the future of market growth and stability.&nbsp;</p><p class="mar-2-5-rem">But the more important point may be convergence. Digital infrastructure, logistics networks, powered land, social infrastructure, and mixed-use development have increasingly linked infrastructure and real estate into a more integrated investment universe.</p><p class="mar-2-5-rem">That shift may create a broader opportunity set for investors able to underwrite both sectors together. In our view, the most compelling opportunities in real assets are likely to emerge where infrastructure and real estate overlap—and capitalizing on them will require fluency in both.</p><p class="mar-2-5-rem">Infrastructure and real estate may prove more powerful together than apart. We believe investors should evaluate both asset classes together within a broader real-assets framework.</p>
+        </article>
+      </div>
+</section>
+          <section class="l-content-grid l-content-grid--10-0 l-content-grid--text no-margin">
+  <div class="l-content-grid__col">
+            <article class="text">
+          <section class="full-width"><p class="mar-2-5-rem"><strong>Download </strong><i><strong class="intro--strong">Better Together: Where Infrastructure and Real Estate Converge</strong></i><strong>&nbsp;&nbsp;to explore insights on these converging opportunities</strong>.</p><p class="mar-2-5-rem"><a class="btn btn--arrow" href="https://hines-assets.s3.amazonaws.com/documents/PerspectivesInfrastructure26.pdf" target="_blank">Download the Report</a></p></section>
+        </article>
+      </div>
+</section>
+          <section class="l-content-grid l-content-grid--10-0 l-content-grid--text ">
+  <div class="l-content-grid__col">
+            <article class="text">
+          <div class="u-type-footnote"><p><i>Represents subjective opinions of Hines. Other market participants may reasonably have differing opinions.</i></p></div>
+        </article>
+      </div>
+</section>
+          <section class="l-content-grid l-content-grid--10-0 l-content-grid--text no-margin">
+  <div class="l-content-grid__col">
+            <article class="text">
+          <style>
+.quote--middle {
+display:flex;
+align-items: flex-start;
+flex-direction: column;
+justify-content: center;
+}
+.mar-6-rem {margin-top:6rem!important;}
+</style><div class="component"><p class="red-separator-line bottom-line">&nbsp;</p><div class="about-author-single mar-6-rem"><p class="intro intro--l intro--strong">About the Authors</p></div></div><div class="left-quote"><div class="quote--author"><figure class="image"><img src="https://hines-assets.s3.amazonaws.com/staff-leadership/Steinbach-David-cropped-with-tie.jpg" alt="David Steinbach"></figure></div><div class="quote--quote quote--middle"><p class="intro intro--m"><a href="/about/staff-leadership/david-steinbach"><span class="intro--strong">David Steinbach</span></a>: Managing Partner, Global Chief Investment Officer</p><blockquote class="quote quote--medium"><p class="intro intro--s mar-1-rem">David Steinbach is the Global Chief Investment Officer and a Managing Partner at Hines, where he leads the firm’s global investment strategy and capital allocation across all 30 countries and product types. He is a member of the firm’s Management, Executive, and Investment Committees, playing a key role in shaping the firm’s long-term vision.</p></blockquote></div></div><div class="left-quote"><div class="quote--author"><figure class="image"><img src="https://hines-assets.s3.amazonaws.com/staff-leadership/Hudgins-Michael.webp" alt="David Steinbach"></figure></div><div class="quote--quote quote--middle"><p class="intro intro--m"><span class="intro--strong">Michael C. Hudgins</span>: Senior Managing Director - Research</p><blockquote class="quote quote--medium"><p class="intro intro--s mar-1-rem">Michael C. Hudgins is Senior Managing Director and the lead author of this paper. As a member of the Hines Research team, he is responsible for constructing the firm's macroeconomic view and the outlook for commercial real estate market fundamentals and pricing.</p></blockquote></div></div><p class="red-separator-line bottom-line">&nbsp;</p>
+        </article>
+      </div>
+</section>
+          <section class="l-content-grid l-content-grid--10-0 l-content-grid--text no-margin">
+  <div class="l-content-grid__col">
+            <article class="text">
+          <div class="u-type-footnote">
+    <p>
+        <strong>Sources:</strong>
+    </p>
+    <p id="footnote1">
+        <sup>1</sup>&nbsp;We use the 15-year period (1) to represent a full cycle starting with the recovery from the Great Recession property downturn through to current, which includes the most recent downturn in property values; and (2) as the period may be more representative of the expected performance for private markets, which are still relatively “young” markets relative to publicly traded stocks and bonds. As an example, as late as 2005 (the start of the trailing 20-year period), Global Infrastructure data was based on only 18 funds at the most, but by 2010, the start of the trailing 15-year period, that had grown to 62 funds, a deeper sample set. We use quarterly time-weighted total returns calculated by MSCI-Burgiss using actual transactions, valuations and flows for the Private Equity fund universe. Private Equity includes Buy-out, Expansion and Venture Capital funds.
+    </p>
+    <p>
+        &nbsp;
+    </p>
+    <p class="footnote2">
+        <sup>2</sup>&nbsp;We use the 15-year period (1) to represent a full cycle starting with the recovery from the Great Recession property downturn through to current, which includes the most recent downturn in property values; and (2) as the period may be more representative of the expected performance for private markets, which are still relatively “young” markets relative to publicly-traded stocks and bonds. As an example, as late as 2005 (the start of the trailing 20-year period), the Global Infrastructure series was based on only 18 funds at the most, but by 2010, the start of the trailing 15-year period, that had grown to 62 funds, a deeper sample set. We use internal rates of return on a quarterly basis created by MSCI-Burgiss using quarterly-updated valuations based on actual transactional flows data for the fund universe for each asset class shown. Private Equity includes Buy-Out, Expansion and Venture Capital. Private Corporate Debt is all Corporate Lending and includes Direct Lending, Opportunistic, Distressed Lending and Venture Debt. Global Private Infrastructure includes Core, Value-Add and Opportunistic funds, the latter included to consider the impact of doing Data Center development as part of infrastructure investment. Global Private Real Estate is a 50/50 weighted average of performance for Core Plus and Value-Add strategies with a portfolio variance formula used to calculate the standard deviation, hence considering inter-strategy correlations. The volatility is the average annualized volatility of the quarterly series of IRRs noted above.
+    </p>
+    <p>
+        &nbsp;
+    </p>
+    <p class="footnote3">
+        <sup>3</sup>&nbsp;We use the 15-year period (1) to represent a full cycle starting with the recovery from the Great Recession property downturn through to current, which includes the most recent downturn in property values; and (2) as the period may be more representative of the expected performance for private markets, which are still relatively “young” markets relative to publicly-traded stocks and bonds. As an example, as late as 2005 (the start of the trailing 20-year period), the Global Infrastructure series was based on only 18 funds at the most, but by 2010, the start of the trailing 15-year period, that had grown to 62 funds, a deeper sample set. We use internal rates of return on a quarterly basis created by MSCI-Burgiss using quarterly-updated valuations based on actual transactional flows data for the fund universe for each asset class shown. Global Private Infrastructure includes Core, Value-Add and Opportunistic funds, the latter included to consider the impact of doing Data Center development as part of infrastructure investment. Global Private Real Estate is a 50/50 weighted average of performance for Core Plus and Value-Add strategies with a portfolio variance formula used to calculate the standard deviation, hence considering inter-strategy correlations. The volatility is the average annualized volatility of the quarterly series of IRRs noted above. The blended return and risk are calculated from blended series of IRRs over the last 15 years, so average IRRs and the average annual volatility of the IRR series, so implicitly considers the impact of correlations.
+    </p>
+    <p>
+        &nbsp;
+    </p>
+    <p class="footnote4">
+        <sup>4</sup>&nbsp;We use the 15-year period (1) to represent a full cycle starting with the recovery from the Great Recession property downturn through to current, which includes the most recent downturn in property values; and (2) as the period may be more representative of the expected performance for private markets, which are still relatively “young” markets relative to publicly-traded stocks and bonds. As an example, as late as 2005 (the start of the trailing 20-year period), the Global Infrastructure series was based on only 18 funds at the most, but by 2010, the start of the trailing 15-year period, that had grown to 62 funds, a deeper sample set. We use quarterly time-weighted total returns calculated by MSCI-Burgiss using actual transactions, valuations and flows for the fund universe by alternative asset class shown. Global Private Infrastructure includes Core, Value-Add and Opportunistic funds, the latter included to consider the impact of doing Data Center development as part of infrastructure investment. Global Private Real Estate Debt is a 50/50 weighted average of performance for Core and Value-Add strategies.
+    </p>
+</div>
+        </article>
+      </div>
+</section>
+          <section class="l-content-grid l-content-grid--10-0 l-content-grid--text no-margin">
+  <div class="l-content-grid__col">
+            <article class="text">
+          <div class="u-type-footnote"><p><strong>Disclaimer</strong></p><p><i>The content herein and in the report is provided for informational purposes only. Nothing above or in the report constitutes investment, legal, or tax advice or recommendations. Such content should not be relied upon as a basis for making an investment decision and is not an offer of advisory services or an offer to invest in any product or asset class. It should not be assumed that any investment in an asset class described herein will be profitable. Any projections, estimates, forecasts, targets, prospects and/or opinions expressed in these materials are subject to change without notice. Opinions or beliefs expressed in these materials may differ or be contrary to opinions expressed by others. Certain information above and in the report has been obtained from third-party sources. Hines has not independently verified such information.</i></p></div>
+        </article>
+      </div>
+</section>
+          
+<section class="section section--paginationBanner section--bleed">
+  <div class="pagination-banner">
+    
+          <a href="https://www.hines.com/news/convergence-real-estate-opportunities-insights" class="pagination-banner__next">
+        <span class="pagination-banner__label">Next</span>
+        <h2 class="pagination-banner__title">Watch Now: The Age of Convergence Webcast</h2>
+      </a>
+      </div>
+</section>        </div>
+          
+
+
+<footer class="footer">
+    <div class="footer__section footer__section--top">
+        <div class="scroll-btn scroll-btn--label scroll-btn--up is-visible js-back-to-top-link">
+            <div class="scroll-btn__label link">Back to Top</div>
+        </div>
+        <div class="footer__blocks">
+                            <div class="footer__block">
+                                            
+                        <div class="footer-links">
+                            <h4 class="footer-links__heading">Contact</h4>
+                                                            <ul class="footer-links__list">
+                                                                            <li class="footer-links__item">
+                                            
+                      
+    
+    
+    <a
+      href="https://www.hines.com/contact"
+      class="footer-links__link"
+      
+      
+    >Contact Us</a>
+  
+                                        </li>
+                                                                    </ul>
+                                                    </div>
+                                            
+                        <div class="footer-links">
+                            <h4 class="footer-links__heading">Careers</h4>
+                                                            <ul class="footer-links__list">
+                                                                            <li class="footer-links__item">
+                                            
+                      
+    
+    
+    <a
+      href="https://www.hines.com/careers"
+      class="footer-links__link"
+      
+      
+    >Life at Hines</a>
+  
+                                        </li>
+                                                                            <li class="footer-links__item">
+                                            
+                      
+    
+    
+    <a
+      href="https://www.hines.com/careers/experienced-professionals"
+      class="footer-links__link"
+      rel="noopener noreferrer"
+      target="_blank"
+    >Experienced Professionals</a>
+  
+                                        </li>
+                                                                            <li class="footer-links__item">
+                                            
+                      
+    
+    
+    <a
+      href="https://www.hines.com/careers/graduates-and-interns"
+      class="footer-links__link"
+      
+      
+    >Internships and Early Careers</a>
+  
+                                        </li>
+                                                                            <li class="footer-links__item">
+                                            
+  
+                                        </li>
+                                                                            <li class="footer-links__item">
+                                            
+                      
+    
+    
+    <a
+      href="https://www.hines.com/day-in-the-life"
+      class="footer-links__link"
+      
+      
+    >A Day in the Life</a>
+  
+                                        </li>
+                                                                            <li class="footer-links__item">
+                                            
+                      
+    
+    
+    <a
+      href="https://careers-hines.icims.com/"
+      class="footer-links__link"
+      
+      
+    >Job Search</a>
+  
+                                        </li>
+                                                                    </ul>
+                                                    </div>
+                                            
+                        <div class="footer-links">
+                            <h4 class="footer-links__heading">Insights</h4>
+                                                            <ul class="footer-links__list">
+                                                                            <li class="footer-links__item">
+                                            
+                      
+    
+    
+    <a
+      href="https://www.hines.com/insights"
+      class="footer-links__link"
+      
+      
+    >Insights</a>
+  
+                                        </li>
+                                                                            <li class="footer-links__item">
+                                            
+                      
+    
+    
+    <a
+      href="https://www.hines.com/research"
+      class="footer-links__link"
+      
+      
+    >Proprietary Research</a>
+  
+                                        </li>
+                                                                    </ul>
+                                                    </div>
+                                                                    </div>
+                        <div class="footer__block">
+                        
+                        <div class="footer-links">
+                            <h4 class="footer-links__heading">Investment Management</h4>
+                                                            <ul class="footer-links__list">
+                                                                            <li class="footer-links__item">
+                                            
+                      
+    
+    
+    <a
+      href="https://www.hines.com/investment-management"
+      class="footer-links__link"
+      
+      
+    >Overview</a>
+  
+                                        </li>
+                                                                            <li class="footer-links__item">
+                                            
+                      
+    
+    
+    <a
+      href="https://www.hines.com/investment-management/strategies-and-products"
+      class="footer-links__link"
+      
+      
+    >Strategies and Products</a>
+  
+                                        </li>
+                                                                    </ul>
+                                                    </div>
+                                            
+                        <div class="footer-links">
+                            <h4 class="footer-links__heading">Properties</h4>
+                                                            <ul class="footer-links__list">
+                                                                            <li class="footer-links__item">
+                                            
+                      
+    
+    
+    <a
+      href="https://www.hines.com/properties"
+      class="footer-links__link"
+      
+      
+    >Overview</a>
+  
+                                        </li>
+                                                                    </ul>
+                                                    </div>
+                                                                    </div>
+                        <div class="footer__block">
+                        
+                        <div class="footer-links">
+                            <h4 class="footer-links__heading">Real Estate Services</h4>
+                                                            <ul class="footer-links__list">
+                                                                            <li class="footer-links__item">
+                                            
+                      
+    
+    
+    <a
+      href="https://www.hines.com/real-estate-services"
+      class="footer-links__link"
+      
+      
+    >Overview</a>
+  
+                                        </li>
+                                                                            <li class="footer-links__item">
+                                            
+                      
+    
+    
+    <a
+      href="https://www.hines.com/real-estate-services/development"
+      class="footer-links__link"
+      
+      
+    >Development</a>
+  
+                                        </li>
+                                                                            <li class="footer-links__item">
+                                            
+                      
+    
+    
+    <a
+      href="https://www.hines.com/real-estate-services/acquisitions-dispositions"
+      class="footer-links__link"
+      
+      
+    >Acquisitions &amp; Dispositions</a>
+  
+                                        </li>
+                                                                            <li class="footer-links__item">
+                                            
+                      
+    
+    
+    <a
+      href="https://www.hines.com/real-estate-services/management-services"
+      class="footer-links__link"
+      
+      
+    >Management Services</a>
+  
+                                        </li>
+                                                                            <li class="footer-links__item">
+                                            
+                      
+    
+    
+    <a
+      href="https://www.hines.com/real-estate-services/conceptual-construction"
+      class="footer-links__link"
+      
+      
+    >Conceptual Construction</a>
+  
+                                        </li>
+                                                                            <li class="footer-links__item">
+                                            
+                      
+    
+    
+    <a
+      href="https://www.thesq.com/"
+      class="footer-links__link"
+      rel="noopener noreferrer"
+      target="_blank"
+    >The Square: Flex Office</a>
+  
+                                        </li>
+                                                                    </ul>
+                                                    </div>
+                                                                    </div>
+                        <div class="footer__block">
+                        
+                        <div class="footer-links">
+                            <h4 class="footer-links__heading">About the Firm</h4>
+                                                            <ul class="footer-links__list">
+                                                                            <li class="footer-links__item">
+                                            
+                      
+    
+    
+    <a
+      href="https://www.hines.com/about"
+      class="footer-links__link"
+      
+      
+    >About the Firm</a>
+  
+                                        </li>
+                                                                            <li class="footer-links__item">
+                                            
+                      
+    
+    
+    <a
+      href="https://www.hines.com/about/staff-leadership"
+      class="footer-links__link"
+      
+      
+    >Leadership</a>
+  
+                                        </li>
+                                                                            <li class="footer-links__item">
+                                            
+                      
+    
+    
+    <a
+      href="https://www.hines.com/sustainability"
+      class="footer-links__link"
+      
+      
+    >Sustainability</a>
+  
+                                        </li>
+                                                                            <li class="footer-links__item">
+                                            
+                      
+    
+    
+    <a
+      href="https://www.hines.com/about/history"
+      class="footer-links__link"
+      
+      
+    >History</a>
+  
+                                        </li>
+                                                                            <li class="footer-links__item">
+                                            
+                      
+    
+    
+    <a
+      href="https://www.hines.com/about/connecting-onehines"
+      class="footer-links__link"
+      
+      
+    >Connecting OneHines</a>
+  
+                                        </li>
+                                                                            <li class="footer-links__item">
+                                            
+                      
+    
+    
+    <a
+      href="https://www.hines.com/news"
+      class="footer-links__link"
+      
+      
+    >News</a>
+  
+                                        </li>
+                                                                    </ul>
+                                                    </div>
+                                    </div>
+            
+                        <div class="footer__block">
+                <div class="footer-links">
+                    <h4 class="footer-links__heading">Geographies</h4>
+                                            <ul class="footer-links__list">
+                                                            <li class="footer-links__item">
+                                    
+                      
+    
+    
+    <a
+      href="https://www.hines.com/locations/americas"
+      class="footer-links__link"
+      
+      
+    >Americas</a>
+  
+                                </li>
+                                                            <li class="footer-links__item">
+                                    
+                      
+    
+    
+    <a
+      href="https://www.hines.com/locations/asia-pacific"
+      class="footer-links__link"
+      
+      
+    >Asia Pacific</a>
+  
+                                </li>
+                                                            <li class="footer-links__item">
+                                    
+                      
+    
+    
+    <a
+      href="https://www.hines.com/locations/europe"
+      class="footer-links__link"
+      
+      
+    >Europe</a>
+  
+                                </li>
+                                                    </ul>
+                                    </div>
+                <div class="footer-links">
+                                    </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="footer__section footer__section--bottom">
+                    <div class="h-nav">
+                <ul class="h-nav__list">
+                                                                    <li class="h-nav__item">
+                                                            
+                      
+    
+    
+    <a
+      href="https://myhines.sharepoint.com/sites/myhines"
+      class="h-nav__link link link--underline link--reversed"
+      rel="noopener noreferrer"
+      target="_blank"
+    >MyHines</a>
+  
+                                                    </li>
+                                                                    <li class="h-nav__item">
+                                                            
+                      
+    
+    
+    <a
+      href="https://www.hines.com/policies/privacy-policy"
+      class="h-nav__link link link--underline link--reversed"
+      
+      
+    >Privacy Policy</a>
+  
+                                                    </li>
+                                                                    <li class="h-nav__item">
+                                                            <button class="h-nav__link link link--underline link--reversed cmp-revoke-consent">Cookie Preferences</button>
+                                                    </li>
+                                                                    <li class="h-nav__item">
+                                                            
+                      
+    
+    
+    <a
+      href="https://www.hines.com/policies/terms-of-use"
+      class="h-nav__link link link--underline link--reversed"
+      
+      
+    >Terms of Use</a>
+  
+                                                    </li>
+                                                                    <li class="h-nav__item">
+                                                            
+                      
+    
+    
+    <a
+      href="https://www.hines.com/japan-disclaimer"
+      class="h-nav__link link link--underline link--reversed"
+      
+      
+    >Japan Disclaimer</a>
+  
+                                                    </li>
+                                                                    <li class="h-nav__item">
+                                                            
+                      
+    
+    
+    <a
+      href="https://www.hines.com/accessibility"
+      class="h-nav__link link link--underline link--reversed"
+      
+      
+    >Accessibility</a>
+  
+                                                    </li>
+                                    </ul>
+            </div>
+        
+        <div class="footer__social-icons">
+            <ul>
+                                    <li>
+                        
+<a href="https://www.linkedin.com/company/hines" class="social-icon" target="_blank" rel="noopener noreferrer">
+  <span class="u-isVisuallyHidden">LinkedIn</span>
+  <svg>
+    <use xlink:href="#sprites_social-linkedin" />
+  </svg>
+</a>
+                    </li>
+                                    <li>
+                        
+<a href="https://www.instagram.com/hines/" class="social-icon" target="_blank" rel="noopener noreferrer">
+  <span class="u-isVisuallyHidden">Instagram</span>
+  <svg>
+    <use xlink:href="#sprites_social-instagram" />
+  </svg>
+</a>
+                    </li>
+                                    <li>
+                        
+<a href="https://www.facebook.com/hinesglobal" class="social-icon" target="_blank" rel="noopener noreferrer">
+  <span class="u-isVisuallyHidden">Facebook</span>
+  <svg>
+    <use xlink:href="#sprites_social-facebook" />
+  </svg>
+</a>
+                    </li>
+                                    <li>
+                        
+<a href="https://twitter.com/hines" class="social-icon" target="_blank" rel="noopener noreferrer">
+  <span class="u-isVisuallyHidden">Twitter</span>
+  <svg>
+    <use xlink:href="#sprites_social-twitter" />
+  </svg>
+</a>
+                    </li>
+                                    <li>
+                        
+<a href="https://www.youtube.com/user/HinesGlobal" class="social-icon" target="_blank" rel="noopener noreferrer">
+  <span class="u-isVisuallyHidden">YouTube</span>
+  <svg>
+    <use xlink:href="#sprites_social-youtube" />
+  </svg>
+</a>
+                    </li>
+                            </ul>
+        </div>
+    </div>
+</footer>
+        </main>
+
+        
+<div class="l-content l-contact js-contact-drawer mfp-hide">
+ <h2 class="heading heading--strong">Contact Hines</h2>
+
+            
+<div class="l-contact l-contact-pw0  ">
+  
+      <div class="l-contact-grid l-contact-grid--half">
+      <div class="l-contact-grid__heading">Headquarters</div>
+
+      <div class="l-contact-grid__cols">
+
+                                      <div class="l-contact-grid__col">
+            <div class="contact-location">
+              <h3 class="contact-location__heading">
+                                  
+                              </h3>
+              <div class="contact-location__address">
+                                  <p>
+                    
+
+        845 Texas Avenue<br />Suite 3300<br />Houston, TX 77002<br/>
+
+          <br />
+      
+1 713 621 8000<br />
+
+
+
+                  </p>
+                              </div>
+            </div>
+          </div>
+                                      <div class="l-contact-grid__col">
+            <div class="contact-location">
+              <h3 class="contact-location__heading">
+                                  Hines U.K.
+                              </h3>
+              <div class="contact-location__address">
+                                  <p>
+                    
+
+        Grainhouse, 6 Dryden St<br />London WC2E 9NH<br/>
+
+          United Kingdom<br />
+      
+44 207 292 1900<br />
+
+
+
+                  </p>
+                              </div>
+            </div>
+          </div>
+                                      <div class="l-contact-grid__col">
+            <div class="contact-location">
+              <h3 class="contact-location__heading">
+                                  Asia Pacific Headquarters
+                              </h3>
+              <div class="contact-location__address">
+                                  <p>
+                    
+
+        Suites 2801-02, One Exchange Square<br />8 Connaught Place<br />Central, Hong Kong, SAR<br/>
+
+          China<br />
+      
+
+
+
+
+                  </p>
+                              </div>
+            </div>
+          </div>
+        
+      </div>
+    </div>
+      <div class="l-contact-grid l-contact-grid--half">
+      <div class="l-contact-grid__heading">Regional Offices</div>
+
+      <div class="l-contact-grid__cols">
+
+                                      <div class="l-contact-grid__col">
+            <div class="contact-location">
+              <h3 class="contact-location__heading">
+                                  <a href="https://www.hines.com/locations/east">
+                                  U.S. East Market
+                                  </a>
+                              </h3>
+              <div class="contact-location__address">
+                                  <p>
+                    
+
+        345 Hudson Street<br />12th Floor<br />New York, NY 10014<br/>
+
+          United States<br />
+      
+1 212 230 2300<br />
+
+
+
+                  </p>
+                              </div>
+            </div>
+          </div>
+                                      <div class="l-contact-grid__col">
+            <div class="contact-location">
+              <h3 class="contact-location__heading">
+                                  <a href="https://www.hines.com/locations/midwest">
+                                  U.S. Midwest Market
+                                  </a>
+                              </h3>
+              <div class="contact-location__address">
+                                  <p>
+                    
+
+        444 West Lake Street<br />Suite 2400<br />Chicago, IL 60606<br/>
+
+          United States<br />
+      
+1 312 419 4900<br />
+
+
+
+                  </p>
+                              </div>
+            </div>
+          </div>
+                                      <div class="l-contact-grid__col">
+            <div class="contact-location">
+              <h3 class="contact-location__heading">
+                                  <a href="https://www.hines.com/locations/sunbelt">
+                                  U.S. Sunbelt Market
+                                  </a>
+                              </h3>
+              <div class="contact-location__address">
+                                  <p>
+                    
+
+        T3 West Midtown<br />383 17th Street NW, Suite 100<br />Atlanta, GA  30363<br/>
+
+          United States<br />
+      
+1 770 206 5300<br />
+
+
+
+                  </p>
+                              </div>
+            </div>
+          </div>
+                                      <div class="l-contact-grid__col">
+            <div class="contact-location">
+              <h3 class="contact-location__heading">
+                                  <a href="https://www.hines.com/locations/west">
+                                  U.S. West Market
+                                  </a>
+                              </h3>
+              <div class="contact-location__address">
+                                  <p>
+                    
+
+        12101 W Olympic Blvd<br />Suite 200<br />Los Angeles, CA 90064<br/>
+
+          United States<br />
+      
+
+
+
+
+                  </p>
+                              </div>
+            </div>
+          </div>
+                                      <div class="l-contact-grid__col">
+            <div class="contact-location">
+              <h3 class="contact-location__heading">
+                                  <a href="https://www.hines.com/locations/asia-pacific">
+                                  Asia Pacific
+                                  </a>
+                              </h3>
+              <div class="contact-location__address">
+                                  <p>
+                    
+
+        Suites 2801-02, One Exchange Square<br />8 Connaught Place<br />Central, Hong Kong, SAR<br/>
+
+          China<br />
+      
+
+
+
+
+                  </p>
+                              </div>
+            </div>
+          </div>
+                                      <div class="l-contact-grid__col">
+            <div class="contact-location">
+              <h3 class="contact-location__heading">
+                                  <a href="https://www.hines.com/locations/europe">
+                                  Europe
+                                  </a>
+                              </h3>
+              <div class="contact-location__address">
+                                  <p>
+                    
+
+        Grainhouse, 6 Dryden St<br />London WC2E 9NH<br/>
+
+          United Kingdom<br />
+      
+44 207 292 1900<br />
+
+
+
+                  </p>
+                              </div>
+            </div>
+          </div>
+        
+      </div>
+    </div>
+      <div class="l-contact-grid l-contact-grid--half">
+      <div class="l-contact-grid__heading">International Offices</div>
+
+      <div class="l-contact-grid__cols">
+
+                                      <div class="l-contact-grid__col">
+            <div class="contact-location">
+              <h3 class="contact-location__heading">
+                                  <a href="https://www.hines.com/locations/australia">
+                                  Australia
+                                  </a>
+                              </h3>
+              <div class="contact-location__address">
+                                  <p>
+                    
+
+        Suite 5.02, Level 5<br />10 Bond Street<br />Sydney, NSW 2000<br/>
+
+          Australia<br />
+      
+61 2 9232 3137<br />
+
+
+
+                  </p>
+                              </div>
+            </div>
+          </div>
+                                      <div class="l-contact-grid__col">
+            <div class="contact-location">
+              <h3 class="contact-location__heading">
+                                  <a href="https://www.hines.com/locations/brazil">
+                                  Brazil
+                                  </a>
+                              </h3>
+              <div class="contact-location__address">
+                                  <p>
+                    
+
+        Av. das Nações Unidas, 12901<br />Torre Norte - 6 ° andar<br />São Paulo 04578-910<br/>
+
+          Brazil<br />
+      
+55 11 5504 7600<br />
+
+
+
+                  </p>
+                              </div>
+            </div>
+          </div>
+                                      <div class="l-contact-grid__col">
+            <div class="contact-location">
+              <h3 class="contact-location__heading">
+                                  <a href="https://www.hines.com/locations/canada">
+                                  Canada
+                                  </a>
+                              </h3>
+              <div class="contact-location__address">
+                                  <p>
+                    
+
+        81 Bay Street<br />Suite 3500<br />Toronto, ON M5J 0E7<br/>
+
+          Canada<br />
+      
+1 416 595 1949<br />
+
+
+
+                  </p>
+                              </div>
+            </div>
+          </div>
+                                      <div class="l-contact-grid__col">
+            <div class="contact-location">
+              <h3 class="contact-location__heading">
+                                  <a href="https://www.hines.com/locations/greater-china">
+                                  Greater China
+                                  </a>
+                              </h3>
+              <div class="contact-location__address">
+                                  <p>
+                    
+
+        Suite 333, Hyundai Motor Tower<br />38 Xiaoyun Road, Chaoyang District<br />Beijing, PRC 100027<br/>
+
+          China<br />
+      
+8610 8453 8855<br />
+
+
+
+                  </p>
+                              </div>
+            </div>
+          </div>
+                                      <div class="l-contact-grid__col">
+            <div class="contact-location">
+              <h3 class="contact-location__heading">
+                                  <a href="https://www.hines.com/locations/france">
+                                  France
+                                  </a>
+                              </h3>
+              <div class="contact-location__address">
+                                  <p>
+                    
+
+        66 Avenue Charles de Gaulle<br />Neuilly-sur-Seine, IDF 92522<br/>
+
+          France<br />
+      
+33 1 41 45 80 80<br />
+
+
+
+                  </p>
+                              </div>
+            </div>
+          </div>
+                                      <div class="l-contact-grid__col">
+            <div class="contact-location">
+              <h3 class="contact-location__heading">
+                                  <a href="https://www.hines.com/locations/germany">
+                                  Germany
+                                  </a>
+                              </h3>
+              <div class="contact-location__address">
+                                  <p>
+                    
+
+    Hines Immobilien GmbH<br />Joachimsthaler Str. 1<br />10623 Berlin<br/>
+      Germany<br />
+  
+49 30 726241 100<br />
+
+
+
+                  </p>
+                              </div>
+            </div>
+          </div>
+                                      <div class="l-contact-grid__col">
+            <div class="contact-location">
+              <h3 class="contact-location__heading">
+                                  <a href="https://www.hines.com/locations/greece">
+                                  Greece
+                                  </a>
+                              </h3>
+              <div class="contact-location__address">
+                                  <p>
+                    
+
+        Mitropoleos 3 <br />4th floor<br />Athens 10557<br/>
+
+          Greece<br />
+      
+30 210 364 7895<br />
+
+
+
+                  </p>
+                              </div>
+            </div>
+          </div>
+                                      <div class="l-contact-grid__col">
+            <div class="contact-location">
+              <h3 class="contact-location__heading">
+                                  <a href="https://www.hines.com/locations/india">
+                                  India
+                                  </a>
+                              </h3>
+              <div class="contact-location__address">
+                                  <p>
+                    
+
+        One Horizon Center<br />12th Floor<br />Gurugram, Haryana 122002<br/>
+
+          India<br />
+      
+91 124 480 2222<br />
+
+
+
+                  </p>
+                              </div>
+            </div>
+          </div>
+                                      <div class="l-contact-grid__col">
+            <div class="contact-location">
+              <h3 class="contact-location__heading">
+                                  <a href="https://www.hines.com/locations/ireland">
+                                  Ireland
+                                  </a>
+                              </h3>
+              <div class="contact-location__address">
+                                  <p>
+                    
+
+        One Central Plaza<br />Dame Street<br />Dublin, D02 K7K5<br/>
+
+          Ireland<br />
+      
+353 1 7999900<br />
+
+
+
+                  </p>
+                              </div>
+            </div>
+          </div>
+                                      <div class="l-contact-grid__col">
+            <div class="contact-location">
+              <h3 class="contact-location__heading">
+                                  <a href="https://www.hines.com/locations/italy">
+                                  Italy
+                                  </a>
+                              </h3>
+              <div class="contact-location__address">
+                                  <p>
+                    
+
+        Via Broletto 35<br />Milan 20121<br/>
+
+          Italy<br />
+      
+0039 02 896 292 65<br />  <br /><a href="/cdn-cgi/l/email-protection#3c75485d50451255525a537c545552594f125f5351"><span class="__cf_email__" data-cfemail="8ec7faefe2f7a0e7e0e8e1cee6e7e0ebfda0ede1e3">[email&#160;protected]</span></a>
+
+
+
+
+                  </p>
+                              </div>
+            </div>
+          </div>
+                                      <div class="l-contact-grid__col">
+            <div class="contact-location">
+              <h3 class="contact-location__heading">
+                                  <a href="https://www.hines.com/locations/japan">
+                                  Japan
+                                  </a>
+                              </h3>
+              <div class="contact-location__address">
+                                  <p>
+                    
+
+        Toranomon Hills Station Tower 32F<br />2-6-1 Toranomon Minato-ku <br />Tokyo 105-5532<br/>
+
+          Japan<br />
+      
+81 3 4520 3500<br />
+
+
+
+                  </p>
+                              </div>
+            </div>
+          </div>
+                                      <div class="l-contact-grid__col">
+            <div class="contact-location">
+              <h3 class="contact-location__heading">
+                                  <a href="https://www.hines.com/locations/luxembourg">
+                                  Luxembourg
+                                  </a>
+                              </h3>
+              <div class="contact-location__address">
+                                  <p>
+                    
+
+        2 rue du Fort Bourbon<br />Luxembourg L-1249<br/>
+
+          <br />
+      
++352 26 43 37 1<br />
+
+
+
+                  </p>
+                              </div>
+            </div>
+          </div>
+                                      <div class="l-contact-grid__col">
+            <div class="contact-location">
+              <h3 class="contact-location__heading">
+                                  <a href="https://www.hines.com/locations/mexico">
+                                  Mexico
+                                  </a>
+                              </h3>
+              <div class="contact-location__address">
+                                  <p>
+                    
+
+        Torre del Angel<br />Reforma 350<br />Mexico D.F. 06600<br/>
+
+          Mexico<br />
+      
+52 55 52428809<br />
+
+
+
+                  </p>
+                              </div>
+            </div>
+          </div>
+                                      <div class="l-contact-grid__col">
+            <div class="contact-location">
+              <h3 class="contact-location__heading">
+                                  <a href="https://www.hines.com/locations/the-netherlands">
+                                  The Netherlands
+                                  </a>
+                              </h3>
+              <div class="contact-location__address">
+                                  <p>
+                    
+
+        Omval 300, 2nd floor<br />Amsterdam 1096 HP<br/>
+
+          Netherlands<br />
+      
+31 208 960 510<br />
+
+
+
+                  </p>
+                              </div>
+            </div>
+          </div>
+                                      <div class="l-contact-grid__col">
+            <div class="contact-location">
+              <h3 class="contact-location__heading">
+                                  <a href="https://www.hines.com/locations/nordic-countries">
+                                  Nordic Countries
+                                  </a>
+                              </h3>
+              <div class="contact-location__address">
+                                  <p>
+                    
+
+    Store Kongensgade 59A, 1.th<br />1264 København K<br/>
+      Denmark<br />
+  
++45 314 848 45<br />
+
+
+
+                  </p>
+                              </div>
+            </div>
+          </div>
+                                      <div class="l-contact-grid__col">
+            <div class="contact-location">
+              <h3 class="contact-location__heading">
+                                  <a href="https://www.hines.com/locations/panama">
+                                  Panama
+                                  </a>
+                              </h3>
+              <div class="contact-location__address">
+                                  <p>
+                    
+
+        Torre B Piso 15<br />Torre de las Americas<br />Punta Pacifica, Panama City<br/>
+
+          Panama<br />
+      
+507 028 20 7375<br />
+
+
+
+                  </p>
+                              </div>
+            </div>
+          </div>
+                                      <div class="l-contact-grid__col">
+            <div class="contact-location">
+              <h3 class="contact-location__heading">
+                                  <a href="https://www.hines.com/locations/poland">
+                                  Poland
+                                  </a>
+                              </h3>
+              <div class="contact-location__address">
+                                  <p>
+                    
+
+        Wola Center<br />33 Przyokopowa Street<br />Warsaw 01-208<br/>
+
+          Poland<br />
+      
+48 22 351 2400<br />
+
+
+
+                  </p>
+                              </div>
+            </div>
+          </div>
+                                      <div class="l-contact-grid__col">
+            <div class="contact-location">
+              <h3 class="contact-location__heading">
+                                  <a href="https://www.hines.com/locations/spainandportugal">
+                                  Spain and Portugal
+                                  </a>
+                              </h3>
+              <div class="contact-location__address">
+                                  <p>
+                    
+
+        Paseo de la Castellana 110, 2º B <br />Madrid, MD 28046<br/>
+
+          Spain<br />
+      
+34 91 703 00 23<br />  <br /><a href="/cdn-cgi/l/email-protection#98d0f1f6fdebd5f9fceaf1fcb6cafdfbfde8ecf1f7f6d8f0f1f6fdebb6fbf7f5"><span class="__cf_email__" data-cfemail="feb697909b8db39f9a8c979ad0ac9b9d9b8e8a979190be9697909b8dd09d9193">[email&#160;protected]</span></a>
+
+
+
+
+                  </p>
+                              </div>
+            </div>
+          </div>
+                                      <div class="l-contact-grid__col">
+            <div class="contact-location">
+              <h3 class="contact-location__heading">
+                                  <a href="https://www.hines.com/locations/south-korea">
+                                  South Korea
+                                  </a>
+                              </h3>
+              <div class="contact-location__address">
+                                  <p>
+                    
+
+        8F, D1, D Tower<br />17, Jong-ro 3-gil, Jongno-gu<br />Seoul 03155<br/>
+
+          South Korea<br />
+      
+82 2 6952 5203<br />
+
+
+
+                  </p>
+                              </div>
+            </div>
+          </div>
+                                      <div class="l-contact-grid__col">
+            <div class="contact-location">
+              <h3 class="contact-location__heading">
+                                  <a href="https://www.hines.com/locations/united-kingdom">
+                                  United Kingdom
+                                  </a>
+                              </h3>
+              <div class="contact-location__address">
+                                  <p>
+                    
+
+        Grainhouse, 6 Dryden St<br />London WC2E 9NH<br/>
+
+          United Kingdom<br />
+      
+44 207 292 1900<br />
+
+
+
+                  </p>
+                              </div>
+            </div>
+          </div>
+        
+      </div>
+    </div>
+  </div>
+          <section class="l-content-grid l-content-grid--10-0 l-content-grid--text no-margin">
+  <div class="l-content-grid__col">
+            <article class="text">
+          <style>
+.l-press-contact-footer--w-title {margin-bottom:unset;}
+.important-notes {margin-block:2rem 3rem;}
+.important-notes p, .important-notes li {margin-top:1rem!important;}
+</style>
+<section class="important-notes">
+    <div class="u-type-footnote">
+        <p>
+            <strong>Important Notice:</strong>
+        </p>
+        <p>
+            We have identified instances of unauthorized use of our firm’s name and branding on digital platforms. These impersonation attempts may include fraudulent websites, emails, or social media accounts misrepresenting our firm or its affiliates. To safeguard your interactions:
+        </p>
+        <ul>
+            <li>
+                Engage only through our verified communication channels and official website: <a href="https://www.hines.com">https://www.hines.com</a>
+            </li>
+            <li>
+                Be cautious of unsolicited messages, offers, or requests for sensitive information.
+            </li>
+            <li>
+                Verify domain names and sender details before responding or clicking on links.
+            </li>
+            <li>
+                Report any suspicious activity to our team at <a href="/cdn-cgi/l/email-protection#7505071006061a13131c1610351d1c1b10065b161a18"><span class="__cf_email__" data-cfemail="4e3e3c2b3d3d212828272d2b0e2627202b3d602d2123">[email&#160;protected]</span></a>.
+            </li>
+        </ul>
+        <p>
+            We are actively monitoring and addressing these threats to protect the integrity of our brand and safeguard our stakeholders. Your vigilance and cooperation are greatly appreciated.
+        </p>
+    </div>
+</section>
+        </article>
+      </div>
+</section>
+        </div>
+      </div>
+
+            
+            <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="/dist/scripts/app-078b907b7a36953ba9cb.js" integrity= "sha384-wb8+SF229qjivMbZOEPdwsxdvMqJLzJAslp/k6Z+pJABd12m0z7qwiQjGC6XHBcU" crossorigin= "anonymous"></script>
+
+            <div data-external-link-modal class="modal popup" role="dialog" aria-live="polite" hidden>
+        <div class="modal__content">
+          <div class="modal__content--inner">
+                          <div class="modal__hd">
+                <h3 class="type-h5 type-brand">You are now leaving the Hines website</h3>
+              </div>
+                        <hr class="modest">
+            <div class="modal__bd">
+                              <div class="user-content">
+                  <p>The content you requested is published by the following website:</p>
+                </div>
+                          </div>
+            <div class="modal__exhibit">
+              <div>
+                <strong data-external-link-domain class="type-body-bold"></strong>
+              </div>
+              <div class="modal__specimen">
+                <span data-external-link-href class="type-sans-body"></span>
+              </div>
+            </div>
+            <hr class="modest">
+            <div class="modal__ft">
+              <a data-external-link-forward href="" target="_blank" rel="noopener noreferrer" class="button button--mini">Continue</a>
+              <button data-external-link-close class="button button--inverted button--mini" type="button">Close</button>
+            </div>
+          </div>
+        </div>
+      </div>
+    <script type="application/ld+json">{"@context":"http://schema.org","@graph":[{"@type":"WebPage","author":{"@id":"https://www.hines.com/#identity"},"copyrightHolder":{"@id":"https://www.hines.com/#identity"},"copyrightYear":"2026","creator":{"@id":"#creator"},"dateCreated":"2026-06-01T09:57:06-05:00","dateModified":"2026-06-11T09:49:07-05:00","datePublished":"2026-06-11T00:30:00-05:00","description":"Understand the roles of private infrastructure and real estate in asset portfolios. This guide offers insights on benefits, risks, liquidity, and valuation for institutional investors.","headline":"Private Infrastructure & Real Estate: Guide to Real Assets 2026","image":{"@type":"ImageObject","url":"https://hines-assets.s3.amazonaws.com/misc/_1200x630_crop_center-center_82_none/Better-Together-meta-Image-2.webp?mtime=1780586357"},"inLanguage":"en-us","mainEntityOfPage":"https://www.hines.com/better-together-where-infrastructure-and-real-estate-converge","name":"Private Infrastructure & Real Estate: Guide to Real Assets 2026","publisher":{"@id":"#creator"},"url":"https://www.hines.com/better-together-where-infrastructure-and-real-estate-converge"},{"@id":"https://www.hines.com/#identity","@type":"Organization","address":{"@type":"PostalAddress","addressCountry":"US","addressLocality":"Houston","addressRegion":"TX","postalCode":"77056","streetAddress":"2800 Post Oak Blvd."},"description":"Hines is a privately owned global real estate investment, development and management firm, founded in 1957, with a presence in 240 cities in 27 countries.","image":{"@type":"ImageObject","height":"158","url":"https://s3.us-east-1.amazonaws.com/hines-assets/misc/hines-seomatic.png?mtime=20190718142803&focal=none","width":"334"},"logo":{"@type":"ImageObject","height":"60","url":"https://hines-assets.s3.amazonaws.com/misc/_600x60_fit_center-center_82_none/hines-seomatic.png?mtime=1639777869","width":"127"},"name":"Hines","sameAs":["https://twitter.com/hines","https://www.facebook.com/hinesglobal","https://www.linkedin.com/company/hines/","https://www.youtube.com/user/HinesGlobal","https://www.instagram.com/hines/","https://en.wikipedia.org/wiki/Hines_Interests_Limited_Partnership"],"telephone":"713 621 8000","url":"https://www.hines.com/"},{"@id":"#creator","@type":"WebPage","inLanguage":"en-us"},{"@type":"BreadcrumbList","description":"Breadcrumbs list","itemListElement":[{"@type":"ListItem","item":"https://www.hines.com/","name":"Home","position":1},{"@type":"ListItem","item":"https://www.hines.com/better-together-where-infrastructure-and-real-estate-converge","name":"Better Together Where Infrastructure and Real Estate Converge","position":2}],"name":"Breadcrumbs"}]}</script><script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'a16915a37aae6d82',t:'MTc4MzI4Mjk3NQ=='};var a=document.createElement('script');a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+  </html>
+<!-- Cached by Blitz on 2026-07-01T13:07:00-05:00 -->
